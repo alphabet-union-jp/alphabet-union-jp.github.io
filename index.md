@@ -51,6 +51,8 @@ JMITUは、引き続きGoogleJapan合同会社で働く労働者が希望を持�
 <a class="twitter-timeline" data-height="300" href="https://twitter.com/Alphabetunionjp?ref_src=twsrc%5Etfw">Tweets by Alphabetunionjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # 寄付先
+私たちは、ボランティアで活動しています。交通費、印刷代、郵便代など様々な経費がかかります。  
+少額でもお気持ちをいただけたら大変心強いです。みなさまからのご支援は、組合活動に使わせていただきます。  
 TODO: 銀行口座を記入
 
 # 問い合わせ先
