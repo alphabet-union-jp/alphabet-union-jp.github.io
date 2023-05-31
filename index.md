@@ -48,7 +48,7 @@ JMITUは、引き続きGoogleJapan合同会社で働く労働者が希望を持�
 [問い合わせ](mailto:au.jmitu@gmail.com)
 
 # Twitter
-[Follow our twitter](https://twitter.com/alphabetunionjp)
+<a class="twitter-timeline" data-height="300" href="https://twitter.com/Alphabetunionjp?ref_src=twsrc%5Etfw">Tweets by Alphabetunionjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # 寄付先
 TODO: 銀行口座を記入
