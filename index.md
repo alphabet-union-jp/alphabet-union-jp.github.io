@@ -31,8 +31,14 @@ JMITUは、引き続きGoogleJapan合同会社で働く労働者が希望を持�
 -------------仮文--------------  
 [問い合わせ](mailto:au.jmitu@gmail.com)
 
+# 記事に取り上げていただきました
+ [グーグル社員の告白｢退職する以外に選択肢はなかった｣。育休中社員が語ったこと](https://www.businessinsider.jp/post-268498) (4/18 ビジネスインサイダー)  
+[グーグル日本法人の〝大規模〟リストラに従業員ら反発
+初の労組結成、団体交渉](https://www.kinyobi.co.jp/kinyobinews/2023/04/15/antena-1243/) (4/15 週刊金曜日)  
+[グーグル日本　労組結成の思い](https://www.jcp.or.jp/akahata/aik22/2023-03-29/2023032901_08_0.html) (3/29 新聞あかはた)  
+[日本グーグルに労組 ＪＭＩＴＵ支部 同意ない解雇やめよ](https://www.jcp.or.jp/akahata/aik22/2023-03-02/2023030201_03_0.html) (3/2 新聞あかはた)  
 
-# 労働局に指導の申請をしました
+# 5/25 労働局に指導の申請をしました
 5月25日、東京都労働局に育児・介護休業法違反の指導を要請しました。現在、労働局が違法行為があったかの審査を行っています。  
 争点はふたつあります。退職勧奨の領域を超えた退職強要があったかどうかと、育児・介護休業法違反に該当するかどうかです。  
 退職強要は、対象者が「断ったら不利益な扱いを受ける」という錯誤を誘導する行為を会社が行ったことが客観的に証明できるかどうかがポイントとなります。  
@@ -42,7 +48,6 @@ JMITUは、引き続きGoogleJapan合同会社で働く労働者が希望を持�
 [問い合わせ](mailto:au.jmitu@gmail.com)
 
 # Twitter
-<a class="twitter-timeline" href="https://twitter.com/Alphabetunionjp?ref_src=twsrc%5Etfw">Tweets by Alphabetunionjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 [Follow our twitter](https://twitter.com/alphabetunionjp)
 
 # 寄付先
@@ -52,7 +57,7 @@ TODO: 銀行口座を記入
 組合員の負担は、月々2000円の組合費の支払いと、年に一回の総会での投票のふたつです。
 会社に組合への加入を知らせる必要はありません。あなたのプライバシーは守られます。  
 Alphabet傘下の会社で働く人なら、正規・非正規を問わず加入できます。
-退職勧奨・ハラスメントなど、職場のトラブルに備えた加入をオススメします。  
+私たちにとっても、一人でも数が多いほど会社に影響力を持てますし、加入者にとっても、退職勧奨・ハラスメントなど、職場のトラブルに備えることができます。  
 加入をご希望の方は、オンライン面談希望日時を添えて以下のメールアドレスにメールをお送りください。  
-相談、取材の申し込みも受け付けています。  
-[au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)
+労働相談、取材の申し込みも受け付けています。  
+JMITU AU支部 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
