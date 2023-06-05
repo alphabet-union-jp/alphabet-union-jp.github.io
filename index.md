@@ -1,4 +1,5 @@
 # JMITU Alphabet Union
+[English](#The-Problems-with-Googles-Layoffs-That-You-Should-Know-About)  
 [問い合わせ](mailto:au.jmitu@gmail.com)
 
 # 知ってほしいGoogleのレイオフが抱える問題
