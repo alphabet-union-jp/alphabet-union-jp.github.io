@@ -1,10 +1,7 @@
-# JMITU Alphabet Union
+# JMITU Alphabet Union (Google)
 Googleでの大規模レイオフに対抗するため、JMITU Alphabet Unionは結成されました。Googleは退職勧奨の名目で、強引なやり方で社員を退職に追い込みました。とりわけ、産休・育休中の人を対象としたことは、社会的に大きな問題だと考えます。他の会社にこのやり方を広げさせないためにも、どうか、Googleでなにが起きているのかを知り、広め、後押ししてください。
 
 [English](#the-problems-with-googles-layoffs-that-you-should-know-about)  
-
-
-[6/7 当事者からの手紙を追加しました](#当事者からの手紙)  
 [問い合わせ](mailto:au.jmitu@gmail.com)
 
 目次
