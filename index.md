@@ -203,6 +203,7 @@ SNSのフォローよろしくお願いします
 団体交渉と労働委員会への指導要請は、労働組合にだけ法律上認められた権利です。  
 会社は一社員からの意見に応える義務はありませんが、労働組合からの意見や質問には、誠実に納得のいく説明をする法律上の義務があります。
 退職勧奨の対象者が何度問い合わせても答えなかった「この退職勧奨は断ることはできるのか」という質問について、会社は団体交渉でははっきりと「この退職勧奨は任意です」と応えました。  
+退職勧奨についてのQ&Aは[こちら](https://docs.google.com/document/d/1ZMeRDBS-l7Xr0NCDWtj_CNGqFk7k5vcrFGOvdDaXKj8/edit?usp=sharing)も参照してください。
 Googleは社員からオープンに意見を募集する文化のある企業ですが、それでも、このように、一社員として質問した場合には答えてもらえなかったが、労働組合経由で質問した場合には返答がもらえる場合があります。  
 労働組合は必ず秘密を守ります。  
 相談窓口のひとつとしてご利用ください。  
@@ -392,6 +393,7 @@ The labor union deals with all kinds of work-related issues, from major societal
 Collective bargaining and the right to request guidance from the labor commission are rights legally granted only to labor unions.  
 While the company is not obligated to respond to the opinions of a single employee, it is legally obliged to provide sincere and satisfactory explanations to the opinions and questions of the labor union.  
 For the question "Can I refuse this encouragement to resign?" that the target of the resignation encouragement asked multiple times without getting an answer, the company clearly responded in the collective negotiation that "this encouragement to resign is voluntary".  
+Please refer to [this doc](https://docs.google.com/document/d/1ZMeRDBS-l7Xr0NCDWtj_CNGqFk7k5vcrFGOvdDaXKj8/edit?usp=sharing) for more detail about recommendation of resignation.  
 Google is a company that has a culture of openly soliciting opinions from employees, but even so, there are cases where you can't get an answer if you ask as a single employee, but you can get a response if you ask through a labor union.   
 The labor union will always keep secrets. Please use it as one option of the consultation services.  
 
