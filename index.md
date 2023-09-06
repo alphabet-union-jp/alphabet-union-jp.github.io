@@ -175,8 +175,8 @@ Alphabet傘下の企業で働く人であれば、雇用形態を問わず加入
 
 振込先口座  
 中央労働金庫（中央労金）　店番号296 口座番号 162695  
-JMITU Alphabetユニオン支部 執行委員長　宇於崎 佐保  
-ジェイエムアイティーユー アルファベット ユニオン シブ シッコウイインチョウ ウオサキ サホ  
+JMITU Alphabetユニオン支部  
+ジェイエムアイティーユー アルファベット ユニオン シブ  
 
 連絡先  
 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
@@ -187,8 +187,8 @@ JMITU Alphabetユニオン支部 執行委員長　宇於崎 佐保
 私たちは、ボランティアで活動しています。交通費、印刷代、郵便代など様々な経費がかかります。  
 少額でもお気持ちをいただけたら大変心強いです。みなさまからのご支援は、組合活動に使わせていただきます。  
 中央労働金庫（中央労金）　店番号296 口座番号 162695  
-JMITU Alphabetユニオン支部 執行委員長　宇於崎 佐保  
-ジェイエムアイティーユー アルファベット ユニオン シブ シッコウイインチョウ ウオサキ サホ
+JMITU Alphabetユニオン支部  
+ジェイエムアイティーユー アルファベット ユニオン シブ
 
 [目次に戻る](#目次)  [加入する](#加入の呼びかけ) 
 
@@ -360,8 +360,8 @@ Bank account
 branch number: 296
 account number: 162695
 account name:
-JMITU Alphabetユニオン支部 執行委員長　宇於崎 佐保  
-ジェイエムアイティーユー アルファベット ユニオン シブ シッコウイインチョウ ウオサキ サホ  
+JMITU Alphabetユニオン支部  
+ジェイエムアイティーユー アルファベット ユニオン シブ  
 
 Contact
 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
@@ -377,8 +377,8 @@ Bank account
 branch number: 296
 account number: 162695
 account name:
-JMITU Alphabetユニオン支部 執行委員長　宇於崎 佐保  
-ジェイエムアイティーユー アルファベット ユニオン シブ シッコウイインチョウ ウオサキ サホ
+JMITU Alphabetユニオン支部  
+ジェイエムアイティーユー アルファベット ユニオン シブ
 
 [Join us](#join-us) [Back to Index](#index)
 
