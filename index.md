@@ -208,6 +208,9 @@ Googleは社員からオープンに意見を募集する文化のある企業�
 労働組合は必ず秘密を守ります。  
 相談窓口のひとつとしてご利用ください。  
 
+労働相談の一例：
+障害者手帳をお持ちのお子さんがいらっしゃる相談者様が、お子さんの通院のためにファミリーエマージェンシーリーブを使おうとして、拒否されたと相談に来られました。「ファミリーエマージェンシーリーブは予想外の事態に対応するための休暇であるため、定期的な通院には使えない」と説明されたとのことでした。組合から、日本の労働者には、介護休暇・看護休暇が保証されていること、Google Japanはこのふたつの休暇の運用としてファミリーエマージェンシーリーブを位置づけていること、これらの休暇は定期的通院の付き添いに使えると厚生労働省のホームページに記載があることを助言しました。結果、相談者はファミリーエマージェンシーリーブを取得でき、myGoogleのファミリーエマージェンシーリーブの説明からもurgentの記載が削除されました。  
+
 JMITU AU支部  
 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
 
@@ -396,6 +399,10 @@ For the question "Can I refuse this encouragement to resign?" that the target of
 Please refer to [this doc](https://docs.google.com/document/d/1ZMeRDBS-l7Xr0NCDWtj_CNGqFk7k5vcrFGOvdDaXKj8/edit?usp=sharing) for more detail about recommendation of resignation.  
 Google is a company that has a culture of openly soliciting opinions from employees, but even so, there are cases where you can't get an answer if you ask as a single employee, but you can get a response if you ask through a labor union.   
 The labor union will always keep secrets. Please use it as one option of the consultation services.  
+
+An example of a labor consultation:  
+A consulting party, who has a child with a disability certificate, came to seek advice because they were denied the use of Family Emergency Leave for their child's regular medical appointments. They were told that "Family Emergency Leave is intended for unexpected situations and cannot be used for regular medical appointments." We advised them that in Japan, employees are guaranteed Caregiver Leave and Nursing Leave, and that Google Japan positions Family Emergency Leave as part of the usage for these two leaves. We also pointed out that the Ministry of Health, Labour and Welfare's website states that these leaves can be used for accompanying regular medical appointments. As a result, the consulting party was able to obtain Family Emergency Leave, and the "urgent" designation was removed from the explanation of Family Emergency Leave on myGoogle.  
+
 
 JMITU AU branch  
 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
