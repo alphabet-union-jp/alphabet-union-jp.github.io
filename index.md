@@ -443,4 +443,4 @@ JMITU AU branch
 [North area branch](http://www.jmitu-t-hokubu.org/)
 
 ## Others
-[東京地評](https://www.chihyo.jp/)
+[Tokyo Regional Council of Trade Unions](https://www.chihyo.jp/)
