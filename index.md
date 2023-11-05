@@ -247,7 +247,7 @@ JMITU AU支部 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)
 - [Twitter](#twitter)
 - [Labor Consultation](#labor-consultation)
 - [Contact](#contact)
-- [Related Organizations](#related-organizations)
+- [Related Organizations](#related-organization)
 
 # The Problems with Google's Layoffs That You Should Know About
 (auto translated by chatGPT)  
