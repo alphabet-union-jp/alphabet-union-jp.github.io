@@ -235,6 +235,8 @@ JMITU AU支部 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)
 ## その他
 [東京地評](https://www.chihyo.jp/)
 
+[目次に戻る](#目次)  [加入する](#加入の呼びかけ) 
+
 # Index
 - [The Problems with Google's Layoffs That You Should Know About](#the-problems-with-googles-layoffs-that-you-should-know-about)
 - [Union Activity about Recommendation of Resignation During Pat/Mat Leave](#union-activity-about-recommendation-of-resignation-during-patmat-leave)
@@ -252,7 +254,7 @@ JMITU AU支部 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)
 # The Problems with Google's Layoffs That You Should Know About
 (auto translated by chatGPT)  
 Google has carried out large-scale layoffs affecting approximately 12,000 people worldwide. Google Japan is no exception, with about 6% of the employees, around 200 people, persumed to be targeted. Sundar Pichai, Google's CEO, has sent an email to the staff stating that the company will comply with the laws in each country. However, the organizational restructuring conducted in Japan has shown many flaws. Especially egregious is that employees on maternity or parental leave are also being targeted. This has led to voices from employees saying they cannot comfortably have children under these circumstances. We have categorized the major issues into three main points.
-[Join us](#join-us) [Back to Index](#index)
+０
 
 ## The Fear of Lack of Explanation and Pressure to Resign
 The first issue is the lack of adequate explanation to those targeted for layoffs. The company has stated that it has provided understanding and detailed explanations to the targeted employees during collective negotiations with the union. However, the reality is quite different. The notification from the company was essentially, "Your role (position within the team) has been impacted by the restructuring," a message that implied to employees hired under job-based employment, a break in the careers they had built in their current roles and potentially, a forced layoff. Those targeted were told, "If you sign within two weeks, we'll pay you a severance package," and no matter how much they asked for an explanation, nothing was mentioned about what would happen if they adamantly recommend to sign. Some union members were only told that if they refused, they would be repeatedly urged to sign. As the deadline approached, an additional email sent from the company to the targeted employees stated that if they refused, their access to the internal system might be limited. This wording reminds us of the "lockout" layoffs carried out at the headquarters before Japan, suggesting the removal of employee access as a form of termination. With insufficient explanation from the company, those targeted were forced to make decisions within a short period of two weeks. Those who believed that they would be laid off if they refused, and therefore would not receive the early retirement package, signed and later consulted the union. Can we say this is a voluntary recommendation to retire when people who cannot afford to quit their jobs due to having pre-school children end up signing due to fear?  
@@ -443,4 +445,6 @@ JMITU AU branch
 [North area branch](http://www.jmitu-t-hokubu.org/)
 
 ## Others
-[Tokyo Regional Council of Trade Unions](https://www.chihyo.jp/)
+[Tokyo Regional Council of Trade Unions](https://www.chihyo.jp/
+
+[Join us](#join-us) [Back to Index](#index)
