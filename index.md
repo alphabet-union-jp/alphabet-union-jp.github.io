@@ -434,7 +434,7 @@ JMITU AU branch
 
 # Related Organization
 ## Upper organization
-[JMITU Centtal Headquarters](http://jmiu.com/)  
+[JMITU Central Headquarters](http://jmiu.com/)  
 [JMITU West Tokyo regional council](https://twitter.com/JMITU1)
 
 ## Tokyo Branches
