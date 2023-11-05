@@ -220,7 +220,20 @@ JMITU AU支部
 # 問い合わせ
 JMITU AU支部 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
 
-９
+# 関連組織
+## 上部組織
+[JMITU中央本部](http://jmiu.com/)
+[JMITU東京西部地協](https://twitter.com/JMITU1)
+
+## 東京の支部
+[IBM支部](http://www.jmitu-ibm.org/)
+[三多摩地域支部](https://sites.google.com/view/jmitusantareg)
+[太田地域支部](http://www6.plala.or.jp/JMIUOOTA/index.html)
+[東京測器研究所支部](http://jmiu-tml.jimdo.com/)
+[北部地域支部](http://www.jmitu-t-hokubu.org/)
+
+## その他
+[東京地評](https://www.chihyo.jp/)
 
 # Index
 - [The Problems with Google's Layoffs That You Should Know About](#the-problems-with-googles-layoffs-that-you-should-know-about)
@@ -419,15 +432,15 @@ JMITU AU branch
 
 # Related Organization
 ## Upper organization
-[JMITU中央本部](http://jmiu.com/)
-[JMITU東京西部地協](https://twitter.com/JMITU1)
+[JMITU Centtal Headquarters](http://jmiu.com/)
+[JMITU West Tokyo regional council](https://twitter.com/JMITU1)
 
 ## Tokyo Branches
-[IBM支部](http://www.jmitu-ibm.org/)
-[三多摩地域支部](https://sites.google.com/view/jmitusantareg)
-[太田地域支部](http://www6.plala.or.jp/JMIUOOTA/index.html)
-[東京測器研究所支部](http://jmiu-tml.jimdo.com/)
-[北部地域支部](http://www.jmitu-t-hokubu.org/)
+[IBM branch](http://www.jmitu-ibm.org/)
+[Santama area branch](https://sites.google.com/view/jmitusantareg)
+[Ohta area branch](http://www6.plala.or.jp/JMIUOOTA/index.html)
+[Tokyo Measuring Instruments Laboratory branch](http://jmiu-tml.jimdo.com/)
+[North area branch](http://www.jmitu-t-hokubu.org/)
 
 ## Others
 [東京地評](https://www.chihyo.jp/)
