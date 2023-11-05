@@ -18,6 +18,7 @@ Googleでの大規模レイオフに対抗するため、JMITU Alphabet Unionは
 - [ツイッター](#ツイッター)
 - [労働相談](#労働相談)
 - [問い合わせ](#問い合わせ)
+- [関連組織](#関連組織)
 
 
 # 知ってほしいGoogleのレイオフが抱える問題
@@ -219,6 +220,8 @@ JMITU AU支部
 # 問い合わせ
 JMITU AU支部 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
 
+９
+
 # Index
 - [The Problems with Google's Layoffs That You Should Know About](#the-problems-with-googles-layoffs-that-you-should-know-about)
 - [Union Activity about Recommendation of Resignation During Pat/Mat Leave](#union-activity-about-recommendation-of-resignation-during-patmat-leave)
@@ -231,6 +234,7 @@ JMITU AU支部 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)
 - [Twitter](#twitter)
 - [Labor Consultation](#labor-consultation)
 - [Contact](#contact)
+- [Related Organizations](#related-organizations)
 
 # The Problems with Google's Layoffs That You Should Know About
 (auto translated by chatGPT)  
@@ -412,3 +416,18 @@ JMITU AU branch
 # Contact
 JMITU AU branch  
 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
+
+# Related Organization
+## Upper organization
+[JMITU中央本部](http://jmiu.com/)
+[JMITU東京西部地協](https://twitter.com/JMITU1)
+
+## Tokyo Branches
+[IBM支部](http://www.jmitu-ibm.org/)
+[三多摩地域支部](https://sites.google.com/view/jmitusantareg)
+[太田地域支部](http://www6.plala.or.jp/JMIUOOTA/index.html)
+[東京測器研究所支部](http://jmiu-tml.jimdo.com/)
+[北部地域支部](http://www.jmitu-t-hokubu.org/)
+
+## Others
+[東京地評](https://www.chihyo.jp/)
