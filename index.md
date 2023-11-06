@@ -233,7 +233,8 @@ JMITU AU支部 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)
 [北部地域支部](http://www.jmitu-t-hokubu.org/)
 
 ## その他
-[東京地評](https://www.chihyo.jp/)
+[東京地評](https://www.chihyo.jp/)  
+[全労連](https://www.zenroren.gr.jp/jp/)
 
 [目次に戻る](#目次)  [加入する](#加入の呼びかけ) 
 
@@ -445,6 +446,7 @@ JMITU AU branch
 [North area branch](http://www.jmitu-t-hokubu.org/)
 
 ## Others
-[Tokyo Regional Council of Trade Unions](https://www.chihyo.jp/
+[Tokyo Regional Council of Trade Unions](https://www.chihyo.jp/)  
+[Zenroren](https://www.zenroren.gr.jp/jp/english/index.html)
 
 [Join us](#join-us) [Back to Index](#index)
