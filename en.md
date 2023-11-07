@@ -1,3 +1,9 @@
+---
+layout: default
+title: [Google Japan]JMITU Alphabet Union Branch
+description: The JMITU Alphabet Union was formed to counter the large-scale layoffs at Google Japan. We are actively working to rectify the illegal forced resignations, including those targeting individuals on parental and maternity leave.
+lang: en
+---
 # JMITU Alphabet Union
 To counter the large-scale layoffs at Google, the JMITU Alphabet Union was established. Google has been coercing employees into resigning under the guise of voluntary retirement. We believe that targeting those on maternity or parental leave is a significant social issue. Please learn about what is happening at Google, spread the word, and support us to prevent this practice from spreading to other companies.  
 
