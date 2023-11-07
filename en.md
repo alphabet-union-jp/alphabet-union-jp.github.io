@@ -1,4 +1,6 @@
 # JMITU Alphabet Union
+To counter the large-scale layoffs at Google, the JMITU Alphabet Union was established. Google has been coercing employees into resigning under the guise of voluntary retirement. We believe that targeting those on maternity or parental leave is a significant social issue. Please learn about what is happening at Google, spread the word, and support us to prevent this practice from spreading to other companies.  
+[New] [Added labor consultation episode example](en.md#labor-consultation)  
 
 # Index
 - [The Problems with Google's Layoffs That You Should Know About](#the-problems-with-googles-layoffs-that-you-should-know-about)
