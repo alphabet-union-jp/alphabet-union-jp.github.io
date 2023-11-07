@@ -93,12 +93,12 @@ Please refer to this [Q&A](join_questions.md) as well.
 We also offer online call support for those who are interested, so please contact the email address below to arrange a meeting time. 
 
 Bank account
-中央労働金庫(中央労金) Chuo Labour Bank
-branch number: 296
-account number: 162695
-account name:
-JMITU Alphabetユニオン支部  
-ジェイエムアイティーユー アルファベット ユニオン シブ  
+> 中央労働金庫(中央労金) Chuo Labour Bank
+> branch number: 296
+> account number: 162695
+> account name:
+> JMITU Alphabetユニオン支部  
+> ジェイエムアイティーユー アルファベット ユニオン シブ  
 
 ### message from union members
 > The action of joining union itself is very empowering to me. Members are coming together and sharing our power and love, this is creating a stronger mental strength. In a time when there are more and more suffering in this world, partnership and community is really what we need and can lean into. I joined the union to be part of the creation of this community, and wish more people can benefit from this community, and as it grows bigger, it serves more and more of you.
@@ -118,12 +118,12 @@ We are operating on a volunteer basis. There are various expenses involved, such
 Even a small donation would be greatly appreciated. Your support will be used for union activities.  
 
 Bank account
-中央労働金庫(中央労金) Chuo Labour Bank
-branch number: 296
-account number: 162695
-account name:
-JMITU Alphabetユニオン支部  
-ジェイエムアイティーユー アルファベット ユニオン シブ
+> 中央労働金庫(中央労金) Chuo Labour Bank
+> branch number: 296
+> account number: 162695
+> account name:
+> JMITU Alphabetユニオン支部  
+> ジェイエムアイティーユー アルファベット ユニオン シブ
 
 [Join us](#join-us)  
 [Back to Index](#index)
