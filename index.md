@@ -65,7 +65,7 @@ Googleでの大規模レイオフに対抗するため、JMITU Alphabet Unionは
 など沢山の不安、恐怖に押しつぶされそうでした。<br>
 全てが不透明のまま、サインの日がおとづれサインを強いられた思いです。<br>
 ０歳児という子どもにとっても親にとっても、人生の中でもとても貴重で大切な時期に<br>
-こんな強硬手段をグーグルがとるとは思ってもいませんでした......<a href="https://alphabet-union-jp.github.io/letter_layoff_jp.html">全文を読む</a><br>
+こんな強硬手段をグーグルがとるとは思ってもいませんでした......<a href="https://alphabet-union-jp.github.io/letter_layoff_jp.html#当事者からの手紙">全文を読む</a><br>
 </div>
 
 [目次に戻る](#目次)  
