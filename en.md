@@ -9,8 +9,6 @@ To counter the large-scale layoffs at Google, the JMITU Alphabet Union was estab
 # Index
 - [The Problems with Google's Layoffs That You Should Know About](#the-problems-with-googles-layoffs-that-you-should-know-about)
 - [Union Activity about Recommendation of Resignation During Pat/Mat Leave](#union-activity-about-recommendation-of-resignation-during-patmat-leave)
-  - [May/25 Requested Administrative Guidance to Tokyo Labor Bureau](#may25-requested-administrative-guidance-to-tokyo-labor-bureau)
-  - [Jun/23 Submitted Signatures to Tokyo Labor Bureau](#jun23-submitted-signatures-to-tokyo-labor-bureau)
   - [Letter from the impacted employee](#letter-from-the-impacted-employee)
 - [News Articles about our Activity](#news-article-about-our-activity)
 - [Join us](#join-us)
