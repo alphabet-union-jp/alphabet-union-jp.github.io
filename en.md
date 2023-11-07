@@ -126,11 +126,6 @@ Support us by following our SNS
 
 # Labor Consultation
 The labor union deals with all kinds of work-related issues, from major societal issues such as encouraging resignation and harassment, to small inconveniences at work such as office supplies or remote work.  
-Collective bargaining and the right to request guidance from the labor commission are rights legally granted only to labor unions.  
-While the company is not obligated to respond to the opinions of a single employee, it is legally obliged to provide sincere and satisfactory explanations to the opinions and questions of the labor union.  
-For the question "Can I refuse this encouragement to resign?" that the target of the resignation encouragement asked multiple times without getting an answer, the company clearly responded in the collective negotiation that "this encouragement to resign is voluntary".  
-Please refer to [this doc](resign_questions.md) for more detail about recommendation of resignation.  
-Google is a company that has a culture of openly soliciting opinions from employees, but even so, there are cases where you can't get an answer if you ask as a single employee, but you can get a response if you ask through a labor union.   
 The labor union will always keep secrets. Please use it as one option of the consultation services.  
 
 An example of a labor consultation:  
