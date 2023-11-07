@@ -171,7 +171,7 @@ Alphabet傘下の企業で働く人であれば、雇用形態を問わず加入
 組合を大きく強くすることは、会社と対等にコミュニケーションをし、労働者の権利を勝ち取るための唯一の手段です。  
 ご自身のために、強引なレイオフをさせないために、是非ご検討をお願いします。  
 [加入届](https://drive.google.com/file/d/13E7CmoeiatskU1mLOHyffijWoF5O1tai/view?usp=sharing) をメールで送っていただき、下記の銀行口座に組合費を納入していただくことで加入扱いとなります。その後指定の住所に加入届を郵送していただいて手続完了となります。  
-こちらの[Q&Aドキュメント](https://docs.google.com/document/d/1l4BduNIdWZCi_Xoxjzvqck7A61767Fe45zib-4qJTFc/edit?usp=sharing)もご参照ください。  
+こちらの[Q&Aページ](join_questions.md)もご参照ください。  
 ご希望の方には面談もしていますので、面談希望日時を下記のメールアドレスにご連絡ください。  
 
 振込先口座  
@@ -376,7 +376,7 @@ We ask union members for a monthly union fee of 2000 yen and their attendance, o
 Growing and strengthening the union is the only way to communicate on equal terms with the company and win workers' rights. 
 Please consider joining for your own sake, and to prevent aggressive layoffs. 
 You become a member by sending the [membership application form](https://drive.google.com/file/d/13E7CmoeiatskU1mLOHyffijWoF5O1tai/view?usp=sharing) via email and depositing the union fee into the bank account listed below. The process is completed when you mail the membership application form to the specified address. 
-Please refer to this [Q&A document](https://docs.google.com/document/d/1l4BduNIdWZCi_Xoxjzvqck7A61767Fe45zib-4qJTFc/edit?usp=sharing) as well. 
+Please refer to this [Q&A](join_questions.md) as well. 
 We also offer online call support for those who are interested, so please contact the email address below to arrange a meeting time. 
 
 Bank account
