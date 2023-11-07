@@ -1,4 +1,4 @@
-[戻る](index.md#知ってほしいGoogleのレイオフが抱える問題)  
+[戻る](index.md#知ってほしいgoogleのレイオフが抱える問題)  
 [Back](en.md#the-problems-with-googles-layoffs-that-you-should-know-about)
 
 # 知ってほしいGoogleのレイオフが抱える問題
@@ -22,5 +22,5 @@ GoogleはDon’t be evilを標語に掲げてきました。会社は今一度�
 Google　Japanが、労働組合と誠実に協議し問題解決をはかることなく、社会的にも保護すべき産休中・育休中の労働者を含めて人員削減をごり押ししたことに、私たちは強く抗議します。日本の著しい少子化問題の中、社会がこの問題と向き合い、国をあげて「育児・子育ての労働者に対する手だて」を行おうとしている状況で、最も人を大事にするはずであったGoogleが産休・育休中の社員の生活を壊したことは、断じて許せることではありません。
 私たちは、引き続きGoogle Japanで働く労働者が希望を持って、安心して働き続けられる職場をつくっていくことと、労使関係の正常化をめざして活動していきます。  
 
-[戻る](index.md#知ってほしいGoogleのレイオフが抱える問題)  
+[戻る](index.md#知ってほしいgoogleのレイオフが抱える問題)  
 [Back](en.md#the-problems-with-googles-layoffs-that-you-should-know-about)
