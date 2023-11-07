@@ -1,6 +1,5 @@
 ---
-layout: default
-title: "[Google Japan:JMITU] Alphabet Union Branch"
+title: "Home | [Google Japan:JMITU] Alphabet Union Branch"
 description: "The JMITU Alphabet Union was formed to counter the large-scale layoffs at Google Japan. We are actively working to rectify the illegal forced resignations, including those targeting individuals on parental and maternity leave."
 lang: "en_US"
 ---
@@ -70,7 +69,7 @@ I never imagined Google would take such a harsh approach......<a href="https://a
 For a labor union, the number of union members directly translates into its strength. Anyone working for a company under Alphabet, regardless of employment type, is eligible to join. Growing and strengthening the union is the only way to communicate on equal terms with the company and win workers' rights. 
 Please consider joining for your own sake, and to prevent aggressive layoffs.  
 If you are considering joining the union, please contact the email address below to arrange a meeting time. We will explain the terms and conditions and the application process.  
-Refer to this [Q&A](join_questions.md) as well. 
+Refer to this [FAQs](join_questions.md) as well. 
 
 ### message from union members
 > The action of joining union itself is very empowering to me. Members are coming together and sharing our power and love, this is creating a stronger mental strength. In a time when there are more and more suffering in this world, partnership and community is really what we need and can lean into. I joined the union to be part of the creation of this community, and wish more people can benefit from this community, and as it grows bigger, it serves more and more of you.
@@ -82,7 +81,7 @@ Contact
 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
 
 [membership application form](https://drive.google.com/file/d/13E7CmoeiatskU1mLOHyffijWoF5O1tai/view?usp=sharing)  
-[Q&A](join_questions.md)  
+[FAQs](join_questions.md)  
 
 [Back to Index](#index)
 
@@ -96,7 +95,7 @@ An example of a labor consultation:
 JMITU AU branch  
 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
 
-[Q&A about layoff](resign_questions.md)  
+[FAQs about layoff](resign_questions.md)  
 
 [Join us](#join-us)  
 [Back to Index](#index)

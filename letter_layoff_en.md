@@ -1,3 +1,8 @@
+---
+title: "Letter | [Google Japan] JMITU Alphabet Union Branch"
+lang: "en_US"
+---
+
 [Back](en.md#letter-from-the-impacted-employee)
 
 # Letter from the impacted employee

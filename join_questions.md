@@ -1,3 +1,8 @@
+---
+title: "組合加入 FAQs | [Google Japan] JMITU Alphabet Union支部"
+lang: "ja_JP"
+---
+
 [戻る](index.md#加入の呼びかけ) 　
 [Back](en.md#join-us)
 

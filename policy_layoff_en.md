@@ -1,3 +1,8 @@
+---
+title: "Problems with Google Japan's Layoffs | [Google Japan] JMITU Alphabet Union Branch"
+lang: "en_US"
+---
+
 [Back](en.md#the-problems-with-googles-layoffs-that-you-should-know-about)
 
 # The Problems with Google's Layoffs That You Should Know About

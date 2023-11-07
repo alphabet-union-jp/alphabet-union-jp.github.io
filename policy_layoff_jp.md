@@ -1,3 +1,8 @@
+---
+title: "Googleレイオフの問題点 | [Google Japan] JMITU Alphabet Union支部"
+lang: "ja_JP"
+---
+
 [戻る](index.md#知ってほしいgoogleのレイオフが抱える問題)  
 
 # 知ってほしいGoogleのレイオフが抱える問題

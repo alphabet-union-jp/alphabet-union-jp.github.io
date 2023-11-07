@@ -1,3 +1,8 @@
+---
+title: "退職勧奨 FAQs | [Google Japan] JMITU Alphabet Union支部"
+lang: "ja_JP"
+---
+
 [戻る](index.md#労働相談) [Back](en.md#labor-consultation)
 
 # 退職勧奨に関するQ&A

@@ -1,3 +1,8 @@
+---
+title: "当事者からの手紙 | [Google Japan] JMITU Alphabet Union支部"
+lang: "ja_JP"
+---
+
 [戻る](index.md#当事者からの手紙)  
 
 # 当事者からの手紙
