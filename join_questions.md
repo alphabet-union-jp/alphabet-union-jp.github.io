@@ -1,6 +1,3 @@
-Disclaimer: the content of this Q&A only serves as general information, it is NOT reviewed by a lawyer thus should not be used as legal advice.
-免責事項：このQ&Aの内容は一般情報の提供のみを目的としており、弁護士による審査が行われていないため、法的助言として使用することはできません。
-
 # 組合への加入に関するQ&A
 
 ## 組合に加入することで、業績評価などに悪影響はありますか？
