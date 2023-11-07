@@ -10,11 +10,10 @@ To counter the large-scale layoffs at Google, the JMITU Alphabet Union was estab
 - [The Problems with Google's Layoffs That You Should Know About](#the-problems-with-googles-layoffs-that-you-should-know-about)
 - [Union Activity about Recommendation of Resignation During Pat/Mat Leave](#union-activity-about-recommendation-of-resignation-during-patmat-leave)
   - [Letter from the impacted employee](#letter-from-the-impacted-employee)
-- [News Articles about our Activity](#news-article-about-our-activity)
 - [Join us](#join-us)
 - [Labor Consultation](#labor-consultation)
 - [Donation](#donation)
-- [Related Organizations](#related-organization)
+- [External Resources](#external-resources)
 
 # The Problems with Google's Layoffs That You Should Know About
 (auto translated by chatGPT)  
@@ -60,20 +59,8 @@ During such a critical and precious time in the life of a parent and a zero-year
 I never imagined Google would take such a harsh approach......<a href="https://alphabet-union-jp.github.io/letter_layoff_en.html#letter-from-the-impacted-employee">Read Full Letter</a><br>
 </div>
 
-  
 [Join us](#join-us)  
 [Back to Index](#index)
-
-# News Articles about our Activity
-[グーグルの労働組合｢育休・産休社員への退職勧奨は不当｣と訴え。少なくとも6人が該当](https://www.businessinsider.jp/post-270986) (6/7 Business Insider)  
-[グーグルがマタハラ　産休・育休中の従業員に退職促す　ＪＭＩＴＵ　労働局に指導要請](https://www.akahata-digital.press/article/article/20230607-1203) (6/7 Shimbun Akahata)  
-[育休中に退職勧奨　元社員、グーグルへ指導要請](https://mainichi.jp/articles/20230607/ddm/012/040/126000c) (6/7 Mainichi)  
-[グーグル、育休社員にも退職勧奨　大規模リストラの一環で](https://www.47news.jp/9423070.html) (6/6 Kyodo News)  
- [グーグル社員の告白｢退職する以外に選択肢はなかった｣。育休中社員が語ったこと](https://www.businessinsider.jp/post-268498) (4/18 Business Insider)  
-[グーグル日本法人の〝大規模〟リストラに従業員ら反発
-初の労組結成、団体交渉](https://www.kinyobi.co.jp/kinyobinews/2023/04/15/antena-1243/) (4/15 The weekly Friday) 
-[グーグル日本　労組結成の思い](https://www.jcp.or.jp/akahata/aik22/2023-03-29/2023032901_08_0.html) (3/29 Shimbun Akahata)  
-[日本グーグルに労組 ＪＭＩＴＵ支部 同意ない解雇やめよ](https://www.jcp.or.jp/akahata/aik22/2023-03-02/2023030201_03_0.html) (3/2 Shimbun Akahata)  
 
 [Join us](#join-us)  
 [Back to Index](#index)
@@ -137,7 +124,8 @@ JMITU AU branch
 [Join us](#join-us)  
 [Back to Index](#index)
 
-# Related Organization
+# External Resources
+## Related Organization
 ### Upper organization
 [JMITU Central Headquarters](http://jmiu.com/)  
 [JMITU West Tokyo regional council](https://twitter.com/JMITU1)
@@ -153,6 +141,17 @@ JMITU AU branch
 [Tokyo Regional Council of Trade Unions](https://www.chihyo.jp/)  
 [Zenroren](https://www.zenroren.gr.jp/jp/english/index.html)  
 [Alphabet Workers Union](https://www.alphabetworkersunion.org/)
+
+## News Articles about our Activity
+[グーグルの労働組合｢育休・産休社員への退職勧奨は不当｣と訴え。少なくとも6人が該当](https://www.businessinsider.jp/post-270986) (6/7 Business Insider)  
+[グーグルがマタハラ　産休・育休中の従業員に退職促す　ＪＭＩＴＵ　労働局に指導要請](https://www.akahata-digital.press/article/article/20230607-1203) (6/7 Shimbun Akahata)  
+[育休中に退職勧奨　元社員、グーグルへ指導要請](https://mainichi.jp/articles/20230607/ddm/012/040/126000c) (6/7 Mainichi)  
+[グーグル、育休社員にも退職勧奨　大規模リストラの一環で](https://www.47news.jp/9423070.html) (6/6 Kyodo News)  
+ [グーグル社員の告白｢退職する以外に選択肢はなかった｣。育休中社員が語ったこと](https://www.businessinsider.jp/post-268498) (4/18 Business Insider)  
+[グーグル日本法人の〝大規模〟リストラに従業員ら反発
+初の労組結成、団体交渉](https://www.kinyobi.co.jp/kinyobinews/2023/04/15/antena-1243/) (4/15 The weekly Friday) 
+[グーグル日本　労組結成の思い](https://www.jcp.or.jp/akahata/aik22/2023-03-29/2023032901_08_0.html) (3/29 Shimbun Akahata)  
+[日本グーグルに労組 ＪＭＩＴＵ支部 同意ない解雇やめよ](https://www.jcp.or.jp/akahata/aik22/2023-03-02/2023030201_03_0.html) (3/2 Shimbun Akahata)  
 
 [Join us](#join-us)  
 [Back to Index](#index)
