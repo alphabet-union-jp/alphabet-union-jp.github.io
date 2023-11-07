@@ -61,10 +61,10 @@ I felt abruptly discarded by the company, overwhelmed with anxiety and stress du
 fearing it might affect my milk supply and my infant's ability to focus and grow.<br>
 Crushed by a multitude of fears and uncertainties, the day came to sign the papers, and I felt coerced into signing.<br>
 During such a critical and precious time in the life of a parent and a zero-year-old child,<br>
-I never imagined Google would take such a harsh approach.<br>
+I never imagined Google would take such a harsh approach......[Read Full Letter](letter_layoff_en.md)<br>
 </div>
 
-[Full letter](letter_layoff_en.md)  
+  
 [Join us](#join-us)  
 [Back to Index](#index)
 
