@@ -12,9 +12,8 @@ Googleでの大規模レイオフに対抗するため、JMITU Alphabet Unionは
   - [当事者からの手紙](#当事者からの手紙)
 - [記事に取り上げていただきました](#記事に取り上げていただきました)
 - [加入の呼びかけ](#加入の呼びかけ)
-- [寄付先](#寄付先)
-- [ツイッター](#ツイッター)
 - [労働相談](#労働相談)
+- [寄付先](#寄付先)８
 - [問い合わせ](#問い合わせ)
 - [関連組織](#関連組織)
 
@@ -103,23 +102,6 @@ Googleでの大規模レイオフに対抗するため、JMITU Alphabet Unionは
 
 [目次に戻る](#目次)
 
-# 寄付先
-私たちは、ボランティアで活動しています。交通費、印刷代、郵便代など様々な経費がかかります。  
-少額でもお気持ちをいただけたら大変心強いです。みなさまからのご支援は、組合活動に使わせていただきます。  
-> 中央労働金庫（中央労金）　店番号296 口座番号 162695  
-> JMITU Alphabetユニオン支部  
-> ジェイエムアイティーユー アルファベット ユニオン シブ
-
-[目次に戻る](#目次)  
-[加入する](#加入の呼びかけ) 
-
-# ツイッター
-SNSのフォローよろしくお願いします
-<a class="twitter-timeline" data-height="300" href="https://twitter.com/Alphabetunionjp?ref_src=twsrc%5Etfw">Tweets by Alphabetunionjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[目次に戻る](#目次)  
-[加入する](#加入の呼びかけ) 
-
 # 労働相談
 退職勧奨、ハラスメントなどの大きな社会的な問題から、職場の備品や、リモートワークなど、働く中での細やかな困りごとまで、あらゆる仕事上の困りごとを労働組合は取り扱っています。労働組合は必ず秘密を守ります。相談窓口のひとつとしてご利用ください。  
 
@@ -134,8 +116,25 @@ JMITU AU支部
 [目次に戻る](#目次)  
 [加入する](#加入の呼びかけ) 
 
+# 寄付先
+私たちは、ボランティアで活動しています。交通費、印刷代、郵便代など様々な経費がかかります。  
+少額でもお気持ちをいただけたら大変心強いです。みなさまからのご支援は、組合活動に使わせていただきます。  
+> 中央労働金庫（中央労金）　店番号296 口座番号 162695  
+> JMITU Alphabetユニオン支部  
+> ジェイエムアイティーユー アルファベット ユニオン シブ
+
+[目次に戻る](#目次)  
+[加入する](#加入の呼びかけ) 
+
 # 問い合わせ
 JMITU AU支部 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
+
+### ツイッター
+SNSのフォローよろしくお願いします
+<a class="twitter-timeline" data-height="300" href="https://twitter.com/Alphabetunionjp?ref_src=twsrc%5Etfw">Tweets by Alphabetunionjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[目次に戻る](#目次)  
+[加入する](#加入の呼びかけ) 
 
 # 関連組織
 ### 上部組織

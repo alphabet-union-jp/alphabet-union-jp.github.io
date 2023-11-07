@@ -12,9 +12,8 @@ To counter the large-scale layoffs at Google, the JMITU Alphabet Union was estab
   - [Letter from the impacted employee](#letter-from-the-impacted-employee)
 - [News Articles about our Activity](#news-article-about-our-activity)
 - [Join us](#join-us)
-- [Donation](#donation)
-- [Twitter](#twitter)
 - [Labor Consultation](#labor-consultation)
+- [Donation](#donation)
 - [Contact](#contact)
 - [Related Organizations](#related-organization)
 
@@ -100,28 +99,6 @@ Contact
 
 [Back to Index](#index)
 
-# Donation
-We are operating on a volunteer basis. There are various expenses involved, such as transportation costs, printing fees, and postage fees.   
-Even a small donation would be greatly appreciated. Your support will be used for union activities.  
-
-Bank account
-> 中央労働金庫(中央労金) Chuo Labour Bank
-> branch number: 296
-> account number: 162695
-> account name:
-> JMITU Alphabetユニオン支部  
-> ジェイエムアイティーユー アルファベット ユニオン シブ
-
-[Join us](#join-us)  
-[Back to Index](#index)
-
-# Twitter
-Support us by following our SNS
-<a class="twitter-timeline" data-height="300" href="https://twitter.com/Alphabetunionjp?ref_src=twsrc%5Etfw">Tweets by Alphabetunionjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[Join us](#join-us)  
-[Back to Index](#index)
-
 # Labor Consultation
 The labor union deals with all kinds of work-related issues, from major societal issues such as encouraging resignation and harassment, to small inconveniences at work such as office supplies or remote work.  
 The labor union will always keep secrets. Please use it as one option of the consultation services.  
@@ -137,9 +114,31 @@ JMITU AU branch
 [Join us](#join-us)  
 [Back to Index](#index)
 
+# Donation
+We are operating on a volunteer basis. There are various expenses involved, such as transportation costs, printing fees, and postage fees.   
+Even a small donation would be greatly appreciated. Your support will be used for union activities.  
+
+Bank account
+> 中央労働金庫(中央労金) Chuo Labour Bank
+> branch number: 296
+> account number: 162695
+> account name:
+> JMITU Alphabetユニオン支部  
+> ジェイエムアイティーユー アルファベット ユニオン シブ
+
+[Join us](#join-us)  
+[Back to Index](#index)
+
 # Contact
 JMITU AU branch  
 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
+
+### Twitter
+Support us by following our SNS
+<a class="twitter-timeline" data-height="300" href="https://twitter.com/Alphabetunionjp?ref_src=twsrc%5Etfw">Tweets by Alphabetunionjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Join us](#join-us)  
+[Back to Index](#index)
 
 # Related Organization
 ### Upper organization
