@@ -98,7 +98,7 @@ account name:
 JMITU Alphabetユニオン支部  
 ジェイエムアイティーユー アルファベット ユニオン シブ  
 
-## message from union members
+### message from union members
 > The action of joining union itself is very empowering to me. Members are coming together and sharing our power and love, this is creating a stronger mental strength. In a time when there are more and more suffering in this world, partnership and community is really what we need and can lean into. I joined the union to be part of the creation of this community, and wish more people can benefit from this community, and as it grows bigger, it serves more and more of you.
 > Your simple action of filling out the application form to join, will make a change. ---Kangaroo
 
