@@ -1,7 +1,7 @@
 # 組合への加入に関するQ&A
 
 [戻る](index.md#加入の呼びかけ) 　
-[Back](index.md#join-us)
+[Back](en.md#join-us)
 
 ## 組合に加入することで、業績評価などに悪影響はありますか？
 ## Will joining the union have a negative impact on performance evaluations and such?
@@ -10,7 +10,7 @@
 Firstly, if you are worried, you are not obligated to notify the company that you have joined the union. Moreover, it is illegal to treat someone unfavorably because they joined a union. As of now, Google has not treated union members unfavorably.
 
 [戻る](index.md#加入の呼びかけ) 　
-[Back](index.md#join-us)
+[Back](en.md#join-us)
 
 ## 組合に加入することによる経済的な負担はありますか？
 ## Is there a financial burden associated with joining the union?
@@ -19,7 +19,7 @@ Firstly, if you are worried, you are not obligated to notify the company that yo
 You will be asked to deposit a monthly union fee of 2,000 yen into the union account. Also, when you dispute with a lawyer introduced through the union and receive a substantial settlement, we ask for a voluntary donation to the union organization according to the feelings of gratitude for those who volunteered to help with the dispute.
 
 [戻る](index.md#加入の呼びかけ) 　
-[Back](index.md#join-us)
+[Back](en.md#join-us)
 
 ## 組合活動には参加しなければなりませんか？
 ## Do I have to participate in union activities?
@@ -27,7 +27,7 @@ You will be asked to deposit a monthly union fee of 2,000 yen into the union acc
 We ask all union members to attend the annual meeting once a year, or to submit a power of attorney. Participation in all other activities is voluntary, and there is no compulsion.  In fact, there are many members who don't participate in the association's activities and remain with the association as if they were monthly supporters.  
 
 [戻る](index.md#加入の呼びかけ) 　
-[Back](index.md#join-us)
+[Back](en.md#join-us)
 
 ## 組合に加入するとどんなメリットがありますか？
 ## What are the benefits of joining the union?
@@ -41,7 +41,7 @@ Even if you have not notified the company of your union membership, if troubles 
 The union increases its influence on the company as the number of members increases. There are no obligations other than the union fee and the annual meeting, so please join to support the union's activities.
 
 [戻る](index.md#加入の呼びかけ) 　
-[Back](index.md#join-us)
+[Back](en.md#join-us)
 
 ## 今までどんな活動をしてきましたか？
 ## What kind of activities have you been doing so far?
@@ -51,7 +51,7 @@ The union increases its influence on the company as the number of members increa
 In collective bargaining, we have demanded explanations from the company about the recent encouraged resignations. We requested the Tokyo Labor Bureau to provide guidance on violations of the Child Care and Family Care Leave Law with respect to encouraged resignations targeting employees on maternity and parental leave. Please refer to our website for details. We have also requested explanations about the inadequately explained thrice-weekly office attendance policy, and have scheduled collective bargaining for this on 28th August.
 
 [戻る](index.md#加入の呼びかけ) 　
-[Back](index.md#join-us)
+[Back](en.md#join-us)
 
 ## 組合に参加したら、どのような活動に参加できますか？
 ## What kind of activities can I participate in if I join the union?
@@ -60,7 +60,7 @@ In collective bargaining, we have demanded explanations from the company about t
 Union members participate in union activities in various ways, as they wish. Creating documents, reviewing websites, and back-office work such as accounting are all low-threshold tasks and are easy to start with. We are also considering conducting surveys on wages and improvements to the working environment in the future, so there will be opportunities for promotion and data collection work. You can also attend collective bargaining sessions and directly ask questions to the company. All these activities are voluntary and can be compared to the activities of ERGs.
 
 [戻る](index.md#加入の呼びかけ) 　
-[Back](index.md#join-us)
+[Back](en.md#join-us)
 
 ## 活動している人たちは何をモチベーションに活動しているんですか？
 ## What motivates the people who are involved in these activities?
@@ -69,7 +69,7 @@ Union members participate in union activities in various ways, as they wish. Cre
 The members are motivated by the desire to help their colleagues working at Alphabet and at other companies in the same industry. Expanding union activities leads to improvements in the working environment at the company and in the industry. Within the JMITU branches, there are companies where the working environment has greatly improved since the formation of the union. We believe that unions are organizations that mediate and improve communication between companies and workers, which can often become distorted. We believe that they can also benefit companies, and we work towards this goal.  
 
 [戻る](index.md#加入の呼びかけ) 　
-[Back](index.md#join-us)
+[Back](en.md#join-us)
 
 ## 加入にはハードルがあるけれど、他の方法で支援できることはありますか？
 ## There is a barrier to joining, but are there other ways to support you?
@@ -78,7 +78,7 @@ SNSのフォロー、署名、寄付などがあります。詳しくはホー�
 Yes, you can follow us on social media, sign our petitions, make donations, etc. Please refer to our website for more details. In addition, there is a great need for people to help with tasks such as transcription and translation. If you are able to help, please contact us at this email address: au.jmitu@gmail.com
 
 [戻る](index.md#加入の呼びかけ) 　
-[Back](index.md#join-us)
+[Back](en.md#join-us)
 
 ## マネージャーでも加入できますか？
 ## I’m a manager. Can I join the union?
@@ -87,4 +87,22 @@ Yes, you can follow us on social media, sign our petitions, make donations, etc.
 Yes, you can join. Even if you are a member of the Hiring Committee or Promotion Committee, you can join the union without any problems.
 
 [戻る](index.md#加入の呼びかけ) 　
-[Back](index.md#join-us)
+[Back](en.md#join-us)
+
+## 日本で働いていなくても加入できますか？
+## I'm not living in Japane. Can I join the union?
+
+残念ながら、日本で働いていない人は私たちの組合には加入できません。アメリカとカナダで働いている人は、[Alphabet Workers Union](https://www.alphabetworkersunion.org/)をご参照ください。  
+Unfortunately, only workers in Japan can join us. If you are Alphabet worker in US or in Canada, please refer to [Alphabet Workers Union](https://www.alphabetworkersunion.org/).
+
+[戻る](index.md#加入の呼びかけ) 　
+[Back](en.md#join-us)
+
+## 正規雇用ではありませんが加入できますか？
+## I'm not full time employee. Can I join?
+
+加入できます。派遣であっても、派遣先がAlphabet傘下であれば加入できます。  
+Yes, you can join. Everyone working at Alphabet office can join no matter which company you belong to.
+
+[戻る](index.md#加入の呼びかけ) 　
+[Back](en.md#join-us)

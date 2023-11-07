@@ -1,5 +1,5 @@
 # 退職勧奨に関するQ&A
-[戻る](index.md#労働相談) [Back](index.md#labor-consultation)
+[戻る](index.md#労働相談) [Back](en.md#labor-consultation)
 
 ## 退職勧奨の対象になりました。労働組合は何ができますか？
 ## I've been targeted for a suggested resignation. What can the union do?
@@ -12,7 +12,7 @@ The suggested resignation is voluntary, and you have the right to refuse it. Rep
 You can also hire a lawyer individually for the same deterrent effect, but unions offer a higher level of expertise at a lower cost.  
 Please contact us at this email address for consultation: au.jmitu@gmail.com
 
-[戻る](index.md#労働相談) [Back](index.md#labor-consultation)
+[戻る](index.md#労働相談) [Back](en.md#labor-consultation)
 
 ## 退職勧奨を断ったら何が起こりますか？
 ## What happens if I refuse the suggested resignation?
@@ -21,7 +21,7 @@ Please contact us at this email address for consultation: au.jmitu@gmail.com
 Unfavorable treatment for refusing a suggested resignation is legally prohibited. However, in reality, various companies engage in illegal adverse treatment. In fact, at Google, there have been instances where some individuals who refused a suggested resignation were transferred to different positions. At Google, there have been no cases so far where individuals who refused a suggested resignation were fired or had their salaries reduced.  
 For individual case consultations, please contact us at this email address: au.jmitu@gmail.com  
 
-[戻る](index.md#労働相談) [Back](index.md#labor-consultation)
+[戻る](index.md#労働相談) [Back](en.md#labor-consultation)
 
 ## 退職勧奨に不本意ですがサインしてしまいました
 ## I reluctantly signed for the suggested resignation.
@@ -32,7 +32,7 @@ If you seek reinstatement, you will have to go to court. It takes about a year a
 If you do not seek reinstatement and just want the company to face proper legal penalties for illegal activities or to pay a settlement, there are several options, so please consult the union.  
 In either case, it is necessary to quickly express to the company your intent to rescind the agreement. If it takes a long time to rescind, it can be a disadvantageous factor in a lawsuit or negotiation. Please contact the union first at au.jmitu@gmail.com  
 
-[戻る](index.md#労働相談) [Back](index.md#labor-consultation)
+[戻る](index.md#労働相談) [Back](en.md#labor-consultation)
 
 ## 退職勧奨を断ったら左遷されました。労働組合は何ができますか？
 ## I was demoted after refusing a suggested resignation. What can the union do?
@@ -47,4 +47,4 @@ The second option is to request guidance from the Labor Bureau. This can be requ
 The third option is litigation. It takes about a year and a half to get a judgment, but it can also be settled before a judgment is made, and if it goes to appeal, the period may be extended. The labor union can introduce lawyers who specialize in labor issues. In addition, by tying it with collective bargaining or negotiations in other cases, the union can gather evidence advantageous to the lawsuit and use the progress of the lawsuit to extract concessions from the company. The union also provides support for securing legal fees if necessary.  
 We respect the individual choices of those involved and provide as much support as possible within that range. Please contact us at the following email address for consultation. au.jmitu@gmail.com  
 
-[戻る](index.md#労働相談) [Back](index.md#labor-consultation)
+[戻る](index.md#労働相談) [Back](en.md#labor-consultation)

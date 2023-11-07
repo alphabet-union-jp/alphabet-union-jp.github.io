@@ -1,7 +1,7 @@
 # Letter from the impacted employee
 
 [戻る](index.md#当事者からの手紙)  
-[Back](index.md#letter-from-the-impacted-employee)
+[Back](en.md#letter-from-the-impacted-employee)
 
 (auto translated by chatGPT) 
 <div align="center">
@@ -55,4 +55,4 @@ And I strongly believe that this must never be repeated in any company in the fu
 </div>
 
 [戻る](index.md#当事者からの手紙)  
-[Back](index.md#letter-from-the-impacted-employee)
+[Back](en.md#letter-from-the-impacted-employee)
