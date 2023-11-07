@@ -20,9 +20,7 @@ To counter the large-scale layoffs at Google, the JMITU Alphabet Union was estab
 
 # The Problems with Google's Layoffs That You Should Know About
 (auto translated by chatGPT)  
-Google has carried out large-scale layoffs affecting approximately 12,000 people worldwide. Google Japan is no exception, with about 6% of the employees, around 200 people, persumed to be targeted. Sundar Pichai, Google's CEO, has sent an email to the staff stating that the company will comply with the laws in each country. However, the organizational restructuring conducted in Japan has shown many flaws. Especially egregious is that employees on maternity or parental leave are also being targeted. This has led to voices from employees saying they cannot comfortably have children under these circumstances. We have categorized the major issues into three main points......
-
-[Read the full article](policy_layoff_en.md)
+> Google has carried out large-scale layoffs affecting approximately 12,000 people worldwide. Google Japan is no exception, with about 6% of the employees, around 200 people, persumed to be targeted. Sundar Pichai, Google's CEO, has sent an email to the staff stating that the company will comply with the laws in each country. However, the organizational restructuring conducted in Japan has shown many flaws. Especially egregious is that employees on maternity or parental leave are also being targeted. This has led to voices from employees saying they cannot comfortably have children under these circumstances. We have categorized the major issues into three main points...... [Read the full article](policy_layoff_en.md)
 
 [Join us](#join-us)  
 [Back to Index](#index)
