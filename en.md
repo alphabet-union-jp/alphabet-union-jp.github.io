@@ -6,7 +6,7 @@
   - [May/25 Requested Administrative Guidance to Tokyo Labor Bureau](#may25-requested-administrative-guidance-to-tokyo-labor-bureau)
   - [Jun/23 Submitted Signatures to Tokyo Labor Bureau](#jun23-submitted-signatures-to-tokyo-labor-bureau)
   - [Letter from the impacted employee](#letter-from-the-impacted-employee)
-  - [News Articles about our Activity](#news-article-about-our-activity)
+- [News Articles about our Activity](#news-article-about-our-activity)
 - [Join us](#join-us)
 - [Donation](#donation)
 - [Twitter](#twitter)
@@ -90,7 +90,7 @@ I never imagined Google would take such a harsh approach.
 [Join us](#join-us)  
 [Back to Index](#index)
 
-## News Articles about our Activity
+# News Articles about our Activity
 [グーグルの労働組合｢育休・産休社員への退職勧奨は不当｣と訴え。少なくとも6人が該当](https://www.businessinsider.jp/post-270986) (6/7 Business Insider)  
 [グーグルがマタハラ　産休・育休中の従業員に退職促す　ＪＭＩＴＵ　労働局に指導要請](https://www.akahata-digital.press/article/article/20230607-1203) (6/7 Shimbun Akahata)  
 [育休中に退職勧奨　元社員、グーグルへ指導要請](https://mainichi.jp/articles/20230607/ddm/012/040/126000c) (6/7 Mainichi)  
