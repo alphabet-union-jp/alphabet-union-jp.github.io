@@ -123,6 +123,8 @@ account name:
 JMITU Alphabetユニオン支部  
 ジェイエムアイティーユー アルファベット ユニオン シブ  
 
+[Q&A](join_questions.md)  
+
 Contact
 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
 
@@ -162,9 +164,10 @@ The labor union will always keep secrets. Please use it as one option of the con
 An example of a labor consultation:  
 A consulting party, who has a child with a disability certificate, came to seek advice because they were denied the use of Family Emergency Leave for their child's regular medical appointments. They were told that "Family Emergency Leave is intended for unexpected situations and cannot be used for regular medical appointments." We advised them that in Japan, employees are guaranteed Caregiver Leave and Nursing Leave, and that Google Japan positions Family Emergency Leave as part of the usage for these two leaves. We also pointed out that the Ministry of Health, Labour and Welfare's website states that these leaves can be used for accompanying regular medical appointments. As a result, the consulting party was able to obtain Family Emergency Leave, and the "urgent" designation was removed from the explanation of Family Emergency Leave on myGoogle.  
 
-
 JMITU AU branch  
 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
+
+[Q&A about layoff](resign_questions.md)  
 
 [Join us](#join-us)  
 [Back to Index](#index)
