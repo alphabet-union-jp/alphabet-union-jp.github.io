@@ -1,6 +1,6 @@
 ---
-title: "Home | [Google Japan] JMITU Alphabet Union支部"
-description: "Google Japanでの大規模レイオフに対抗するため、JMITU Alphabet Unionは結成されました。育休・産休中の対象者を含む違法な退職強要の是正を目指し活動しています。"
+title: "Home | [Google Japan] JMITU Alphabet ユニオン支部"
+description: "Google Japanでの大規模レイオフに対抗するため、JMITU Alphabetユニオンは結成されました。育休・産休中の対象者を含む違法な退職強要の是正を目指し活動しています。"
 lang: "ja_JP"
 ---
 
