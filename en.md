@@ -45,18 +45,21 @@ We have initiated an [online petition](https://www.change.org/google-layoff-jp) 
 # Letter from the impacted employee
 (auto translated by chatGPT) 
 <div align="center">
-I received the email from the company while I was on maternity leave, just when my baby had turned two months old, and my elder child was three years old.  
-It was during the morning feeding, a rare moment when I happened to check my seldomly viewed emails.  
-The message was from someone I had never heard of before, stating,  
-“We will have an interview regarding your employment with Google.” My mind went blank, unable to comprehend what was happening.  
-At that time, I was still in the midst of nightly feedings—ten times a night—frequent diaper changes, soothing cuddles, baths, all while simultaneously caring for my three-year-old daughter.  
-My body and mind were still recovering postpartum, and I was struggling to get enough sleep.  
-As I held my crying baby, I couldn’t afford the time to read the email at length, only managing to glance over it between care tasks.  
-I understood it to be a non-negotiable dismissal notice that began with “Unfortunately.”  
-I felt abruptly discarded by the company, overwhelmed with anxiety and stress during feedings, fearing it might affect my milk supply and my infant's ability to focus and grow.  
-Crushed by a multitude of fears and uncertainties, the day came to sign the papers, and I felt coerced into signing.  
-During such a critical and precious time in the life of a parent and a zero-year-old child,  
-I never imagined Google would take such a harsh approach.
+I received the email from the company while I was on maternity leave,<br>
+just when my baby had turned two months old, and my elder child was three years old.<br>
+It was during the morning feeding, a rare moment when I happened to check my seldomly viewed emails.<br>
+The message was from someone I had never heard of before, stating,<br>
+“We will have an interview regarding your employment with Google.”<br>
+My mind went blank, unable to comprehend what was happening.<br>
+At that time, I was still in the midst of nightly feedings—ten times a night—frequent diaper changes,<br> soothing cuddles, baths, all while simultaneously caring for my three-year-old daughter.<br>
+My body and mind were still recovering postpartum, and I was struggling to get enough sleep.<br> 
+As I held my crying baby, I couldn’t afford the time to read the email at length, only managing to glance over it between care tasks.<br>
+I understood it to be a non-negotiable dismissal notice that began with “Unfortunately.”<br>
+I felt abruptly discarded by the company, overwhelmed with anxiety and stress during feedings,<br>
+fearing it might affect my milk supply and my infant's ability to focus and grow.<br>
+Crushed by a multitude of fears and uncertainties, the day came to sign the papers, and I felt coerced into signing.<br>
+During such a critical and precious time in the life of a parent and a zero-year-old child,<br>
+I never imagined Google would take such a harsh approach.<br>
 </div>
 
 [Full letter](letter_layoff_en.md)  
