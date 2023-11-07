@@ -142,18 +142,18 @@ JMITU AU branch
 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
 
 # Related Organization
-## Upper organization
+### Upper organization
 [JMITU Central Headquarters](http://jmiu.com/)  
 [JMITU West Tokyo regional council](https://twitter.com/JMITU1)
 
-## Tokyo Branches
+### Tokyo Branches
 [IBM branch](http://www.jmitu-ibm.org/)  
 [Santama area branch](https://sites.google.com/view/jmitusantareg)  
 [Ohta area branch](http://www6.plala.or.jp/JMIUOOTA/index.html)  
 [Tokyo Measuring Instruments Laboratory branch](http://jmiu-tml.jimdo.com/)  
 [North area branch](http://www.jmitu-t-hokubu.org/)
 
-## Others
+### Others
 [Tokyo Regional Council of Trade Unions](https://www.chihyo.jp/)  
 [Zenroren](https://www.zenroren.gr.jp/jp/english/index.html)  
 [Alphabet Workers Union](https://www.alphabetworkersunion.org/)
