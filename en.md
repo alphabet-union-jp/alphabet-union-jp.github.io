@@ -119,6 +119,7 @@ Bank account
 JMITU AU branch  
 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
 
+### SNS
 <a class="twitter-timeline" data-height="300" href="https://twitter.com/Alphabetunionjp?ref_src=twsrc%5Etfw">Tweets by Alphabetunionjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Join us](#join-us)  
