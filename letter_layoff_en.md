@@ -1,4 +1,3 @@
-[戻る](index.md#当事者からの手紙)  
 [Back](en.md#letter-from-the-impacted-employee)
 
 # Letter from the impacted employee
@@ -54,5 +53,4 @@ Forcing resignation and taking away maternity leave in this manner is not an act
 And I strongly believe that this must never be repeated in any company in the future.<br>
 </div>
 
-[戻る](index.md#当事者からの手紙)  
 [Back](en.md#letter-from-the-impacted-employee)

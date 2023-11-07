@@ -1,5 +1,4 @@
 [戻る](index.md#知ってほしいgoogleのレイオフが抱える問題)  
-[Back](en.md#the-problems-with-googles-layoffs-that-you-should-know-about)
 
 # 知ってほしいGoogleのレイオフが抱える問題
 Googleは全世界で12000人規模の大規模な整理解雇を行いました。Google Japanも例外ではなく、社員の6%程度、約200人が対象になったと見られています。GoogleCEOのスンダー・ピチャイは社員に対し、各国での法律に従うとメールを送りましたが、実際には日本で行われた組織再編成には、たくさんのほころびがありました。特にひどいのは、産休・育休中の社員も対象となっていることです。これでは安心して子供を産むことができないという声が社員から上がっています。特に大きな問題点を三つに整理しました。
@@ -23,4 +22,3 @@ Google　Japanが、労働組合と誠実に協議し問題解決をはかるこ
 私たちは、引き続きGoogle Japanで働く労働者が希望を持って、安心して働き続けられる職場をつくっていくことと、労使関係の正常化をめざして活動していきます。  
 
 [戻る](index.md#知ってほしいgoogleのレイオフが抱える問題)  
-[Back](en.md#the-problems-with-googles-layoffs-that-you-should-know-about)

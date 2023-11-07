@@ -1,5 +1,4 @@
 [戻る](index.md#当事者からの手紙)  
-[Back](en.md#letter-from-the-impacted-employee)
 
 # 当事者からの手紙
 
@@ -88,4 +87,3 @@
 </div>
 
 [戻る](index.md#当事者からの手紙)  
-[Back](en.md#letter-from-the-impacted-employee)

@@ -1,4 +1,3 @@
-[戻る](index.md#知ってほしいgoogleのレイオフが抱える問題)  
 [Back](en.md#the-problems-with-googles-layoffs-that-you-should-know-about)
 
 # The Problems with Google's Layoffs That You Should Know About
@@ -24,5 +23,4 @@ In Japanese society, households raising children are especially vulnerable, as t
 ## Lack of Effort to Avoid Layoffs
 The third issue is the lack of "effort to avoid" layoffs, which is required when carrying out mass layoffs. The company explained in collective bargaining that there had been some reduction in executive compensation, but subsequent various reports show that Sundar Pichai, the CEO who issued this major restructuring, received compensation exceeding the previous year. The union has not received any information that the remuneration of the representative of the Japanese corporation has been reduced. The business figures for Google, listed in the Investor Relations issued by the parent company Alphabet, have continued to be profitable over the past few years, which doesn't necessitate layoffs. Expense reductions, such as downsizing employee benefits including the staff cafeteria and gym, were carried out on a small scale as a pretext after the layoffs. The union speculates that the layoffs were carried out based on the intentions of shareholders rather than performance, etc. Indeed, the stock price rose immediately after the layoffs. Despite claiming to respect Japanese law and recommending retirement, the company's real intention in this reorganization might have been unilateral layoffs aimed at demonstrating the company's stance to shareholders, going beyond merely reducing personnel expenses.
 
-[戻る](index.md#知ってほしいgoogleのレイオフが抱える問題)  
 [Back](en.md#the-problems-with-googles-layoffs-that-you-should-know-about)
