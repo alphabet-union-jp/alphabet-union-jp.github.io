@@ -23,21 +23,29 @@ Googleでの大規模レイオフに対抗するため、JMITU Alphabet Unionは
 
 # 知ってほしいGoogleのレイオフが抱える問題
 Googleは全世界で12000人規模の大規模な整理解雇を行いました。Google Japanも例外ではなく、社員の6%程度、約200人が対象になったと見られています。GoogleCEOのスンダー・ピチャイは社員に対し、各国での法律に従うとメールを送りましたが、実際には日本で行われた組織再編成には、たくさんのほころびがありました。特にひどいのは、産休・育休中の社員も対象となっていることです。これでは安心して子供を産むことができないという声が社員から上がっています。特に大きな問題点を三つに整理しました。
-[目次に戻る](#目次)  [加入する](#加入の呼びかけ) 
+
+[目次に戻る](#目次)  
+[加入する](#加入の呼びかけ) 
 
 ## 説明がないことの恐怖と退職への圧力
 一つめは、退職対象者に対しての説明不足です。会社は、団体交渉で組合に、対象者には理解を求める対応や丁寧な説明を行ったものと説明していますが、実態はまったく異なります。会社からの通知は「あなたのロール（チームでの席）は組織再編成の影響を受けた」というもので、ジョブ型で採用された社員にとって、現在の職種で積み重ねてきたキャリアを断絶する異動や、ひいては強制的な解雇を連想される文面でした。対象者は、「２週間以内にサインすれば早期退職金を支払う」と説明され、どんなに説明を求めても、頑なにサインしなかった場合のことはまったく説明されませんでした。組合員の中には、ただ、断ったら繰り返しサインをするよう勧める、とだけ説明された人もいます。期日が迫る中、会社から対象者に追加で送られた今後のことを説明するメールの中には、断れば社内システムへのアクセスを制限する、とも記載されていました。日本に先んじて本社で行われた、ロックアウト解雇を連想される言い回しです。会社の説明が不足する中、対象者は２週間という短い期日の中での判断を迫られました。断ったら早期退職金パッケージも得られず、解雇されると思い込み、サインした方からの相談が組合に寄せられました。未就学の子供を抱え、会社を辞められないと思っている人たちが結果的にサインをしてしまった、恐怖で追い詰めるこのやり方で、任意の退職勧奨と言えるのでしょうか。  
 実際に、対象者が想像したシナリオの一部は現実になっています。退職勧奨に同意しなかった社員には、いつ解散するかわからない、同意しなかった人だけが集められた一時的なチームへの異動を命じられるケースも見られます。現時点での給与は下がらないとしていますが、急にまったく異なる業務に配置転換され、慣れない業務で今までの職位に見合う結果が出せなければ、来年から給与が下がることになります。積み上げてきた本人のキャリアを断絶する対応であり、労働組合としては許せるものではありません。
-[目次に戻る](#目次)  [加入する](#加入の呼びかけ) 
+
+[目次に戻る](#目次)  
+[加入する](#加入の呼びかけ) 
 
 ## 一方的な退職条件
 二つめは、条件があまりにも一方的だったことです。本来の「退職勧奨」であれば、会社が退職対象者と、タイミングや金額等調整をしっかり行うべきではないでしょうか。今回の会社のやり方は一方的に条件を突きつけるのみで、個別の事情に合わせた調整をする姿勢はまったくありませんでした。退職日は一律5/31とされ、産休、育休、病休などでそれ以降も長期休暇を取る予定だった人たちであっても同様でした。私たちは、育休・産休中の対象者については、育休・産休の最後までの在籍を認めるよう、団体交渉で会社に配慮を求めました。退職となれば、保育園を利用できなくなること、子供を抱えて転職活動をすることは非現実的であること、会社での在籍を失ってからの転職は、そうでない立場より難しくなること、などが理由です。子供との生活のかかった切実な願いでした。しかし、会社は一貫して「5/31付けの解雇」という形を変えることはありませんでした。育休・産休中の給与は地方自治体から給付され、会社が支払っているわけではありません。会社には金銭的なダメージはないにも関わらず、まったく譲りませんでした。これは親会社からの圧力によるものだと私たちは考えています。建前上退職勧奨だと会社は主張していますが、会社の進めた政策は、実質一方的な整理解雇であったことの証明ではないでしょうか。  
 日本の社会では、子育て世帯は、生活保障を会社に頼らざるを得ず、特別弱い立場に置かれています。そのため、日本には、子育て世帯を守るために、育児休業法があります。子育て中に突如通知された退職勧告は、本来の育児休業法の精神に反して、キャリアと家族の時間を壊し、当事者が健やかに子どもを育てていく環境を一方的に害しています。しかし、会社は「違法ではない」の一点張りで謝罪の言葉もありません。
-[目次に戻る](#目次)  [加入する](#加入の呼びかけ) 
+
+[目次に戻る](#目次)  
+[加入する](#加入の呼びかけ) 
 
 ## 回避努力の欠如
 三つめは、大量解雇を行う場合に求められる要件としての「回避努力」が見られないことです。役員報酬の減額などが一部あったと会社は団体交渉で説明しましたが、その後の各種報道においては、この大リストラを発令したスンダー・ピチャイＣＥＯには前年を上回る報酬が支払われています。日本法人代表の役員報酬が減額されたという情報も組合には入ってきていません。持ち株会社のAlphabetが発行するインベスターリレーションズに記載されたGoogleの経営数字も、ここ数年継続して黒字であり、リストラを余儀なくされるものとは言えません。社員食堂やジムを含む社員向け福利厚生の規模縮小などの経費削減も、解雇を行った後に口実を作るように小規模に行われました。組合は、業績等よりもむしろ、株主の意向で解雇を行ったものと推測しています。実際、レイオフを行った直後に株価は上がっています。日本の法律を守り退職勧奨をしていると言いながら、この組織再編成の会社の本音は、人件費削減それ自体を超えて、会社の姿勢を株主に示すための、一方的な整理解雇だったのではないでしょうか。  
-[目次に戻る](#目次)  [加入する](#加入の呼びかけ) 
+
+[目次に戻る](#目次)  
+[加入する](#加入の呼びかけ) 
 
 ## 社会に信頼される企業にふさわしい対応を
 私たちは、このGoogleが行った大リストラは、どんなに取り繕っても「株主のご機嫌とりの整理解雇」が実態であり、到底社員に対し誠実なものとは言えないと考えています。社員の信頼も、会社のブランドも傷つける、愚かな行為です。  
@@ -45,7 +53,9 @@ GoogleはDon’t be evilを標語に掲げてきました。会社は今一度�
 
 Google　Japanが、労働組合と誠実に協議し問題解決をはかることなく、社会的にも保護すべき産休中・育休中の労働者を含めて人員削減をごり押ししたことに、私たちは強く抗議します。日本の著しい少子化問題の中、社会がこの問題と向き合い、国をあげて「育児・子育ての労働者に対する手だて」を行おうとしている状況で、最も人を大事にするはずであったGoogleが産休・育休中の社員の生活を壊したことは、断じて許せることではありません。
 私たちは、引き続きGoogle Japanで働く労働者が希望を持って、安心して働き続けられる職場をつくっていくことと、労使関係の正常化をめざして活動していきます。  
-[目次に戻る](#目次)  [加入する](#加入の呼びかけ) 
+
+[目次に戻る](#目次)  
+[加入する](#加入の呼びかけ) 
 
 # 育休中の退職強要についての組合活動
 ## 5/25 労働局に指導の申請をしました
@@ -56,13 +66,15 @@ Google　Japanが、労働組合と誠実に協議し問題解決をはかるこ
 どうか、このページを拡散し、身近な人と議論してください。  
 世論の後押しをお願いします。  
 
-[目次に戻る](#目次)  [加入する](#加入の呼びかけ) 
+[目次に戻る](#目次)  
+[加入する](#加入の呼びかけ) 
 
 ## 6/23 署名を労働局に提出しました
 労働局に指導を求める[オンライン署名](https://www.change.org/google-layoff-jp)を開始し、6/23日時点で14917名からの署名を労働局に提出しました。  
 労働局の判断が出るまで、フォームは閉じませんので、引き続きのご署名をお願いしています。
 
-[目次に戻る](#目次)  [加入する](#加入の呼びかけ) 
+[目次に戻る](#目次)  
+[加入する](#加入の呼びかけ) 
 
 ## 当事者からの手紙
 </div align="center">
@@ -75,7 +87,7 @@ Google　Japanが、労働組合と誠実に協議し問題解決をはかるこ
 この時私は夜中も通して授乳10回、そして頻繁のオムツ替え、抱っこ、そしてお風呂、
 それと同時に3歳の娘の生活を一緒にしている時です。
 産後まだ心身がリカバリー中、自分の睡眠もままならない時でした。
-泣いている赤ちゃんを抱きながら、メールを長く見る事などできず、
+泣いている赤ちゃんを抱きながら、メールを長く見る事などできず、７
 お世話をする途中途中でできる限り目を通しました。
 ”残念ながら”という知らせで選択肢がない解雇の知らせを突き付けられたと理解しました。
 急に会社に切り捨てられた気持ちになり、
@@ -87,8 +99,9 @@ Google　Japanが、労働組合と誠実に協議し問題解決をはかるこ
 こんな強硬手段をグーグルがとるとは思ってもいませんでした。
 </div>
 
-[全文](letter_layoff_jp.md)
-[目次に戻る](#目次)  [加入する](#加入の呼びかけ) 
+[全文](letter_layoff_jp.md)  
+[目次に戻る](#目次)  
+[加入する](#加入の呼びかけ) 
 
 ## 記事に取り上げていただきました
 [グーグルの労働組合｢育休・産休社員への退職勧奨は不当｣と訴え。少なくとも6人が該当](https://www.businessinsider.jp/post-270986) (6/7 ビジネスインサイダー)  
@@ -101,7 +114,8 @@ Google　Japanが、労働組合と誠実に協議し問題解決をはかるこ
 [グーグル日本　労組結成の思い](https://www.jcp.or.jp/akahata/aik22/2023-03-29/2023032901_08_0.html) (3/29 しんぶん赤旗)  
 [日本グーグルに労組 ＪＭＩＴＵ支部 同意ない解雇やめよ](https://www.jcp.or.jp/akahata/aik22/2023-03-02/2023030201_03_0.html) (3/2 しんぶん赤旗)  
 
-[目次に戻る](#目次)  [加入する](#加入の呼びかけ) 
+[目次に戻る](#目次)  
+[加入する](#加入の呼びかけ) 
 
 # 加入の呼びかけ
 労働組合にとって、組合員数は最も直接的に大きな力となるものです。  
@@ -130,13 +144,15 @@ JMITU Alphabetユニオン支部
 JMITU Alphabetユニオン支部  
 ジェイエムアイティーユー アルファベット ユニオン シブ
 
-[目次に戻る](#目次)  [加入する](#加入の呼びかけ) 
+[目次に戻る](#目次)  
+[加入する](#加入の呼びかけ) 
 
 # ツイッター
 SNSのフォローよろしくお願いします
 <a class="twitter-timeline" data-height="300" href="https://twitter.com/Alphabetunionjp?ref_src=twsrc%5Etfw">Tweets by Alphabetunionjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[目次に戻る](#目次)  [加入する](#加入の呼びかけ) 
+[目次に戻る](#目次)  
+[加入する](#加入の呼びかけ) 
 
 # 労働相談
 退職勧奨、ハラスメントなどの大きな社会的な問題から、職場の備品や、リモートワークなど、働く中での細やかな困りごとまで、あらゆる仕事上の困りごとを労働組合は取り扱っています。  
@@ -154,7 +170,8 @@ Googleは社員からオープンに意見を募集する文化のある企業�
 JMITU AU支部  
 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
 
-[目次に戻る](#目次)  [加入する](#加入の呼びかけ) 
+[目次に戻る](#目次)  
+[加入する](#加入の呼びかけ) 
 
 # 問い合わせ
 JMITU AU支部 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
@@ -176,7 +193,8 @@ JMITU AU支部 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)
 [全労連](https://www.zenroren.gr.jp/jp/)  
 [Alphabet Workers Union](https://www.alphabetworkersunion.org/)
 
-[目次に戻る](#目次)  [加入する](#加入の呼びかけ) 
+[目次に戻る](#目次)  
+[加入する](#加入の呼びかけ) 
 
 # Index
 - [The Problems with Google's Layoffs That You Should Know About](#the-problems-with-googles-layoffs-that-you-should-know-about)
@@ -202,19 +220,22 @@ The first issue is the lack of adequate explanation to those targeted for layoff
 
 Indeed, some of the scenarios that the targeted employees envisioned have become reality. Cases have been seen where employees who did not agree to the suggested retirement are ordered to transfer to a temporary team composed only of those who did not agree, with no future business plan. Although it is said that their current salary will not decrease, they are suddenly reassigned to entirely different duties. If they cannot produce results equivalent to their previous positions in these unfamiliar tasks, their salary will decrease from the next year. This approach, which cuts off the careers individuals have built, is unacceptable from the standpoint of the labor union.
 
-[Join us](#join-us) [Back to Index](#index)
+[Join us](#join-us)  
+[Back to Index](#index)
 
 ## Unilateral Resignation Conditions
 The second issue is that the conditions were far too one-sided. In a typical "recommended retirement," shouldn't the company thoroughly adjust the timing and amount with the targeted individuals for retirement? The company's approach this time was to unilaterally impose conditions, and there was absolutely no attitude to make adjustments according to individual circumstances. The retirement date was uniformly set as May 31, even for those who planned to take long-term leave after that due to maternity leave, parental leave, or sick leave. In collective bargaining, we asked the company to consider allowing those on maternity and parental leave to remain until the end of their leave. Reasons include the impossibility of using childcare facilities if they quit, the impracticality of job-hunting while caring for children, and the difficulty of finding new employment after losing their company affiliation. It was an urgent wish tied to their children's lives. However, the company consistently did not change the format of "termination as of May 31." Salary during maternity and parental leave is paid by the local government, not by the company. Despite no financial damage to the company, they made no concessions. We believe this is due to pressure from the parent company. Although the company insists it is a nominal recommendation for retirement, isn't their policy proof of essentially unilateral layoffs?  
 
 In Japanese society, households raising children are especially vulnerable, as they have no choice but to depend on the company for their livelihood. Therefore, Japan has the Child Care Leave Law to protect households raising children. The sudden retirement notice given during child-rearing contradicts the original spirit of the Child Care Leave Law, disrupts careers and family time, and unilaterally harms the environment where the person involved can healthily raise their children. However, the company insists that it's "not illegal" and offers no apology.
 
-[Join us](#join-us) [Back to Index](#index)
+[Join us](#join-us)  
+[Back to Index](#index)
 
 ## Lack of Effort to Avoid Layoffs
 The third issue is the lack of "effort to avoid" layoffs, which is required when carrying out mass layoffs. The company explained in collective bargaining that there had been some reduction in executive compensation, but subsequent various reports show that Sundar Pichai, the CEO who issued this major restructuring, received compensation exceeding the previous year. The union has not received any information that the remuneration of the representative of the Japanese corporation has been reduced. The business figures for Google, listed in the Investor Relations issued by the parent company Alphabet, have continued to be profitable over the past few years, which doesn't necessitate layoffs. Expense reductions, such as downsizing employee benefits including the staff cafeteria and gym, were carried out on a small scale as a pretext after the layoffs. The union speculates that the layoffs were carried out based on the intentions of shareholders rather than performance, etc. Indeed, the stock price rose immediately after the layoffs. Despite claiming to respect Japanese law and recommending retirement, the company's real intention in this reorganization might have been unilateral layoffs aimed at demonstrating the company's stance to shareholders, going beyond merely reducing personnel expenses.
 
-[Join us](#join-us) [Back to Index](#index)
+[Join us](#join-us)  
+[Back to Index](#index)
 
 ## Acting in a Manner Suitable for a Trustworthy Company in Society
 We believe that this major restructuring by Google, no matter how it's disguised, is essentially a "downsizing to please shareholders" and can hardly be described as sincere towards employees. It's a unreasonable action that damages both the trust of the employees and the brand of the company.  
@@ -225,8 +246,8 @@ We strongly protest against Google Japan for forcing through personnel reduction
 
 We will continue to work to create a workplace where workers who continue to work at Google Japan can work with hope and security, and aim for the normalization of labor-management relations.  
 
-[Join us](#join-us) [Back to Index](#index)
-
+[Join us](#join-us)  
+[Back to Index](#index)
 
 # Union Activity about Recommendation of Resignation During Pat/Mat Leave
 ## May/25 Requested Administrative Guidance to Tokyo Labor Bureau
@@ -236,64 +257,32 @@ The key point in the case of forced retirement is whether the company can object
 Regarding the Child Care and Family Care Leave Law, if it wasn't determined that the layoffs were due to the employees taking child care leave, the focus would be on whether it's decided, through comprehensive judgment, that the actions contradict the spirit of the law.  
 Please help to spread the word about this page and discuss it with those around you. We appreciate the support of public opinion.  
 
-[Join us](#join-us) [Back to Index](#index)
+[Join us](#join-us)  
+[Back to Index](#index)
 
 ## Jun/23 Submitted Signatures to Tokyo Labor Bureau
 We have initiated an [online petition](https://www.change.org/google-layoff-jp) requesting guidance from the Labor Bureau, and as of June 23rd, we have submitted 14,917 signatures to the Labor Bureau. The form will remain open until the Labor Bureau makes its decision, so we continue to ask for your signatures.
 
-[Join us](#join-us) [Back to Index](#index)
+[Join us](#join-us)  
+[Back to Index](#index)
 
 # Letter from the impacted employee
-(auto translated by chatGPT)  
-I have been working at Google Japan for nearly 10 years. Now, I'm the parent of two children.
+I received the email from the company while I was on maternity leave, just when my baby had turned two months old, and my elder child was three years old.  
+It was during the morning feeding, a rare moment when I happened to check my seldomly viewed emails.  
+The message was from someone I had never heard of before, stating,  
+“We will have an interview regarding your employment with Google.” My mind went blank, unable to comprehend what was happening.  
+At that time, I was still in the midst of nightly feedings—ten times a night—frequent diaper changes, soothing cuddles, baths, all while simultaneously caring for my three-year-old daughter.  
+My body and mind were still recovering postpartum, and I was struggling to get enough sleep.  
+As I held my crying baby, I couldn’t afford the time to read the email at length, only managing to glance over it between care tasks.  
+I understood it to be a non-negotiable dismissal notice that began with “Unfortunately.”  
+I felt abruptly discarded by the company, overwhelmed with anxiety and stress during feedings, fearing it might affect my milk supply and my infant's ability to focus and grow.  
+Crushed by a multitude of fears and uncertainties, the day came to sign the papers, and I felt coerced into signing.  
+During such a critical and precious time in the life of a parent and a zero-year-old child,  
+I never imagined Google would take such a harsh approach.
 
-What happened to me was when my youngest child was about two months old. It was a shocking and unbelievable event. I feel strongly that this is something that absolutely should not happen in the future and I would like to share it with all of you.
-
-I received an email notifying me of my termination from the company during my parental leave, just as my child had turned two months old, and when my eldest child was three years old.
-
-One morning, while breastfeeding and in the midst of 24-hour infant care with no free time, I happened to check my personal email which I could only rarely check. The email was from a name I didn't recognize, and the content was about having a meeting regarding "your employment at Google."
-
-I was left in shock, my mind going blank. I didn't even know which email was being referred to.
-
-I thought there must be some mistake, but when I checked my company email next, I found an email with the subject "Regarding your employment at Google." The email stated, "Unfortunately, it has been determined that your role will be impacted by this review."
-
-At the time, I was nursing 10 times through the night, frequently changing diapers, holding my baby, bathing, all while sharing my life with my 3-year-old daughter.
-
-I was still in the recovery phase postpartum, unable to get proper sleep. I was uncertain if I could make rational judgments or understand things properly.
-
-As I held my crying baby, I couldn't spend a lot of time reading the email. I skimmed through it as best I could between taking care of my child. I still didn't fully understand everything, but I came to realize that the phrase "Unfortunately" was delivering the news of my dismissal without options.
-
-I had been on maternity leave since last year and the company had not shared any of the advance information about this round of layoffs that they had informed other employees about.
-
-I couldn't understand everything through the email alone, and I also had a meeting. However, there were no answers to my questions, and I was asked to inquire through the inquiry form. Even after making inquiries through the form, there were no answers. I finally managed to make contact by emailing a different representative, but the entire process was incredibly disorganized, with my original email getting lost and requests for me to resend it.
-
-I requested meetings with HR and the Head of Google Japan, and I repeatedly asked for an explanation of what would happen if I refused to sign during a total of four meetings. However, the only answer I received was that I would be "encouraged to sign again".
-
-I felt betrayed by the company that failed to communicate properly. I felt suddenly discarded by the company. I was constantly anxious even during breastfeeding. I worried that my stress would stop my breast milk production, that I wouldn't be able to focus on my infant and that this might impact their growth. I feared that my 3-year-old child would have to leave the nursery that they loved attending...
-
-I felt as if I was being crushed by all these anxieties and fears.
-
-The company only sent a contract and failed to handle the situation sincerely afterward. There were no phone calls, not even registered mail, only contact through a single email. Everything remained unclear, and I felt forced to sign when the day for signing arrived.
-
-To me, raising an infant, their approach was too forceful for someone who was raising an infant.
-
-For both parents and their newborn children, this is a very precious and truly important time in life. I never imagined that Google would resort to such a hard-line measure during this period.
-
-The circumstances of those affected have not been disclosed. If I was targeted, I think it's scary and unacceptable that perhaps people in the hospital for childbirth or people with babies who need medical care might have also been targeted. This is absolutely something that should not happen.
-
-The company sought to bargain for a limited period against those in vulnerable situations, adopting a rough and extremely cowardly approach.
-
-Originally, I was planning to extend my maternity leave until December 2023, or even until December 2024 if I could not enroll my child in daycare. As I was made to leave the company on May 31st, I had my maternity leave cut short by at least six months, or a year and a half if you consider the case of not being able to get my child into daycare. The company robbed me of the crucial maternity leave period until my child turns one, and further until they could be enrolled in a daycare center.
-
-I can't believe that a profitable large corporation needed to do this to an individual.
-
-I cannot believe that this happened at a company that has been a model for the world, promoting a work environment that is easy for employees and conducive to child-rearing.
-
-Forcing resignation and taking away maternity leave in this manner is not an act that should be allowed in Japan.
-
-And I strongly believe that this must never be repeated in any company in the future.
-
-[Join us](#join-us) [Back to Index](#index)
+[Full letter](letter_layoff_en.md)  
+[Join us](#join-us)  
+[Back to Index](#index)
 
 ## News Articles about our Activity
 [グーグルの労働組合｢育休・産休社員への退職勧奨は不当｣と訴え。少なくとも6人が該当](https://www.businessinsider.jp/post-270986) (6/7 Business Insider)  
@@ -306,7 +295,8 @@ And I strongly believe that this must never be repeated in any company in the fu
 [グーグル日本　労組結成の思い](https://www.jcp.or.jp/akahata/aik22/2023-03-29/2023032901_08_0.html) (3/29 Shimbun Akahata)  
 [日本グーグルに労組 ＪＭＩＴＵ支部 同意ない解雇やめよ](https://www.jcp.or.jp/akahata/aik22/2023-03-02/2023030201_03_0.html) (3/2 Shimbun Akahata)  
 
-[Join us](#join-us) [Back to Index](#index)
+[Join us](#join-us)  
+[Back to Index](#index)
 
 # Join us
 For a labor union, the number of union members directly translates into its strength. 
@@ -343,13 +333,15 @@ account name:
 JMITU Alphabetユニオン支部  
 ジェイエムアイティーユー アルファベット ユニオン シブ
 
-[Join us](#join-us) [Back to Index](#index)
+[Join us](#join-us)  
+[Back to Index](#index)
 
 # Twitter
 Support us by following our SNS
 <a class="twitter-timeline" data-height="300" href="https://twitter.com/Alphabetunionjp?ref_src=twsrc%5Etfw">Tweets by Alphabetunionjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[Join us](#join-us) [Back to Index](#index)
+[Join us](#join-us)  
+[Back to Index](#index)
 
 # Labor Consultation
 The labor union deals with all kinds of work-related issues, from major societal issues such as encouraging resignation and harassment, to small inconveniences at work such as office supplies or remote work.  
@@ -367,7 +359,8 @@ A consulting party, who has a child with a disability certificate, came to seek 
 JMITU AU branch  
 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
 
-[Join us](#join-us) [Back to Index](#index)
+[Join us](#join-us)  
+[Back to Index](#index)
 
 # Contact
 JMITU AU branch  
@@ -390,4 +383,5 @@ JMITU AU branch
 [Zenroren](https://www.zenroren.gr.jp/jp/english/index.html)  
 [Alphabet Workers Union](https://www.alphabetworkersunion.org/)
 
-[Join us](#join-us) [Back to Index](#index)
+[Join us](#join-us)  
+[Back to Index](#index)
