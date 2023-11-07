@@ -2,10 +2,8 @@
 layout: default
 title: "[Google Japan] JMITU Alphabet Union支部"
 description: "Google Japanでの大規模レイオフに対抗するため、JMITU Alphabet Unionは結成されました。育休・産休中の対象者を含む違法な退職強要の是正を目指し活動しています。"
-lang: ja_JP
+lang: "ja_JP"
 ---
-# JMITU Alphabet Union
-Google Japanでの大規模レイオフに対抗するため、JMITU Alphabet Unionは結成されました。Googleは退職勧奨の名目で、強引なやり方で社員を退職に追い込みました。とりわけ、産休・育休中の人を対象としたことは、社会的に大きな問題だと考えます。他の会社にこのやり方を広げさせないためにも、どうか、Googleでなにが起きているのかを知り、広め、後押ししてください。
 
 [New] [組合員からのメッセージを追加しました](#加入の呼びかけ)  
 [New] [労働相談の事例を追加しました](#労働相談)  
