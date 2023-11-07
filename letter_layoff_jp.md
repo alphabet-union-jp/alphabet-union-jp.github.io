@@ -1,6 +1,7 @@
-# 当事者からの手紙
 [戻る](index.md#当事者からの手紙)  
 [Back](en.md#letter-from-the-impacted-employee)
+
+# 当事者からの手紙
 
 <div align="center">
 私はグーグル合同会社に10年近く勤めてきました。<br>

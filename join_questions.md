@@ -1,7 +1,7 @@
-# 組合への加入に関するQ&A
-
 [戻る](index.md#加入の呼びかけ) 　
 [Back](en.md#join-us)
+
+# 組合への加入に関するQ&A
 
 ## 組合に加入することで、業績評価などに悪影響はありますか？
 ## Will joining the union have a negative impact on performance evaluations and such?

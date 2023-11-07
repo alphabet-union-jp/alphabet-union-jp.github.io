@@ -1,5 +1,6 @@
-# 退職勧奨に関するQ&A
 [戻る](index.md#労働相談) [Back](en.md#labor-consultation)
+
+# 退職勧奨に関するQ&A
 
 ## 退職勧奨の対象になりました。労働組合は何ができますか？
 ## I've been targeted for a suggested resignation. What can the union do?

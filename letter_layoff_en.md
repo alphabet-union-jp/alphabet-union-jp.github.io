@@ -1,7 +1,7 @@
-# Letter from the impacted employee
-
 [戻る](index.md#当事者からの手紙)  
 [Back](en.md#letter-from-the-impacted-employee)
+
+# Letter from the impacted employee
 
 (auto translated by chatGPT) 
 <div align="center">
