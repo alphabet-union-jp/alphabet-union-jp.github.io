@@ -4,7 +4,7 @@ Googleでの大規模レイオフに対抗するため、JMITU Alphabet Unionは
 [New] [組合員からのメッセージを追加しました](#加入の呼びかけ)  
 [New] [労働相談の事例を追加しました](#労働相談)  
 
-[English](en.md)  
+[English](en.md)  [問い合わせ](#問い合わせ)
 
 # 目次
 - [知ってほしいGoogleのレイオフが抱える問題](#知ってほしいgoogleのレイオフが抱える問題)
@@ -13,10 +13,8 @@ Googleでの大規模レイオフに対抗するため、JMITU Alphabet Unionは
 - [記事に取り上げていただきました](#記事に取り上げていただきました)
 - [加入の呼びかけ](#加入の呼びかけ)
 - [労働相談](#労働相談)
-- [寄付先](#寄付先)８
-- [問い合わせ](#問い合わせ)
+- [寄付先](#寄付先)
 - [関連組織](#関連組織)
-
 
 # 知ってほしいGoogleのレイオフが抱える問題
 > Googleは全世界で12000人規模の大規模な整理解雇を行いました。Google Japanも例外ではなく、社員の6%程度、約200人が対象になったと見られています。GoogleCEOのスンダー・ピチャイは社員に対し、各国での法律に従うとメールを送りましたが、実際には日本で行われた組織再編成には、たくさんのほころびがありました。特にひどいのは、産休・育休中の社員も対象となっていることです。これでは安心して子供を産むことができないという声が社員から上がっています。特に大きな問題点を三つに整理しました...... [全文を読む](policy_layoff_jp.md)
@@ -126,16 +124,6 @@ JMITU AU支部
 [目次に戻る](#目次)  
 [加入する](#加入の呼びかけ) 
 
-# 問い合わせ
-JMITU AU支部 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
-
-### ツイッター
-SNSのフォローよろしくお願いします
-<a class="twitter-timeline" data-height="300" href="https://twitter.com/Alphabetunionjp?ref_src=twsrc%5Etfw">Tweets by Alphabetunionjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[目次に戻る](#目次)  
-[加入する](#加入の呼びかけ) 
-
 # 関連組織
 ### 上部組織
 [JMITU中央本部](http://jmiu.com/)  
@@ -152,6 +140,16 @@ SNSのフォローよろしくお願いします
 [東京地評](https://www.chihyo.jp/)  
 [全労連](https://www.zenroren.gr.jp/jp/)  
 [Alphabet Workers Union](https://www.alphabetworkersunion.org/)
+
+[目次に戻る](#目次)  
+[加入する](#加入の呼びかけ) 
+
+# 問い合わせ
+JMITU AU支部 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
+
+### ツイッター
+SNSのフォローよろしくお願いします
+<a class="twitter-timeline" data-height="300" href="https://twitter.com/Alphabetunionjp?ref_src=twsrc%5Etfw">Tweets by Alphabetunionjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [目次に戻る](#目次)  
 [加入する](#加入の呼びかけ) 

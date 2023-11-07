@@ -4,7 +4,7 @@ To counter the large-scale layoffs at Google, the JMITU Alphabet Union was estab
 [New] [Added message from union members](#join-us)  
 [New] [Added labor consultation episode example](en.md#labor-consultation)  
 
-[日本語](index.md)
+[日本語](index.md)　[Contact](#contact)
 
 # Index
 - [The Problems with Google's Layoffs That You Should Know About](#the-problems-with-googles-layoffs-that-you-should-know-about)
@@ -14,7 +14,6 @@ To counter the large-scale layoffs at Google, the JMITU Alphabet Union was estab
 - [Join us](#join-us)
 - [Labor Consultation](#labor-consultation)
 - [Donation](#donation)
-- [Contact](#contact)
 - [Related Organizations](#related-organization)
 
 # The Problems with Google's Layoffs That You Should Know About
