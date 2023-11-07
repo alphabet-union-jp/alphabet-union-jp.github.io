@@ -62,9 +62,6 @@ I never imagined Google would take such a harsh approach......<a href="https://a
 [Join us](#join-us)  
 [Back to Index](#index)
 
-[Join us](#join-us)  
-[Back to Index](#index)
-
 # Join us
 For a labor union, the number of union members directly translates into its strength. Anyone working for a company under Alphabet, regardless of employment type, is eligible to join. Growing and strengthening the union is the only way to communicate on equal terms with the company and win workers' rights. 
 Please consider joining for your own sake, and to prevent aggressive layoffs.  
