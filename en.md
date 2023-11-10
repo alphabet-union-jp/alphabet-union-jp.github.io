@@ -1,5 +1,5 @@
 ---
-title: "[Google Japan:JMITU] Alphabet Union Branch"
+title: "[Google Japan] JMITU Alphabet Union Branch"
 description: "The JMITU Alphabet Union was formed to counter the large-scale layoffs at Google Japan. We are actively working to rectify the illegal forced resignations, including those targeting individuals on parental and maternity leave."
 lang: "en_US"
 ---
