@@ -4,7 +4,7 @@ description: "The JMITU Alphabet Union was formed to counter the large-scale lay
 lang: "en_US"
 ---
 
-[New] [Added message from union members](#join-us)  
+[New] [Added message from union members](#message-from-union-members)  
 [New] [Added labor consultation episode example](en.md#labor-consultation)  
 
 [日本語](index.md)　[Contact](#contact)
@@ -81,6 +81,9 @@ Contact
 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
 
 [membership application form](https://drive.google.com/file/d/13E7CmoeiatskU1mLOHyffijWoF5O1tai/view?usp=sharing)  
+
+[Terms](https://drive.google.com/file/d/1NLcsS4uFP4KSxEBJJ3PFFu_z6J3UiDli/view?usp=drive_link)  
+
 [FAQs](join_questions.md)  
 
 [Back to Index](#index)

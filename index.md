@@ -4,7 +4,7 @@ description: "Google Japanでの大規模レイオフに対抗するため、JMI
 lang: "ja_JP"
 ---
 
-[New] [組合員からのメッセージを追加しました](#加入の呼びかけ)  
+[New] [組合員からのメッセージを追加しました](#組合員からのメッセージ)  
 [New] [労働相談の事例を追加しました](#労働相談)  
 
 [English](en.md)  [問い合わせ](#問い合わせ)
@@ -83,6 +83,8 @@ lang: "ja_JP"
 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
 
 [加入届](https://drive.google.com/file/d/13E7CmoeiatskU1mLOHyffijWoF5O1tai/view?usp=sharing)  
+
+[規約](https://drive.google.com/file/d/1NLcsS4uFP4KSxEBJJ3PFFu_z6J3UiDli/view?usp=drive_link)  
 
 [組合加入に関するQ&A](join_questions.md)  
 
