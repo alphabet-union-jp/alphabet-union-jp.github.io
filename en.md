@@ -4,6 +4,7 @@ description: "The JMITU Alphabet Union was formed to counter the large-scale lay
 lang: "en_US"
 ---
 
+[New] [Added a section about legal action against lack of explanation](#union-activity-about-lack-of-explanation-on-the-layoff)  
 [New] [Added message from union members](#message-from-union-members)  
 [New] [Added labor consultation episode example](en.md#labor-consultation)  
 
@@ -11,6 +12,7 @@ lang: "en_US"
 
 # Index
 - [The Problems with Google's Layoffs That You Should Know About](#the-problems-with-googles-layoffs-that-you-should-know-about)
+- [Union Activity about Lack of Explanation on the Layoff](#union-activity-about-lack-of-explanation-on-the-layoff)
 - [Union Activity about Recommendation of Resignation During Pat/Mat Leave](#union-activity-about-recommendation-of-resignation-during-patmat-leave)
   - [Letter from the impacted employee](#letter-from-the-impacted-employee)
 - [Join us](#join-us)
@@ -21,6 +23,36 @@ lang: "en_US"
 # The Problems with Google's Layoffs That You Should Know About
 (auto translated by chatGPT)  
 > Google has carried out large-scale layoffs affecting approximately 12,000 people worldwide. Google Japan is no exception, with about 6% of the employees, around 200 people, persumed to be targeted. Sundar Pichai, Google's CEO, has sent an email to the staff stating that the company will comply with the laws in each country. However, the organizational restructuring conducted in Japan has shown many flaws. Especially egregious is that employees on maternity or parental leave are also being targeted. This has led to voices from employees saying they cannot comfortably have children under these circumstances. We have categorized the major issues into three main points...... [Read the full article](policy_layoff_en.md)
+
+[Join us](#join-us)  
+[Back to Index](#index)
+
+# Union Activity about Lack of Explanation on the Layoff
+Collective bargaining is a fundamental part of communication between workers and the company, and it is legally protected as a right of the labor union. It is considered an act of unfair labor practice if a company refuses to respond to a collective bargaining request without a valid reason or does not provide a sincere explanation during the collective bargaining process. The company has a duty to respond to the demands of the labor union or explain why it cannot comply if unable to do so.
+
+The Alphabet Union has submitted three collective bargaining proposals to the company regarding this round of layoffs. However, the company prematurely ended the bargaining process after only two sessions, and without providing sufficient explanation, refused the third request.
+
+Regarding this matter, we filed a relief request with the Tokyo Labor Bureau on (Date).
+
+A labor tribunal relief request is like a lawsuit for labor unions, and it also incurs attorney fees. Your contributions, in the form of donations, can greatly assist us. We are also running a crowdfunding campaign, so you can support us through that as well.
+
+[Donate](#Donation)  
+
+[Join us](#join-us)  
+[Back to Index](#index)
+
+## Collective Bargaining History
+We initially proposed the first round of collective bargaining on March 2nd, but the company designated March 22nd, after the voluntary retirement recommendation deadline of March 17th. In this meeting, they explained that the retirement recommendation was voluntary, that there would be no further rounds of retirement recommendations for the current targets, that the number of layoffs was decided by the project area leaders on a team basis, and that the targets comprised 6% of the total Alphabet workforce. However, no further explanation was provided about the company's financial situation, they merely referred us to Investor Relations. The financial figures from Investor Relations showed a profit, which isn't a satisfactory explanation. The company could not provide definitive answers about what would happen to employees who rejected the retirement recommendation, or the possibility of a second wave.
+
+We proposed the second round of collective bargaining on April 4th, but the company designated a date more than a month later, May 9th. Despite asking again about the company's financial situation, they said that the information was confidential and even the attendees were not informed. It is illegal and constitutes unfair labor practices for a person with the authority to respond to the labor union's demands not to attend collective bargaining. There was also no explanation given about the target number for reductions, the number of targets in Google Japan, the number of targets on long-term leave, or the number of people who accepted the retirement recommendation.
+
+May 31st is the retirement deadline for those who have accepted the retirement recommendation. We requested a third round of collective bargaining on May 9th in order to give those who may have accepted the retirement recommendation under the misunderstanding that they would be dismissed otherwise, a chance to make another decision with proper information. However, the company unilaterally ended the collective bargaining, stating there was no room for further dialogue.
+
+We believe the root of the problem with these layoffs lies in the lack of two explanations: the necessity of the layoffs to the employees, and the future prospects for the targets. A healthy labor-management relationship is built through explanation and communication. Without explaining these key points in collective bargaining, it's impossible to solve problems through dialogue. To make collective bargaining healthy, the law obliges companies to respond sincerely. We have requested relief from the Labor Commission to ensure that collective bargaining delivers the necessary information to employees.
+
+The relief request to the Labor Commission is similar to a labor union lawsuit conducted by the labor union as an organization. It also involves legal fees. Your support, in the form of donations, can be a significant help.
+
+[Donate](#Donation)  
 
 [Join us](#join-us)  
 [Back to Index](#index)
