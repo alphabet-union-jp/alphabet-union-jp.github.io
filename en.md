@@ -36,6 +36,8 @@ Regarding this matter, we filed a relief request with the Tokyo Labor Bureau on 
 
 A labor tribunal relief request is like a lawsuit for labor unions, and it also incurs attorney fees. Your contributions, in the form of donations, can greatly assist us. We are also running a crowdfunding campaign, so you can support us through that as well.
 
+[Cloud Funding](https://igg.me/at/google-japan-layoff)  
+
 [Donate](#Donation)  
 
 [Join us](#join-us)  
@@ -51,6 +53,8 @@ May 31st is the retirement deadline for those who have accepted the retirement r
 We believe the root of the problem with these layoffs lies in the lack of two explanations: the necessity of the layoffs to the employees, and the future prospects for the targets. A healthy labor-management relationship is built through explanation and communication. Without explaining these key points in collective bargaining, it's impossible to solve problems through dialogue. To make collective bargaining healthy, the law obliges companies to respond sincerely. We have requested relief from the Labor Commission to ensure that collective bargaining delivers the necessary information to employees.
 
 The relief request to the Labor Commission is similar to a labor union lawsuit conducted by the labor union as an organization. It also involves legal fees. Your support, in the form of donations, can be a significant help.
+
+[Cloud Funding](https://igg.me/at/google-japan-layoff)  
 
 [Donate](#Donation)  
 
