@@ -77,6 +77,8 @@ Refer to this [FAQs](join_questions.md) as well.
 
 > Upon entering my workplace, my sole focus was to work hard and excel. But with time, I began to understand the crucial role our labor union plays. They champion fair treatment, ensure our safety, and advocate tirelessly for our individual rights, which truly moved me to support their cause. Now, as a member, I contribute in ways that fit my capabilities, and I am proud to be part of such a collective. Why not join us in shaping a better workplace by becoming a union member? ---Sasano K
 
+> In the workplace, sometimes we face unfair treatment or bullying. When feeling cornered and unsure of what to do, receiving support from a union can be incredibly reassuring and invaluable, beyond what words can express. When subjected to unfair and unjust treatment, you should not just endure it; instead, raise your voice and protest. You should not suffer in silence. You have the right to be treated fairly. Correcting these wrongful acts and environments will make our workplaces and society better. Won't you join us in this effort? ---Seninbari
+
 Contact
 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
 
