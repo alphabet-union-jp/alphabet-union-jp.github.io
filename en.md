@@ -36,7 +36,7 @@ Regarding this matter, we filed a relief request with the Tokyo Labor Bureau on 
 
 A labor tribunal relief request is like a lawsuit for labor unions, and it also incurs attorney fees. Your contributions, in the form of donations, can greatly assist us. We are also running a crowdfunding campaign, so you can support us through that as well.
 
-[Cloud Funding](https://igg.me/at/google-japan-layoff)  
+[Crowdfunding](https://igg.me/at/google-japan-layoff)  
 
 [Donate](#Donation)  
 
@@ -54,7 +54,7 @@ We believe the root of the problem with these layoffs lies in the lack of two ex
 
 The relief request to the Labor Commission is similar to a labor union lawsuit conducted by the labor union as an organization. It also involves legal fees. Your support, in the form of donations, can be a significant help.
 
-[Cloud Funding](https://igg.me/at/google-japan-layoff)  
+[Crowdfunding](https://igg.me/at/google-japan-layoff)  
 
 [Donate](#Donation)  
 
