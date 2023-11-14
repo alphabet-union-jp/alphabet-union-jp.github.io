@@ -42,6 +42,9 @@ A labor tribunal relief request is like a lawsuit for labor unions, and it also 
 
 [Donate](#Donation)  
 
+Related article：  
+[Mainichi 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
+
 [Join us](#join-us)  
 [Back to Index](#index)
 
@@ -84,6 +87,7 @@ Furthermore, we believe that cases like this are undesirable for both employees 
  
 Related Articles:  
 [Business Insider Japan グーグルの退職勧奨を東京労働局が｢違反｣認定、労働組合が発表。産休・育休中の社員めぐり](https://www.businessinsider.jp/post-278201)  
+[Mainichi 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
 
 ## May/25 Requested Administrative Guidance to Tokyo Labor Bureau
 On May 25, we requested the Tokyo Labor Bureau to issue guidance on violations of the Child Care and Family Care Leave Law. Currently, the Labor Bureau is reviewing whether there were any illegal activities.  
