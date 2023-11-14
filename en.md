@@ -28,13 +28,15 @@ lang: "en_US"
 [Back to Index](#index)
 
 # Union Activity about Lack of Explanation on the Layoff
-Collective bargaining is a fundamental part of communication between workers and the company, and it is legally protected as a right of the labor union. It is considered an act of unfair labor practice if a company refuses to respond to a collective bargaining request without a valid reason or does not provide a sincere explanation during the collective bargaining process. The company has a duty to respond to the demands of the labor union or explain why it cannot comply if unable to do so.
+Collective bargaining is a fundamental part of communication between workers and the company, and it is legally protected as a right of the labor union. It is considered an act of unfair labor practice if a company refuses to respond to a collective bargaining request without a valid reason or does not provide a sincere explanation during the collective bargaining process. The company has a duty to respond to the demands of the labor union or explain why it cannot comply if unable to do so.  
 
-The Alphabet Union has submitted three collective bargaining proposals to the company regarding this round of layoffs. However, the company prematurely ended the bargaining process after only two sessions, and without providing sufficient explanation, refused the third request.
+The Alphabet Union has submitted three collective bargaining proposals to the company regarding this round of layoffs. However, the company prematurely ended the bargaining process after only two sessions, and without providing sufficient explanation, refused the third request.  
 
-Regarding this matter, we filed a relief request with the Tokyo Labor Bureau on (Date).
+Regarding this matter, we filed a relief request with the Tokyo Labor Bureau on 11/14.  
 
-A labor tribunal relief request is like a lawsuit for labor unions, and it also incurs attorney fees. Your contributions, in the form of donations, can greatly assist us. We are also running a crowdfunding campaign, so you can support us through that as well.
+Illegal actions against workers can also result in significant damage to the company. Collective bargaining is crucial to prevent unethical and illegal actions, like the [retirement encouragement directed at employees on parental leave that occurred on 3/2](https://alphabet-union-jp.github.io/en.html#union-activity-about-recommendation-of-resignation-during-patmat-leave). I believe that Google's refusal to engage in collective bargaining and the occurrence of such illegal actions are two sides of the same coin.  
+
+A labor tribunal relief request is like a lawsuit for labor unions, and it also incurs attorney fees. Your contributions, in the form of donations, can greatly assist us. We are also running a crowdfunding campaign, so you can support us through that as well.  
 
 [Crowdfunding](https://igg.me/at/google-japan-layoff)  
 
@@ -62,6 +64,25 @@ The relief request to the Labor Commission is similar to a labor union lawsuit c
 [Back to Index](#index)
 
 # Union Activity about Recommendation of Resignation During Pat/Mat Leave
+## 11/14 Notification from the Labor Bureau of Illegal Conduct
+
+We have received notification from the Labor Bureau regarding the layoff conducted on 3/2. Following our request for guidance submitted to the Labor Bureau on 5/25, they acknowledged illegal actions and provided guidance. The union's claim involved illegal pressure to resign, exceeding the legal framework for suggesting retirement, especially towards employees on maternity or paternity leave. The Labor Bureau did not disclose specific details of the recognized illegal actions. They reported that they would administer administrative guidance and, if no improvement is seen within a certain period, would issue a correction recommendation. Currently, under the mediation of the Labor Bureau, negotiations for a settlement are underway.  
+  
+We understand this as a testament to the Labor Bureau acknowledging the public interest and support shown through signatures and other means. Here is the message from the impacted employee.  
+  
+---
+Faced with a shocking situation while caring for a 2-month-old baby, I decided to make this fact public, driven by the desire for a more work-friendly society.  
+  
+With 16,586 astonishing signatures received, we have reached this point thanks to the support of many people.  
+  
+We are sincerely grateful to everyone.  
+
+---
+The Labor Bureau investigates only cases that have been submitted. Without an application, similar cases will not automatically receive remedial measures. If you are facing difficulties due to being encouraged to retire, please consult with a labor union or the Labor Bureau.  
+
+Furthermore, we believe that cases like this are undesirable for both employees and companies. Preventing such cases is one of the roles of collective bargaining. However, the company has neglected and refused this collective bargaining. To prevent such unfortunate situations, please be informed about [the application for relief to the Labor Commission](https://alphabet-union-jp.github.io/en.html#union-activity-about-lack-of-explanation-on-the-layoff) regarding refusal of collective bargaining. 
+ 
+
 ## May/25 Requested Administrative Guidance to Tokyo Labor Bureau
 On May 25, we requested the Tokyo Labor Bureau to issue guidance on violations of the Child Care and Family Care Leave Law. Currently, the Labor Bureau is reviewing whether there were any illegal activities.  
 There are two main issues: whether there was forced retirement that went beyond the scope of voluntary retirement recommendations, and whether it constitutes a violation of the Child Care and Family Care Leave Law.  
