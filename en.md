@@ -82,6 +82,8 @@ The Labor Bureau investigates only cases that have been submitted. Without an ap
 
 Furthermore, we believe that cases like this are undesirable for both employees and companies. Preventing such cases is one of the roles of collective bargaining. However, the company has neglected and refused this collective bargaining. To prevent such unfortunate situations, please be informed about [the application for relief to the Labor Commission](https://alphabet-union-jp.github.io/en.html#union-activity-about-lack-of-explanation-on-the-layoff) regarding refusal of collective bargaining. 
  
+Related Articles:  
+[Business Insider Japan グーグルの退職勧奨を東京労働局が｢違反｣認定、労働組合が発表。産休・育休中の社員めぐり](https://www.businessinsider.jp/post-278201)  
 
 ## May/25 Requested Administrative Guidance to Tokyo Labor Bureau
 On May 25, we requested the Tokyo Labor Bureau to issue guidance on violations of the Child Care and Family Care Leave Law. Currently, the Labor Bureau is reviewing whether there were any illegal activities.  
