@@ -67,6 +67,15 @@ The relief request to the Labor Commission is similar to a labor union lawsuit c
 [Back to Index](#index)
 
 # Union Activity about Recommendation of Resignation During Pat/Mat Leave
+The solicitation to resign made to the targeted individuals on 3/2 was an illegal form of forced resignation, going beyond the framework of regular solicitation. The email sent contained messages like, "Your role has been impacted by workforce reductions" and "You will receive an additional payment if you choose to sign the Agreement within 14 fays from today. You will continue to have access to the corporate network during this period" This cleverly implied that not accepting their offer could result in losing access to the internal system.   
+
+Subsequently, documents regarding the early retirement package were repeatedly sent to the targeted individuals every two days. HR accepted meetings with a friendly tone, but when the targeted individuals asked what happens if the declined, no information was provided. Two days before the deadline of the early retirement package, on 3/14, an additional email was sent stating, "If you have not signed your Agreement, we will begin a process to adjust your role scope, which may also result in reduced accessto Google's systems" This led to the misconception that "If I refuse, I'll face the same lockout layoffs that happened at the headquarters in January."  
+
+The union is claiming that this constitutes illegal forced resignation.  
+
+Related Article:  
+ [グーグル社員の告白｢退職する以外に選択肢はなかった｣。育休中社員が語ったこと](https://www.businessinsider.jp/post-268498) (4/18 Business Insider)  
+ 
 ## 11/14 Notification from the Labor Bureau of Illegal Conduct
 
 We have received notification from the Labor Bureau regarding the layoff conducted on 3/2. Following our request for guidance submitted to the Labor Bureau on 5/25, they acknowledged illegal actions and provided guidance. The union's claim involved illegal pressure to resign, exceeding the legal framework for suggesting retirement, especially towards employees on maternity or paternity leave. The Labor Bureau did not disclose specific details of the recognized illegal actions. They reported that they would administer administrative guidance and, if no improvement is seen within a certain period, would issue a correction recommendation. Currently, under the mediation of the Labor Bureau, negotiations for a settlement are underway.  
