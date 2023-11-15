@@ -15,6 +15,7 @@ lang: "en_US"
 - [Union Activity about Lack of Explanation on the Layoff](#union-activity-about-lack-of-explanation-on-the-layoff)
 - [Union Activity about Recommendation of Resignation During Pat/Mat Leave](#union-activity-about-recommendation-of-resignation-during-patmat-leave)
   - [Letter from the impacted employee](#letter-from-the-impacted-employee)
+  - [11/14 Notification from the Labor Bureau of Illegal Conduct](#1114-notification-from-the-labor-bureau-of-illegal-conduct)
 - [Join us](#join-us)
 - [Labor Consultation](#labor-consultation)
 - [Donation](#donation)
@@ -64,7 +65,7 @@ The relief request to the Labor Commission is similar to a labor union lawsuit c
 [Donate](#Donation)  
 
 [Join us](#join-us)  
-[Back to Index](#index)
+[Back to Index](#index)  
 
 # Union Activity about Recommendation of Resignation During Pat/Mat Leave
 The solicitation to resign made to the targeted individuals on 3/2 was an illegal form of forced resignation, going beyond the framework of regular solicitation. The email sent contained messages like, "Your role has been impacted by workforce reductions" and "You will receive an additional payment if you choose to sign the Agreement within 14 fays from today. You will continue to have access to the corporate network during this period" This cleverly implied that not accepting their offer could result in losing access to the internal system.   
@@ -74,7 +75,9 @@ Subsequently, documents regarding the early retirement package were repeatedly s
 The union is claiming that this constitutes illegal forced resignation.  
 
 Related Article:  
- [グーグル社員の告白｢退職する以外に選択肢はなかった｣。育休中社員が語ったこと](https://www.businessinsider.jp/post-268498) (4/18 Business Insider)  
+[グーグル社員の告白｢退職する以外に選択肢はなかった｣。育休中社員が語ったこと](https://www.businessinsider.jp/post-268498) (4/18 Business Insider)  
+[Join us](#join-us)  
+[Back to Index](#index)  
  
 ## 11/14 Notification from the Labor Bureau of Illegal Conduct
 
@@ -97,6 +100,9 @@ Furthermore, we believe that cases like this are undesirable for both employees 
 Related Articles:  
 [Business Insider Japan グーグルの退職勧奨を東京労働局が｢違反｣認定、労働組合が発表。産休・育休中の社員めぐり](https://www.businessinsider.jp/post-278201)  
 [Mainichi 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
+
+[Join us](#join-us)  
+[Back to Index](#index)  
 
 ## May/25 Requested Administrative Guidance to Tokyo Labor Bureau
 On May 25, we requested the Tokyo Labor Bureau to issue guidance on violations of the Child Care and Family Care Leave Law. Currently, the Labor Bureau is reviewing whether there were any illegal activities.  
@@ -221,6 +227,8 @@ JMITU AU branch
 [Alphabet Workers Union](https://www.alphabetworkersunion.org/)
 
 ## News Articles about our Activity
+[Business Insider Japan グーグルの退職勧奨を東京労働局が｢違反｣認定、労働組合が発表。産休・育休中の社員めぐり](https://www.businessinsider.jp/post-278201)  
+[Mainichi 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
 [グーグルの労働組合｢育休・産休社員への退職勧奨は不当｣と訴え。少なくとも6人が該当](https://www.businessinsider.jp/post-270986) (6/7 Business Insider)  
 [グーグルがマタハラ　産休・育休中の従業員に退職促す　ＪＭＩＴＵ　労働局に指導要請](https://www.akahata-digital.press/article/article/20230607-1203) (6/7 Shimbun Akahata)  
 [育休中に退職勧奨　元社員、グーグルへ指導要請](https://mainichi.jp/articles/20230607/ddm/012/040/126000c) (6/7 Mainichi)  
