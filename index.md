@@ -4,7 +4,6 @@ description: "Google Japanでの大規模レイオフに対抗するため、JMI
 lang: "ja_JP"
 ---
 
-
 [New] [不誠実団交に対しての法的措置を追記しました](#会社の不誠実な説明についての活動)  
 [New] [組合員からのメッセージを追加しました](#組合員からのメッセージ)  
 [New] [労働相談の事例を追加しました](#労働相談)  
@@ -25,6 +24,7 @@ lang: "ja_JP"
 # 知ってほしいGoogleのレイオフが抱える問題
 > Googleは全世界で12000人規模の大規模な整理解雇を行いました。Google Japanも例外ではなく、社員の6%程度、約200人が対象になったと見られています。GoogleCEOのスンダー・ピチャイは社員に対し、各国での法律に従うとメールを送りましたが、実際には日本で行われた組織再編成には、たくさんのほころびがありました。特にひどいのは、産休・育休中の社員も対象となっていることです。これでは安心して子供を産むことができないという声が社員から上がっています。特に大きな問題点を三つに整理しました...... [全文を読む](policy_layoff_jp.md)
 
+[English](en.md#the-problems-with-googles-layoffs-that-you-should-know-about)  
 [目次に戻る](#目次)  
 [加入する](#加入の呼びかけ) 
 
@@ -41,6 +41,7 @@ Alphabet Unionは、今回のレイオフについて、今まで会社に３回
 関連記事：  
 [毎日新聞 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
 
+[English](en.md#union-activity-about-lack-of-explanation-on-the-layoff)  
 [目次に戻る](#目次)  
 [加入する](#加入の呼びかけ) 
 
@@ -56,6 +57,7 @@ Alphabet Unionは、今回のレイオフについて、今まで会社に３回
 
 [寄付する](#寄付先)  
 
+[English](en.md#collective-bargaining-history)  
 [目次に戻る](#目次)  
 [加入する](#加入の呼びかけ) 
 
@@ -67,6 +69,7 @@ Alphabet Unionは、今回のレイオフについて、今まで会社に３回
 関連記事：  
 [グーグル社員の告白｢退職する以外に選択肢はなかった｣。育休中社員が語ったこと](https://www.businessinsider.jp/post-268498) (4/18 ビジネスインサイダー)  
 
+[English](en.md#union-activity-about-recommendation-of-resignation-during-patmat-leave)  
 [目次に戻る](#目次)  
 [加入する](#加入の呼びかけ) 
 
@@ -92,6 +95,7 @@ Alphabet Unionは、今回のレイオフについて、今まで会社に３回
 こんな強硬手段をグーグルがとるとは思ってもいませんでした......<a href="https://alphabet-union-jp.github.io/letter_layoff_jp.html#当事者からの手紙">全文を読む</a><br>
 </div>
 
+[English](en.md#letter-from-the-impacted-employee)  
 [目次に戻る](#目次)  
 [加入する](#加入の呼びかけ) 
 
@@ -113,8 +117,9 @@ Alphabet Unionは、今回のレイオフについて、今まで会社に３回
 
 関連記事：  
 [ビジネスインサイダー グーグルの退職勧奨を東京労働局が｢違反｣認定、労働組合が発表。産休・育休中の社員めぐり](https://www.businessinsider.jp/post-278201)  
-[毎日新聞 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
+[毎日新聞 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)
 
+[English](en.md#1114-notification-from-the-labor-bureau-of-illegal-conduct)  
 [目次に戻る](#目次)  
 [加入する](#加入の呼びかけ) 
 
@@ -133,6 +138,7 @@ Alphabet Unionは、今回のレイオフについて、今まで会社に３回
 どうか、このページを拡散し、身近な人と議論してください。  
 世論の後押しをお願いします。  
 
+[English](en.md#may25-requested-administrative-guidance-to-tokyo-labor-bureau)  
 [目次に戻る](#目次)  
 [加入する](#加入の呼びかけ) 
 
@@ -159,6 +165,7 @@ Alphabet Unionは、今回のレイオフについて、今まで会社に３回
 
 [組合加入に関するQ&A](join_questions.md)  
 
+[English](en.md#join-us)  
 [目次に戻る](#目次)
 
 # 労働相談
@@ -172,6 +179,7 @@ Alphabet Unionは、今回のレイオフについて、今まで会社に３回
 JMITU AU支部  
 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
 
+[English](en.md#labor-consultation)  
 [目次に戻る](#目次)  
 [加入する](#加入の呼びかけ) 
 
@@ -182,6 +190,7 @@ JMITU AU支部
 > JMITU Alphabetユニオン支部  
 > ジェイエムアイティーユー アルファベット ユニオン シブ
 
+[English](en.md#donation)  
 [目次に戻る](#目次)  
 [加入する](#加入の呼びかけ) 
 
@@ -216,6 +225,7 @@ JMITU AU支部
 [グーグル日本　労組結成の思い](https://www.jcp.or.jp/akahata/aik22/2023-03-29/2023032901_08_0.html) (3/29 しんぶん赤旗)  
 [日本グーグルに労組 ＪＭＩＴＵ支部 同意ない解雇やめよ](https://www.jcp.or.jp/akahata/aik22/2023-03-02/2023030201_03_0.html) (3/2 しんぶん赤旗)  
 
+[English](en.md#external-resources)  
 [目次に戻る](#目次)  
 [加入する](#加入の呼びかけ) 
 
@@ -225,6 +235,7 @@ JMITU AU支部 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)
 ### SNS  
 <a class="twitter-timeline" data-height="300" href="https://twitter.com/Alphabetunionjp?ref_src=twsrc%5Etfw">Tweets by Alphabetunionjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[English](en.md#contact)  
 [目次に戻る](#目次)  
 [加入する](#加入の呼びかけ) 
 

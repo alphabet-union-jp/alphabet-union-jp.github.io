@@ -25,6 +25,7 @@ lang: "en_US"
 (auto translated by chatGPT)  
 > Google has carried out large-scale layoffs affecting approximately 12,000 people worldwide. Google Japan is no exception, with about 6% of the employees, around 200 people, persumed to be targeted. Sundar Pichai, Google's CEO, has sent an email to the staff stating that the company will comply with the laws in each country. However, the organizational restructuring conducted in Japan has shown many flaws. Especially egregious is that employees on maternity or parental leave are also being targeted. This has led to voices from employees saying they cannot comfortably have children under these circumstances. We have categorized the major issues into three main points...... [Read the full article](policy_layoff_en.md)
 
+[日本語](index.md#知ってほしいgoogleのレイオフが抱える問題)  
 [Join us](#join-us)  
 [Back to Index](#index)
 
@@ -49,6 +50,7 @@ A labor commission relief request(2) is like a lawsuit for labor unions. and it 
 Related article：  
 [Mainichi 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
 
+[日本語](index.md#会社の不誠実な説明についての活動)  
 [Join us](#join-us)  
 [Back to Index](#index)
 
@@ -67,6 +69,7 @@ The relief request to the Labor Commission is similar to a labor union lawsuit c
 
 [Donate](#Donation)  
 
+[日本語](index.md#今までの団体交渉)  
 [Join us](#join-us)  
 [Back to Index](#index)  
 
@@ -79,6 +82,8 @@ We argues that these tactics unfairly pressure employees into resigning, which w
 
 Related Article:  
 [グーグル社員の告白｢退職する以外に選択肢はなかった｣。育休中社員が語ったこと](https://www.businessinsider.jp/post-268498) (4/18 Business Insider)  
+
+[日本語](index.md#育休中の退職強要についての組合活動)  
 [Join us](#join-us)  
 [Back to Index](#index)  
  
@@ -106,6 +111,7 @@ Related Articles:
 [Business Insider Japan グーグルの退職勧奨を東京労働局が｢違反｣認定、労働組合が発表。産休・育休中の社員めぐり](https://www.businessinsider.jp/post-278201)  
 [Mainichi 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
 
+[日本語](index.md#1114-労働局から違法行為があった判断の連絡がありました)  
 [Join us](#join-us)  
 [Back to Index](#index)  
 
@@ -116,12 +122,14 @@ The key point in the case of forced retirement is whether the company can object
 Regarding the Child Care and Family Care Leave Law, if it wasn't determined that the layoffs were due to the employees taking child care leave, the focus would be on whether it's decided, through comprehensive judgment, that the actions contradict the spirit of the law.  
 Please help to spread the word about this page and discuss it with those around you. We appreciate the support of public opinion.  
 
+[日本語](index.md#525-労働局に指導の申請をしました)  
 [Join us](#join-us)  
 [Back to Index](#index)
 
 ## Jun/23 Submitted Signatures to Tokyo Labor Bureau
 We have initiated an [online petition](https://www.change.org/google-layoff-jp) requesting guidance from the Labor Bureau, and as of June 23rd, we have submitted 14,917 signatures to the Labor Bureau. The form will remain open until the Labor Bureau makes its decision, so we continue to ask for your signatures.
 
+[日本語](index.md#623-署名を労働局に提出しました)  
 [Join us](#join-us)  
 [Back to Index](#index)
 
@@ -145,6 +153,7 @@ During such a critical and precious time in the life of a parent and a zero-year
 I never imagined Google would take such a harsh approach......<a href="https://alphabet-union-jp.github.io/letter_layoff_en.html#letter-from-the-impacted-employee">Read Full Letter</a><br>
 </div>
 
+[日本語](index.md#当事者からの手紙)  
 [Join us](#join-us)  
 [Back to Index](#index)
 
@@ -171,6 +180,7 @@ Contact
 
 [FAQs](join_questions.md)  
 
+[日本語](index.md#加入の呼びかけ)  
 [Back to Index](#index)
 
 # Labor Consultation
@@ -185,6 +195,7 @@ JMITU AU branch
 
 [FAQs about layoff](resign_questions.md)  
 
+[日本語](index.md#労働相談)  
 [Join us](#join-us)  
 [Back to Index](#index)
 
@@ -200,6 +211,7 @@ Bank account
 > JMITU Alphabetユニオン支部  
 > ジェイエムアイティーユー アルファベット ユニオン シブ
 
+[日本語](index.md#寄付先)  
 [Join us](#join-us)  
 [Back to Index](#index)
 
@@ -210,6 +222,7 @@ JMITU AU branch
 ### SNS
 <a class="twitter-timeline" data-height="300" href="https://twitter.com/Alphabetunionjp?ref_src=twsrc%5Etfw">Tweets by Alphabetunionjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[日本語](index.md#問い合わせ)  
 [Join us](#join-us)  
 [Back to Index](#index)
 
@@ -244,6 +257,7 @@ JMITU AU branch
 [グーグル日本　労組結成の思い](https://www.jcp.or.jp/akahata/aik22/2023-03-29/2023032901_08_0.html) (3/29 Shimbun Akahata)  
 [日本グーグルに労組 ＪＭＩＴＵ支部 同意ない解雇やめよ](https://www.jcp.or.jp/akahata/aik22/2023-03-02/2023030201_03_0.html) (3/2 Shimbun Akahata)  
 
+[日本語](index.md#外部リンク)  
 [Join us](#join-us)  
 [Back to Index](#index)
 
