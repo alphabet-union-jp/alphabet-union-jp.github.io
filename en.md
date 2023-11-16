@@ -68,11 +68,11 @@ The relief request to the Labor Commission is similar to a labor union lawsuit c
 [Back to Index](#index)  
 
 # Union Activity about Recommendation of Resignation During Pat/Mat Leave
-The solicitation to resign made to the targeted individuals on 3/2 was an illegal form of forced resignation, going beyond the framework of regular solicitation. The email sent contained messages like, "Your role has been impacted by workforce reductions" and "You will receive an additional payment if you choose to sign the Agreement within 14 fays from today. You will continue to have access to the corporate network during this period" This cleverly implied that not accepting their offer could result in losing access to the internal system.   
+The solicitation to resign made to the targeted individuals on March 2nd was unlawfully pressuring employees to resign, exceeding the bounds of standard resignation requests. Under Japanese law, employees have the right to resign voluntarily without undue pressure from the employer. The email sent contained messages like, "Your role has been impacted by workforce reductions" and "You will receive an additional payment if you choose to sign the Agreement within 14 days from today. You will continue to have access to the corporate network during this period" This is subtly suggested that rejecting their offer might lead to a loss of access to the internal system, which is seens as an indirect way of forcing employees out.  
 
-Subsequently, documents regarding the early retirement package were repeatedly sent to the targeted individuals every two days. HR accepted meetings with a friendly tone, but when the targeted individuals asked what happens if the declined, no information was provided. Two days before the deadline of the early retirement package, on 3/14, an additional email was sent stating, "If you have not signed your Agreement, we will begin a process to adjust your role scope, which may also result in reduced accessto Google's systems" This led to the misconception that "If I refuse, I'll face the same lockout layoffs that happened at the headquarters in January."  
+Subsequently, documents regarding the early retirement package were repeatedly sent to the targeted individuals every two days. HR accepted meetings with a friendly tone, but when the targeted individuals asked what happens if the declined, HR did not provide clear information about the consequences of declining the offer. Two days before the deadline of the early retirement package, on 3/14, an additional email was sent stating, "If you have not signed your Agreement, we will begin a process to adjust your role scope, which may also result in reduced access to Google's systems" This led to the misconception that "If I refuse, I'll face the same lockout layoffs that happened at the headquarters in January."  
 
-The union is claiming that this constitutes illegal forced resignation.  
+We argues that these tactics unfairly pressure employees into resigning, which we believe is against the law.
 
 Related Article:  
 [グーグル社員の告白｢退職する以外に選択肢はなかった｣。育休中社員が語ったこと](https://www.businessinsider.jp/post-268498) (4/18 Business Insider)  
@@ -81,7 +81,7 @@ Related Article:
  
 ## 11/14 Notification from the Labor Bureau of Illegal Conduct
 
-We have received notification from the Labor Bureau regarding the layoff conducted on 3/2. Following our request for guidance submitted to the Labor Bureau on 5/25, they acknowledged illegal actions and provided guidance. The union's claim involved illegal pressure to resign, exceeding the legal framework for suggesting retirement, especially towards employees on maternity or paternity leave. The Labor Bureau did not disclose specific details of the recognized illegal actions. They reported that they would administer administrative guidance and, if no improvement is seen within a certain period, would issue a correction recommendation. Currently, under the mediation of the Labor Bureau, negotiations for a settlement are underway.  
+We have received notification from the Labor Bureau regarding the layoff conducted on March 2nd. Following our request for guidance submitted to the Labor Bureau on May 25th, they acknowledged illegal actions and provided guidance(1). The union's claim involved illegal pressure to resign, exceeding the legal framework for suggesting retirement, especially towards employees on maternity or paternity leave. The Labor Bureau did not disclose specific details of the recognized illegal actions. They reported that they would administer administrative guidance(1) and, if no improvement is seen within a certain period, would issue a correction recommendation(2). Currently, under the mediation of the Labor Bureau, negotiations for a settlement are underway.  
   
 We understand this as a testament to the Labor Bureau acknowledging the public interest and support shown through signatures and other means. Here is the message from the impacted employee.  
   
@@ -90,13 +90,16 @@ Faced with a shocking situation while caring for a 2-month-old baby, I decided t
   
 With 16,586 astonishing signatures received, we have reached this point thanks to the support of many people.  
   
-We are sincerely grateful to everyone.  
+I am sincerely grateful to everyone.  
 
 ---
 The Labor Bureau investigates only cases that have been submitted. Without an application, similar cases will not automatically receive remedial measures. If you are facing difficulties due to being encouraged to retire, please consult with a labor union or the Labor Bureau.  
 
 Furthermore, we believe that cases like this are undesirable for both employees and companies. Preventing such cases is one of the roles of collective bargaining. However, the company has neglected and refused this collective bargaining. To prevent such unfortunate situations, please be informed about [the application for relief to the Labor Commission](https://alphabet-union-jp.github.io/en.html#union-activity-about-lack-of-explanation-on-the-layoff) regarding refusal of collective bargaining. 
- 
+
+(1) Administrative Guidance(行政指導): In Japan, this is a process where government agencies advise or suggest how company should comply with laws.  
+(2) Correction Recommendation(是正勧告): This is a more formal step. If a company doesn't follow the administrative guidance, the government agance may issue a correction recommendation. This is a formal request to change practices or correct legal violations.  
+
 Related Articles:  
 [Business Insider Japan グーグルの退職勧奨を東京労働局が｢違反｣認定、労働組合が発表。産休・育休中の社員めぐり](https://www.businessinsider.jp/post-278201)  
 [Mainichi 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
