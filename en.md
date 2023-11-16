@@ -29,15 +29,18 @@ lang: "en_US"
 [Back to Index](#index)
 
 # Union Activity about Lack of Explanation on the Layoff
-Collective bargaining is a fundamental part of communication between workers and the company, and it is legally protected as a right of the labor union. It is considered an act of unfair labor practice if a company refuses to respond to a collective bargaining request without a valid reason or does not provide a sincere explanation during the collective bargaining process. The company has a duty to respond to the demands of the labor union or explain why it cannot comply if unable to do so.  
+Collective bargaining is a negotiation process between union and their employer, and is fundamental part of communication between workers and the company. Under Japanese lae, it is legally protected as a right of the labor union. It is considered an act of unfair labor practice(1) if a company refuses to respond to a collective bargaining request without a valid reason or does not provide a sincere explanation during the collective bargaining process. The company has a duty to respond to the demands of the labor union or explain why it cannot comply if unable to do so.  
 
-The Alphabet Union has submitted three collective bargaining proposals to the company regarding this round of layoffs. However, the company prematurely ended the bargaining process after only two sessions, and without providing sufficient explanation, refused the third request.  
+The Alphabet Union has submitted three collective bargaining proposals to the company regarding this round of layoffs. However, the company prematurely ended the bargaining process after only two sessions, and without providing sufficient explanation, refused the third request. The company did not provide detailed reasons for their decisions, leaving the union's concerns unaddressed.  
 
-Regarding this matter, we filed a relief request with the Tokyo Labor Bureau on 11/14.  
+Regarding this matter, we filed a relief request with the Tokyo Labor Bureau on November 14th.  
 
-Illegal actions against workers can also result in significant damage to the company. Collective bargaining is crucial to prevent unethical and illegal actions, like the [retirement encouragement directed at employees on parental leave that occurred on 3/2](https://alphabet-union-jp.github.io/en.html#union-activity-about-recommendation-of-resignation-during-patmat-leave). I believe that Google's refusal to engage in collective bargaining and the occurrence of such illegal actions are two sides of the same coin.  
+Illegal actions against workers can also result in significant damage to the company. Collective bargaining is crucial to prevent unethical and illegal actions, like the [retirement encouragement directed at employees on parental leave that occurred on March 2nd](https://alphabet-union-jp.github.io/en.html#union-activity-about-recommendation-of-resignation-during-patmat-leave). I believe that Google's refusal to engage in collective bargaining and the occurrence of such illegal actions are two sides of the same coin.  
 
-A labor tribunal relief request is like a lawsuit for labor unions, and it also incurs attorney fees. Your contributions, in the form of donations, can greatly assist us. We are also running a crowdfunding campaign, so you can support us through that as well.  
+A labor commission relief request(2) is like a lawsuit for labor unions. and it also incurs attorney fees. Your contributions, in the form of donations, can greatly assist us. To support our legal efforts, including the consts of attorney fees, we welcome donations. We've also launched [a crowdfunding campaign](https://igg.me/at/google-japan-layoff) to gather further support.  
+
+(1) Unfair Labor Practice: Actions by an employer that violates unions' rights under labow law.  
+(2) Labor Commission Relief Request: Unions can request relief to labor comission when they believe that the company has committed illegal unfailr labor practice against union. It can take up to a year and a half. If they find the company at fault, Labor Commission can order the company to rectify the situation. In our case, we requested company to have collective barganing and send an apology email to union in internal mailing list.  
 
 [Crowdfunding](https://igg.me/at/google-japan-layoff)  
 
@@ -91,13 +94,12 @@ Faced with a shocking situation while caring for a 2-month-old baby, I decided t
 With 16,586 astonishing signatures received, we have reached this point thanks to the support of many people.  
   
 I am sincerely grateful to everyone.  
-
 ---
 The Labor Bureau investigates only cases that have been submitted. Without an application, similar cases will not automatically receive remedial measures. If you are facing difficulties due to being encouraged to retire, please consult with a labor union or the Labor Bureau.  
 
 Furthermore, we believe that cases like this are undesirable for both employees and companies. Preventing such cases is one of the roles of collective bargaining. However, the company has neglected and refused this collective bargaining. To prevent such unfortunate situations, please be informed about [the application for relief to the Labor Commission](https://alphabet-union-jp.github.io/en.html#union-activity-about-lack-of-explanation-on-the-layoff) regarding refusal of collective bargaining. 
 
-(1) Administrative Guidance(行政指導): In Japan, this is a process where government agencies advise or suggest how company should comply with laws.  
+(1) Administrative Guidance(行政指導): In Japan, this is a process where government agencies advise or suggest how company should comply with laws.    
 (2) Correction Recommendation(是正勧告): This is a more formal step. If a company doesn't follow the administrative guidance, the government agance may issue a correction recommendation. This is a formal request to change practices or correct legal violations.  
 
 Related Articles:  
