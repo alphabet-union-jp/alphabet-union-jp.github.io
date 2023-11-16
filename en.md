@@ -97,8 +97,9 @@ We understand this as a testament to the Labor Bureau acknowledging the public i
 Faced with a shocking situation while caring for a 2-month-old baby, I decided to make this fact public, driven by the desire for a more work-friendly society.  
   
 With 16,586 astonishing signatures received, we have reached this point thanks to the support of many people.  
-  
+
 I am sincerely grateful to everyone.  
+
 ---
 The Labor Bureau investigates only cases that have been submitted. Without an application, similar cases will not automatically receive remedial measures. If you are facing difficulties due to being encouraged to retire, please consult with a labor union or the Labor Bureau.  
 
