@@ -117,6 +117,7 @@ Alphabet Unionは、今回のレイオフについて、今まで会社に３回
 
 関連記事：  
 [ビジネスインサイダー グーグルの退職勧奨を東京労働局が｢違反｣認定、労働組合が発表。産休・育休中の社員めぐり](https://www.businessinsider.jp/post-278201)  
+[弁護士ドットコム グーグル日本法人による退職勧奨、育休・産休中の社員に実施は「違法」…組合側が発表](https://www.bengo4.com/c_5/n_16760/)  
 [毎日新聞 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)
 
 [English](en.md#1114-notification-from-the-labor-bureau-of-illegal-conduct)  
@@ -213,6 +214,7 @@ JMITU AU支部
 [Alphabet Workers Union](https://www.alphabetworkersunion.org/)
 
 ## 記事に取り上げていただきました
+[弁護士ドットコム グーグル日本法人による退職勧奨、育休・産休中の社員に実施は「違法」…組合側が発表](https://www.bengo4.com/c_5/n_16760/)  
 [ビジネスインサイダー グーグルの退職勧奨を東京労働局が｢違反｣認定、労働組合が発表。産休・育休中の社員めぐり](https://www.businessinsider.jp/post-278201)  
 [毎日新聞 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
 [グーグルの労働組合｢育休・産休社員への退職勧奨は不当｣と訴え。少なくとも6人が該当](https://www.businessinsider.jp/post-270986) (6/7 ビジネスインサイダー)  
