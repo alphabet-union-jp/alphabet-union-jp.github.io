@@ -126,4 +126,7 @@ lang: "ja_JP"
 </p>
 </div>
 
+[English](letter_layoff_en.md)  
+[加入する](index.md#加入の呼びかけ)  
+
 [戻る](index.md#当事者からの手紙)  

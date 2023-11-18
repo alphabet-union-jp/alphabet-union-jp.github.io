@@ -14,18 +14,20 @@ The first issue is the lack of adequate explanation to those targeted for layoff
 
 Indeed, some of the scenarios that the targeted employees envisioned have become reality. Cases have been seen where employees who did not agree to the suggested retirement are ordered to transfer to a temporary team composed only of those who did not agree, with no future business plan. Although it is said that their current salary will not decrease, they are suddenly reassigned to entirely different duties. If they cannot produce results equivalent to their previous positions in these unfamiliar tasks, their salary will decrease from the next year. This approach, which cuts off the careers individuals have built, is unacceptable from the standpoint of the labor union.
 
-[Join us](#join-us)  
-[Back to Index](#index)
+[Join us](en.md#join-us)  
+[Back](en.md#the-problems-with-googles-layoffs-that-you-should-know-about)  
 
 ## Unilateral Resignation Conditions
 The second issue is that the conditions were far too one-sided. In a typical "recommended retirement," shouldn't the company thoroughly adjust the timing and amount with the targeted individuals for retirement? The company's approach this time was to unilaterally impose conditions, and there was absolutely no attitude to make adjustments according to individual circumstances. The retirement date was uniformly set as May 31, even for those who planned to take long-term leave after that due to maternity leave, parental leave, or sick leave. In collective bargaining, we asked the company to consider allowing those on maternity and parental leave to remain until the end of their leave. Reasons include the impossibility of using childcare facilities if they quit, the impracticality of job-hunting while caring for children, and the difficulty of finding new employment after losing their company affiliation. It was an urgent wish tied to their children's lives. However, the company consistently did not change the format of "termination as of May 31." Salary during maternity and parental leave is paid by the local government, not by the company. Despite no financial damage to the company, they made no concessions. We believe this is due to pressure from the parent company. Although the company insists it is a nominal recommendation for retirement, isn't their policy proof of essentially unilateral layoffs?  
 
 In Japanese society, households raising children are especially vulnerable, as they have no choice but to depend on the company for their livelihood. Therefore, Japan has the Child Care Leave Law to protect households raising children. The sudden retirement notice given during child-rearing contradicts the original spirit of the Child Care Leave Law, disrupts careers and family time, and unilaterally harms the environment where the person involved can healthily raise their children. However, the company insists that it's "not illegal" and offers no apology.
 
-[Join us](#join-us)  
-[Back to Index](#index)
+[Join us](en.md#join-us)  
+[Back](en.md#the-problems-with-googles-layoffs-that-you-should-know-about)  
 
 ## Lack of Effort to Avoid Layoffs
 The third issue is the lack of "effort to avoid" layoffs, which is required when carrying out mass layoffs. The company explained in collective bargaining that there had been some reduction in executive compensation, but subsequent various reports show that Sundar Pichai, the CEO who issued this major restructuring, received compensation exceeding the previous year. The union has not received any information that the remuneration of the representative of the Japanese corporation has been reduced. The business figures for Google, listed in the Investor Relations issued by the parent company Alphabet, have continued to be profitable over the past few years, which doesn't necessitate layoffs. Expense reductions, such as downsizing employee benefits including the staff cafeteria and gym, were carried out on a small scale as a pretext after the layoffs. The union speculates that the layoffs were carried out based on the intentions of shareholders rather than performance, etc. Indeed, the stock price rose immediately after the layoffs. Despite claiming to respect Japanese law and recommending retirement, the company's real intention in this reorganization might have been unilateral layoffs aimed at demonstrating the company's stance to shareholders, going beyond merely reducing personnel expenses.
 
-[Back](en.md#the-problems-with-googles-layoffs-that-you-should-know-about)
+[日本語](policy_layoff_jp.md)  
+[Join us](en.md#join-us)  
+[Back](en.md#the-problems-with-googles-layoffs-that-you-should-know-about)  

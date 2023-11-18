@@ -18,6 +18,8 @@ The suggested resignation is voluntary, and you have the right to refuse it. Rep
 You can also hire a lawyer individually for the same deterrent effect, but unions offer a higher level of expertise at a lower cost.  
 Please contact us at this email address for consultation: au.jmitu@gmail.com
 
+[加入する](index.md#加入の呼びかけ)  [Join us](en.md#join-us)  
+
 [戻る](index.md#労働相談) [Back](en.md#labor-consultation)
 
 ## 退職勧奨を断ったら何が起こりますか？
@@ -26,6 +28,8 @@ Please contact us at this email address for consultation: au.jmitu@gmail.com
 個別のケースに関するご相談はこちらのメールアドレスにご連絡ください。 au.jmitu@gmail.com  
 Unfavorable treatment for refusing a suggested resignation is legally prohibited. However, in reality, various companies engage in illegal adverse treatment. In fact, at Google, there have been instances where some individuals who refused a suggested resignation were transferred to different positions. At Google, there have been no cases so far where individuals who refused a suggested resignation were fired or had their salaries reduced.  
 For individual case consultations, please contact us at this email address: au.jmitu@gmail.com  
+
+[加入する](index.md#加入の呼びかけ)  [Join us](en.md#join-us)  
 
 [戻る](index.md#労働相談) [Back](en.md#labor-consultation)
 
@@ -37,6 +41,8 @@ For individual case consultations, please contact us at this email address: au.j
 If you seek reinstatement, you will have to go to court. It takes about a year and a half until a result is reached, and if the company deliberately drags out the lawsuit, it can take up to 10 years. If you win the lawsuit, it is common for the company to pay damages to cover the wages that should have been paid during that period and the legal fees. Some people give up on reinstatement and just accept the settlement because of the employment gap that occurs, but there are indeed people who actually return to work. During the trial period, there is a burden of balancing lawsuit activities and work, but you can job hunt and work at another company. For more details, such as the time and cost burden of the lawsuit, please contact the email address below.  
 If you do not seek reinstatement and just want the company to face proper legal penalties for illegal activities or to pay a settlement, there are several options, so please consult the union.  
 In either case, it is necessary to quickly express to the company your intent to rescind the agreement. If it takes a long time to rescind, it can be a disadvantageous factor in a lawsuit or negotiation. Please contact the union first at au.jmitu@gmail.com  
+
+[加入する](index.md#加入の呼びかけ)  [Join us](en.md#join-us)  
 
 [戻る](index.md#労働相談) [Back](en.md#labor-consultation)
 
@@ -52,5 +58,7 @@ The first option is to address it in collective bargaining. This can potentially
 The second option is to request guidance from the Labor Bureau. This can be requested after just one interview, so no lawyer is needed, and the time and cost burdens are light. However, there will be fewer opportunities to express our claims and wishes. While this can be done individually, the labor union can take over tasks like document preparation to lighten the burden on the individual.  
 The third option is litigation. It takes about a year and a half to get a judgment, but it can also be settled before a judgment is made, and if it goes to appeal, the period may be extended. The labor union can introduce lawyers who specialize in labor issues. In addition, by tying it with collective bargaining or negotiations in other cases, the union can gather evidence advantageous to the lawsuit and use the progress of the lawsuit to extract concessions from the company. The union also provides support for securing legal fees if necessary.  
 We respect the individual choices of those involved and provide as much support as possible within that range. Please contact us at the following email address for consultation. au.jmitu@gmail.com  
+
+[加入する](index.md#加入の呼びかけ)  [Join us](en.md#join-us)  
 
 [戻る](index.md#労働相談) [Back](en.md#labor-consultation)

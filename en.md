@@ -47,7 +47,8 @@ Related Article:
 ### Illegality of not responding to negotiations with the union
 The company also committed further illegal acts. Collective bargaining is a negotiation process between union and their employer, and is fundamental part of communication between workers and the company. Under Japanese lae, it is legally protected as a right of the labor union. It is considered an act of unfair labor practice(1) if a company refuses to respond to a collective bargaining request without a valid reason or does not provide a sincere explanation during the collective bargaining process. The company has a duty to respond to the demands of the labor union or explain why it cannot comply if unable to do so.  
 
-The Alphabet Union has submitted three collective bargaining proposals to the company regarding this round of layoffs. However, the company prematurely ended the bargaining process after only two sessions, and without providing sufficient explanation, refused the third request. The company did not provide detailed reasons for their decisions, leaving the union's concerns unaddressed.  
+The Alphabet Union has submitted three collective bargaining proposals to the company regarding this round of layoffs. However, the company prematurely ended the bargaining process after only two sessions, and without providing sufficient explanation, refused the third request. The company did not provide detailed reasons for their decisions, leaving the union's concerns unaddressed.
+[Collective Barganing History](collective_barganing_history_en.md)  
 
 Regarding this matter, we filed a relief request with the Tokyo Labor Bureau on November 14th.  
 
@@ -59,12 +60,12 @@ A labor commission relief request(2) is like a lawsuit for labor unions. and it 
 (2) Labor Commission Relief Request: Unions can request relief to labor comission when they believe that the company has committed illegal unfailr labor practice against union. It can take up to a year and a half. If they find the company at fault, Labor Commission can order the company to rectify the situation. In our case, we requested company to have collective barganing and send an apology email to union in internal mailing list.  
 
 [Crowdfunding](https://igg.me/at/google-japan-layoff)  
+[Collective Barganing History](collective_barganing_history_en.md)  
 
 [Donate](#Donation)  
 
 Related article：  
 [Mainichi 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
-
 
 [日本語](index.md#育休中の退職強要についての組合活動)  
 [Join us](#join-us)  
@@ -94,27 +95,8 @@ I never imagined Google would take such a harsh approach......<a href="https://a
 [Join us](#join-us)  
 [Back to Index](#index)
 
-## Collective Bargaining History
-We initially proposed the first round of collective bargaining on March 2nd, but the company designated March 22nd, after the voluntary retirement recommendation deadline of March 17th. In this meeting, they explained that the retirement recommendation was voluntary, that there would be no further rounds of retirement recommendations for the current targets, that the number of layoffs was decided by the project area leaders on a team basis, and that the targets comprised 6% of the total Alphabet workforce. However, no further explanation was provided about the company's financial situation, they merely referred us to Investor Relations. The financial figures from Investor Relations showed a profit, which isn't a satisfactory explanation. The company could not provide definitive answers about what would happen to employees who rejected the retirement recommendation, or the possibility of a second wave.
-
-We proposed the second round of collective bargaining on April 4th, but the company designated a date more than a month later, May 9th. Despite asking again about the company's financial situation, they said that the information was confidential and even the attendees were not informed. It is illegal and constitutes unfair labor practices for a person with the authority to respond to the labor union's demands not to attend collective bargaining. There was also no explanation given about the target number for reductions, the number of targets in Google Japan, the number of targets on long-term leave, or the number of people who accepted the retirement recommendation.
-
-May 31st is the retirement deadline for those who have accepted the retirement recommendation. We requested a third round of collective bargaining on May 9th in order to give those who may have accepted the retirement recommendation under the misunderstanding that they would be dismissed otherwise, a chance to make another decision with proper information. However, the company unilaterally ended the collective bargaining, stating there was no room for further dialogue.
-
-We believe the root of the problem with these layoffs lies in the lack of two explanations: the necessity of the layoffs to the employees, and the future prospects for the targets. A healthy labor-management relationship is built through explanation and communication. Without explaining these key points in collective bargaining, it's impossible to solve problems through dialogue. To make collective bargaining healthy, the law obliges companies to respond sincerely. We have requested relief from the Labor Commission to ensure that collective bargaining delivers the necessary information to employees.
-
-The relief request to the Labor Commission is similar to a labor union lawsuit conducted by the labor union as an organization. It also involves legal fees. Your support, in the form of donations, can be a significant help.
-
-[Crowdfunding](https://igg.me/at/google-japan-layoff)  
-
-[Donate](#Donation)  
-
-[日本語](index.md#今までの団体交渉)  
-[Join us](#join-us)  
-[Back to Index](#index)  
  
 ## 11/14 Notification from the Labor Bureau of Illegal Conduct
-
 We have received notification from the Labor Bureau regarding the layoff conducted on March 2nd. Following our request for guidance submitted to the Labor Bureau on May 25th, they acknowledged illegal actions and provided guidance(1). The union's claim involved illegal pressure to resign, exceeding the legal framework for suggesting retirement, especially towards employees on maternity or paternity leave. The Labor Bureau did not disclose specific details of the recognized illegal actions. They reported that they would administer administrative guidance(1) and, if no improvement is seen within a certain period, would issue a correction recommendation(2). Currently, under the mediation of the Labor Bureau, negotiations for a settlement are underway.  
   
 We understand this as a testament to the Labor Bureau acknowledging the public interest and support shown through signatures and other means. Here is the message from the impacted employee.  

@@ -97,4 +97,7 @@ And I strongly believe that this must never be repeated in any company in the fu
 </p>
 </div>
 
+[日本語](letter_layoff_jp.md)  
+[Join us](en.md#join-us)  
+
 [Back](en.md#letter-from-the-impacted-employee)
