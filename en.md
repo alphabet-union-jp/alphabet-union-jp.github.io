@@ -4,9 +4,8 @@ description: "The JMITU Alphabet Union was formed to counter the large-scale lay
 lang: "en_US"
 ---
 
-[New] [Added a section about legal action against lack of explanation](#union-activity-about-lack-of-explanation-on-the-layoff)  
-[New] [Added message from union members](#message-from-union-members)  
-[New] [Added labor consultation episode example](en.md#labor-consultation)  
+[New] [Updated news of notification of illegality from labor bureau](#union-activity-about-recommendation-of-resignation-during-patmat-leave)  
+[New] [Added a section about legal action against lack of explanation](#illegality-of-not-responding-to-negotiations-with-the-union)  
 
 [日本語](index.md)　[Contact](#contact)
 
