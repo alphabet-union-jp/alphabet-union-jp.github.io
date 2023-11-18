@@ -18,7 +18,7 @@ We believe the root of the problem with these layoffs lies in the lack of two ex
 The relief request to the Labor Commission is similar to a labor union lawsuit conducted by the labor union as an organization. It also involves legal fees. Your support, in the form of donations, can be a significant help.
 
 [Crowdfunding](https://igg.me/at/google-japan-layoff)  
-[Donate](en.md#Donation)  
+[Donate](en.md#donation)  
 
 [日本語](collective_barganing_history_jp.md)  
 [Join us](en.md#join-us)  

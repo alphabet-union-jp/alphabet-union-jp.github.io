@@ -61,7 +61,7 @@ A labor commission relief request(2) is like a lawsuit for labor unions. and it 
 [Crowdfunding](https://igg.me/at/google-japan-layoff)  
 [Collective Barganing History](collective_barganing_history_en.md)  
 
-[Donate](#Donation)  
+[Donate](#donation)  
 
 Related article：  
 [Mainichi 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
