@@ -3,6 +3,7 @@ title: "Collective Bargaining History | [Google Japan] JMITU Alphabet Union Bran
 lang: "en_US"
 ---
 
+[日本語](collective_barganing_history_jp.md)  
 [Back](en.md#illegality-of-not-responding-to-negotiations-with-the-union)  
 
 #Collective Bargaining History

@@ -12,7 +12,6 @@ lang: "en_US"
 
 # Index
 - [The Problems with Google's Layoffs That You Should Know About](#the-problems-with-googles-layoffs-that-you-should-know-about)
-- [Union Activity about Lack of Explanation on the Layoff](#union-activity-about-lack-of-explanation-on-the-layoff)
 - [Union Activity about Recommendation of Resignation During Pat/Mat Leave](#union-activity-about-recommendation-of-resignation-during-patmat-leave)
   - [Letter from the impacted employee](#letter-from-the-impacted-employee)
   - [11/14 Notification from the Labor Bureau of Illegal Conduct](#1114-notification-from-the-labor-bureau-of-illegal-conduct)
@@ -97,21 +96,7 @@ I never imagined Google would take such a harsh approach......<a href="https://a
 
  
 ## 11/14 Notification from the Labor Bureau of Illegal Conduct
-We have received notification from the Labor Bureau regarding the layoff conducted on March 2nd. Following our request for guidance submitted to the Labor Bureau on May 25th, they acknowledged illegal actions and provided guidance(1). The union's claim involved illegal pressure to resign, exceeding the legal framework for suggesting retirement, especially towards employees on maternity or paternity leave. The Labor Bureau did not disclose specific details of the recognized illegal actions. They reported that they would administer administrative guidance(1) and, if no improvement is seen within a certain period, would issue a correction recommendation(2). Currently, under the mediation of the Labor Bureau, negotiations for a settlement are underway.  
-  
-We understand this as a testament to the Labor Bureau acknowledging the public interest and support shown through signatures and other means. Here is the message from the impacted employee.  
-  
----
-Faced with a shocking situation while caring for a 2-month-old baby, I decided to make this fact public, driven by the desire for a more work-friendly society.  
-  
-With 16,586 astonishing signatures received, we have reached this point thanks to the support of many people.  
-
-I am sincerely grateful to everyone.  
-
----
-The Labor Bureau investigates only cases that have been submitted. Without an application, similar cases will not automatically receive remedial measures. If you are facing difficulties due to being encouraged to retire, please consult with a labor union or the Labor Bureau.  
-
-Furthermore, we believe that cases like this are undesirable for both employees and companies. Preventing such cases is one of the roles of collective bargaining. However, the company has neglected and refused this collective bargaining. To prevent such unfortunate situations, please be informed about [the application for relief to the Labor Commission](https://alphabet-union-jp.github.io/en.html#union-activity-about-lack-of-explanation-on-the-layoff) regarding refusal of collective bargaining. 
+We have received notification from the Labor Bureau regarding the layoff conducted on March 2nd. Following our request for guidance submitted to the Labor Bureau on May 25th, they acknowledged illegal actions and provided guidance(1). The union's claim involved illegal pressure to resign, exceeding the legal framework for suggesting retirement, especially towards employees on maternity or paternity leave. The Labor Bureau did not disclose specific details of the recognized illegal actions. They reported that they would administer administrative guidance(1) and, if no improvement is seen within a certain period, would issue a correction recommendation(2). Currently, under the mediation of the Labor Bureau, negotiations for a settlement are underway......[Read Full History](labor_bureau_layoff_en.md)  
 
 (1) Administrative Guidance(行政指導): In Japan, this is a process where government agencies advise or suggest how company should comply with laws.    
 (2) Correction Recommendation(是正勧告): This is a more formal step. If a company doesn't follow the administrative guidance, the government agance may issue a correction recommendation. This is a formal request to change practices or correct legal violations.  
@@ -125,25 +110,6 @@ Related Articles:
 [Join us](#join-us)  
 [Back to Index](#index)  
 
-## Jun/23 Submitted Signatures to Tokyo Labor Bureau
-We have initiated an [online petition](https://www.change.org/google-layoff-jp) requesting guidance from the Labor Bureau, and as of June 23rd, we have submitted 14,917 signatures to the Labor Bureau. The form will remain open until the Labor Bureau makes its decision, so we continue to ask for your signatures.  
-
-Added on 11/18 The signature campaign ended on 11/14 as we received notification of the results from the Labor Bureau. Thank you very much for your support.  
-
-[日本語](index.md#623-署名を労働局に提出しました)  
-[Join us](#join-us)  
-[Back to Index](#index)
-
-## May/25 Requested Administrative Guidance to Tokyo Labor Bureau
-On May 25, we requested the Tokyo Labor Bureau to issue guidance on violations of the Child Care and Family Care Leave Law. Currently, the Labor Bureau is reviewing whether there were any illegal activities.  
-There are two main issues: whether there was forced retirement that went beyond the scope of voluntary retirement recommendations, and whether it constitutes a violation of the Child Care and Family Care Leave Law.  
-The key point in the case of forced retirement is whether the company can objectively prove that it induced the targeted individuals to believe they would be treated disadvantageously if they refused the recommendation.  
-Regarding the Child Care and Family Care Leave Law, if it wasn't determined that the layoffs were due to the employees taking child care leave, the focus would be on whether it's decided, through comprehensive judgment, that the actions contradict the spirit of the law.  
-Please help to spread the word about this page and discuss it with those around you. We appreciate the support of public opinion.  
-
-[日本語](index.md#525-労働局に指導の申請をしました)  
-[Join us](#join-us)  
-[Back to Index](#index)
 
 # Join us
 For a labor union, the number of union members directly translates into its strength. Anyone working for a company under Alphabet, regardless of employment type, is eligible to join. Growing and strengthening the union is the only way to communicate on equal terms with the company and win workers' rights. 
@@ -215,6 +181,10 @@ JMITU AU branch
 [Back to Index](#index)
 
 # External Resources
+## Activity of our Branch
+[online petition](https://www.change.org/google-layoff-jp)  
+[Crowdfunding](https://igg.me/at/google-japan-layoff)  
+
 ## Related Organization
 ### Upper organization
 [JMITU Central Headquarters](http://jmiu.com/)  

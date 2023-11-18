@@ -3,6 +3,7 @@ title: "Googleレイオフの問題点 | [Google Japan] JMITU Alphabet Union支�
 lang: "ja_JP"
 ---
 
+[English](policy_layoff_en.md)  
 [戻る](index.md#知ってほしいgoogleのレイオフが抱える問題)  
 
 # 知ってほしいGoogleのレイオフが抱える問題

@@ -3,6 +3,7 @@ title: "当事者からの手紙 | [Google Japan] JMITU Alphabet Union支部"
 lang: "ja_JP"
 ---
 
+[English](letter_layoff_en.md)  
 [戻る](index.md#当事者からの手紙)  
 
 # 当事者からの手紙

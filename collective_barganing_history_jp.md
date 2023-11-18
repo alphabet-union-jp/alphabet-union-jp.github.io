@@ -3,6 +3,7 @@ title: "今までの団体交渉 | [Google Japan] JMITU Alphabet Union支部"
 lang: "ja_JP"
 ---
 
+[English](collective_barganing_history_en.md)  
 [戻る](index.md#組合との交渉に応じない違法性)  
 
 

@@ -3,6 +3,7 @@ title: "Problems with Google Japan's Layoffs | [Google Japan] JMITU Alphabet Uni
 lang: "en_US"
 ---
 
+[日本語](policy_layoff_jp.md)  
 [Back](en.md#the-problems-with-googles-layoffs-that-you-should-know-about)
 
 # The Problems with Google's Layoffs That You Should Know About
