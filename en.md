@@ -5,7 +5,7 @@ lang: "en_US"
 ---
 
 [New] [Updated news of notification of illegality from labor bureau](#union-activity-about-recommendation-of-resignation-during-patmat-leave)  
-[New] [Added a section about legal action against lack of explanation](#illegality-of-not-responding-to-negotiations-with-the-union)  
+[New] [Started Crowdfunding campaign](#illegality-of-not-responding-to-negotiations-with-the-union)  
 
 [日本語](index.md)　[Contact](#contact)
 
