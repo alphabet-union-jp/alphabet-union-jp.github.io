@@ -1,0 +1,39 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+.menu {
+  display: flex;
+  align-items: center;
+  margin: 0 10px;
+}
+
+.logo {
+  display: none;
+}
+
+.title {
+  font-size: 20pt;
+}
+
+@media (max-width: 640px)  {
+  .logo {
+    display: inline;
+    color: red;
+    font-size: 20pt;
+  }
+  .title {
+    display: none;
+  }
+}
+
+.nav {
+  display: flex;
+  margin-left: auto;
+}
+
+.nav li {
+  display: inline;
+  padding: 0 20px;
+}
