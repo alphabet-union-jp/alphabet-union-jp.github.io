@@ -4,6 +4,7 @@ description: "Google Japanでの大規模レイオフに対抗するため、JMI
 lang: "ja_JP"
 ---
 
+[New] [1/22期日の傍聴をお願いします](#傍聴での応援をお願いします)  
 [New] [労働局からの違法判断の連絡を更新しました](#育休中の退職強要についての組合活動)  
 [New] [クラウドファンディングを行っています](#組合との交渉に応じない違法性)  
 
@@ -51,6 +52,13 @@ Alphabet Unionは、今回のレイオフについて、今まで会社に３回
 
 [クラウドファンディング](https://igg.me/at/google-japan-layoff)  
 [今までの団体交渉についての経緯](collective_barganing_history_jp.md)  
+
+### 傍聴での応援をお願いします
+初回期日が決まりました。傍聴の人数が世論の関心を示し、組合を後押しする直接的な力になります。ご都合のつく方は傍聴のご協力をお願いします。  
+2023年1月22日(月) 10:00-11:30  
+新宿区西新宿2-8-1 東京都庁 第一本庁舎 南(S)塔 38F  
+
+[ビラ](https://drive.google.com/file/d/1NLcXDZ_hqL2069xkywKIOo_aL3CoFE6A/view?usp=sharing)
 
 [English](en.md#union-activity-about-recommendation-of-resignation-during-patmat-leave)  
 [目次に戻る](#目次)  

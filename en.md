@@ -4,6 +4,7 @@ description: "The JMITU Alphabet Union was formed to counter the large-scale lay
 lang: "en_US"
 ---
 
+[New] [Jan 22nd Support us by attending](#support-us-by-attending-the-hearing)  
 [New] [Updated news of notification of illegality from labor bureau](#union-activity-about-recommendation-of-resignation-during-patmat-leave)  
 [New] [Started Crowdfunding campaign](#illegality-of-not-responding-to-negotiations-with-the-union)  
 
@@ -28,7 +29,7 @@ lang: "en_US"
 [Back to Index](#index)  
 
 # Union Activity about Recommendation of Resignation During Pat/Mat Leave
-### Illegality of the layoff itself
+## Illegality of the layoff itself
 In Japan, companies are not allowed to unilaterally dismiss employees, except under special circumstances. As a result, the most common form of resignation during reorganization is a 'recommendation of resignation' This occurs when a company thoroughly explains the situation to an employee and reaches a mutual agreement for resignation. However, applying coercive pressure to make an employee sign a resignation agreement against their will is known as 'forced resignation' and is considered an illegal act.  
 The solicitation to resign made to the targeted individuals on March 2nd was unlawfully pressuring employees to resign, exceeding the bounds of standard resignation requests. Under Japanese law, employees have the right to resign voluntarily without undue pressure from the employer. The email sent contained messages like, "Your role has been impacted by workforce reductions" and "You will receive an additional payment if you choose to sign the Agreement within 14 days from today. You will continue to have access to the corporate network during this period" This is subtly suggested that rejecting their offer might lead to a loss of access to the internal system, which is seens as an indirect way of forcing employees out.  
 
@@ -42,7 +43,7 @@ Related Article:
 [Bengo4.com グーグル日本法人による退職勧奨、育休・産休中の社員に実施は「違法」…組合側が発表](https://www.bengo4.com/c_5/n_16760/)  
 [Mainichi 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
 
-### Illegality of not responding to negotiations with the union
+## Illegality of not responding to negotiations with the union
 The company also committed further illegal acts. Collective bargaining is a negotiation process between union and their employer, and is fundamental part of communication between workers and the company. Under Japanese lae, it is legally protected as a right of the labor union. It is considered an act of unfair labor practice(1) if a company refuses to respond to a collective bargaining request without a valid reason or does not provide a sincere explanation during the collective bargaining process. The company has a duty to respond to the demands of the labor union or explain why it cannot comply if unable to do so.  
 
 The Alphabet Union has submitted three collective bargaining proposals to the company regarding this round of layoffs. However, the company prematurely ended the bargaining process after only two sessions, and without providing sufficient explanation, refused the third request. The company did not provide detailed reasons for their decisions, leaving the union's concerns unaddressed.
@@ -59,6 +60,18 @@ A labor commission relief request(2) is like a lawsuit for labor unions. and it 
 
 [Crowdfunding](https://igg.me/at/google-japan-layoff)  
 [Collective Barganing History](collective_barganing_history_en.md)  
+
+### Support us by attending the hearing
+The first hearing date has been set. The number of attendees at the hearing demonstrates public interest and provides direct support to the union. If you have the opportunity, please assist us by attending the hearing.  
+
+Date: January 22, 2023 (Monday)  
+Time: 10:00 AM - 11:30 AM  
+Location:  
+Tokyo Metropolitan Government First Main Building  
+2-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo  
+South(S) Tower, 38th Floor  
+
+[Download Flyer](https://drive.google.com/file/d/1NLcXDZ_hqL2069xkywKIOo_aL3CoFE6A/view?usp=sharing)
 
 [Donate](#donation)  
 
