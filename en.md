@@ -36,7 +36,7 @@ If you find this information valuable and wish to support our ongoing activities
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQie8vOh8_amsBn0M6s6m_LcmWcXzINGgetZLIrLZ6lR6jgk15JzaJH2xbjpGdVZnKbeFR6JX3Pbdad/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 
-[日本語](index.md#19-2023年AU支部活動報告会)  
+[日本語](index.md#19-2023年au支部活動報告会)  
 [Join us](#join-us)  
 [Back to Index](#index)  
 
