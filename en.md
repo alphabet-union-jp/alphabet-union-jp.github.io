@@ -4,7 +4,7 @@ description: "The JMITU Alphabet Union was formed to counter the large-scale lay
 lang: "en_US"
 ---
 
-[New] [Jan 22nd Support us by attending](#support-us-by-attending-the-hearing)  
+[New] [Jan 9th AU Branch 2023 Activity Report](#jan-9th-au-branch-2023-activity-report)  
 [New] [Updated news of notification of illegality from labor bureau](#union-activity-about-recommendation-of-resignation-during-patmat-leave)  
 [New] [Started Crowdfunding campaign](#illegality-of-not-responding-to-negotiations-with-the-union)  
 
@@ -12,6 +12,7 @@ lang: "en_US"
 
 # Index
 - [The Problems with Google's Layoffs That You Should Know About](#the-problems-with-googles-layoffs-that-you-should-know-about)
+- [Jan 9th AU Branch 2023 Activity Report](#jan-9th-au-branch-2023-activity-report)
 - [Union Activity about Recommendation of Resignation During Pat/Mat Leave](#union-activity-about-recommendation-of-resignation-during-patmat-leave)
   - [Letter from the impacted employee](#letter-from-the-impacted-employee)
   - [11/14 Notification from the Labor Bureau of Illegal Conduct](#1114-notification-from-the-labor-bureau-of-illegal-conduct)
@@ -27,6 +28,18 @@ lang: "en_US"
 [日本語](index.md#知ってほしいgoogleのレイオフが抱える問題)  
 [Join us](#join-us)  
 [Back to Index](#index)  
+
+# Jan 9th AU Branch 2023 Activity Report
+We will be reporting on AU branch's activities for the year 2023, including our efforts leading up to the Labor Bureau's illegal judgment.  
+Please note that this session will not be recorded for the safety of participants.  
+If you find this information valuable and wish to support our ongoing activities, please consider [joining](#join-us) or [contributing to our crowdfunding](https://igg.me/at/google-japan-layoff).
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQie8vOh8_amsBn0M6s6m_LcmWcXzINGgetZLIrLZ6lR6jgk15JzaJH2xbjpGdVZnKbeFR6JX3Pbdad/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
+
+[日本語](index.md#19-2023年AU支部活動報告会)  
+[Join us](#join-us)  
+[Back to Index](#index)  
+
 
 # Union Activity about Recommendation of Resignation During Pat/Mat Leave
 ## Illegality of the layoff itself

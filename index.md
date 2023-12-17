@@ -4,7 +4,7 @@ description: "Google Japanでの大規模レイオフに対抗するため、JMI
 lang: "ja_JP"
 ---
 
-[New] [1/22期日の傍聴をお願いします](#傍聴での応援をお願いします)  
+[New] [1/9 2023年AU支部活動報告会](#19-2023年AU支部活動報告会)  
 [New] [労働局からの違法判断の連絡を更新しました](#育休中の退職強要についての組合活動)  
 [New] [クラウドファンディングを行っています](#組合との交渉に応じない違法性)  
 
@@ -12,6 +12,7 @@ lang: "ja_JP"
 
 # 目次
 - [知ってほしいGoogleのレイオフが抱える問題](#知ってほしいgoogleのレイオフが抱える問題)
+- [1/9 2023年AU支部活動報告会](#19-2023年AU支部活動報告会)
 - [育休中の退職強要についての組合活動](#育休中の退職強要についての組合活動)
   - [当事者からの手紙](#当事者からの手紙)
   - [11/14 労働局から違法行為があった判断の連絡がありました](#1114-労働局から違法行為があった判断の連絡がありました)
@@ -26,6 +27,18 @@ lang: "ja_JP"
 [English](en.md#the-problems-with-googles-layoffs-that-you-should-know-about)  
 [目次に戻る](#目次)  
 [加入する](#加入の呼びかけ) 
+
+# 1/9 2023年AU支部活動報告会
+2024/1/9 20:00-22:00  [zoom](https://us02web.zoom.us/j/84143510679?pwd=dkU3dGFhYkdCMGJyWXZvY0tXa3FSZz09)  
+AU支部の2023年の活動を報告します。労働局の違法判断に至るまでの活動も話します。  
+このセッションは参加者の安全のため録画されません。  
+この情報が有益だと思ってくださった方は、私たちの活動の今後の継続のため、[加入](#加入の呼びかけ)や[クラウドファンディング](https://igg.me/at/google-japan-layoff)もご検討ください。  
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQie8vOh8_amsBn0M6s6m_LcmWcXzINGgetZLIrLZ6lR6jgk15JzaJH2xbjpGdVZnKbeFR6JX3Pbdad/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
+
+[English](en.md#jan-9th-au-branch-2023-activity-report)  
+[目次に戻る](#目次)  
+[加入する](#加入の呼びかけ)  
 
 # 育休中の退職強要についての組合活動
 ### レイオフ自体の違法性
