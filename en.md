@@ -5,9 +5,8 @@ image: au_header.png
 lang: "en_US"
 ---
 
+[New] [Updated FAQ about layoff](#labor-consultation)  
 [New] [Jan 9th AU Branch 2023 Activity Report](#jan-9th-au-branch-2023-activity-report)  
-[New] [Updated news of notification of illegality from labor bureau](#union-activity-about-recommendation-of-resignation-during-patmat-leave)  
-[New] [Started Crowdfunding campaign](#illegality-of-not-responding-to-negotiations-with-the-union)  
 
 [日本語](index.md)　[Contact](#contact)
 
