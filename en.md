@@ -66,19 +66,22 @@ Regarding this matter, we filed a relief request with the Tokyo Labor Bureau on 
 
 Collective bargaining is crucial to prevent unethical and illegal actions. Illegal actions against unions that refuse to collectively bargain, and illegal actions against individual workers, such as this recent layoff, both reflect a company's disregard for legal compliance. We need to address these two types of illegal acts on both fronts.  
 
-A labor commission relief request(2) is like a lawsuit for labor unions. and it also incurs attorney fees. Your contributions, in the form of donations, can greatly assist us. To support our legal efforts, including the consts of attorney fees, we welcome donations. We've also launched [a crowdfunding campaign](https://igg.me/at/google-japan-layoff) to gather further support.  
+A labor commission relief request(2) is like a lawsuit for labor unions. and it also incurs attorney fees. Your contributions, in the form of donations, can greatly assist us. To support our legal efforts, including the consts of attorney fees, we welcome donations. Refer to [a crowdfunding campaign closed on Jan 12th](https://igg.me/at/google-japan-layoff) for more detail.  
 
 (1) Unfair Labor Practice: Actions by an employer that violates unions' rights under labow law.  
 (2) Labor Commission Relief Request: Unions can request relief to labor comission when they believe that the company has committed illegal unfailr labor practice against union. It can take up to a year and a half. If they find the company at fault, Labor Commission can order the company to rectify the situation. In our case, we requested company to have collective barganing and send an apology email to union in internal mailing list.  
 
-[Crowdfunding](https://igg.me/at/google-japan-layoff)  
+[Donate](#donation)  
 [Collective Barganing History](collective_barganing_history_en.md)  
 
-### Support us by attending the hearing
-The first hearing date has been set. The number of attendees at the hearing demonstrates public interest and provides direct support to the union. If you have the opportunity, please assist us by attending the hearing.  
+## Jan 22nd the First Hearing Session Report
+We had the first session with the Tokyo Labor Committee on Jan 22nd 2024.  
+We pointed out that it's illegal unfair treatment that the company refused collective bargaining without adequately explaining the layoffs conducted in March 2023. We also claimed that denying the union access to mailing lists and meeting room facilities — which are readily available to club activities without scrutiny — constitutes illegal discrimination against the union. This leads to a chilling effect where employees fear being targeted by the company for joining the union. Google Japan should rectify this damage done to the union.  
+Google Japan's answer file was minimal and basic. The Labor Commission has requested the company to submit specific factual claims by the next session.  
+The next session is scheduled for 10:30 AM JST on March 18th.  
 
-Date: January 22, 2023 (Monday)  
-Time: 10:00 AM - 11:30 AM  
+Date: March 18th, 2024  
+Time: 10:30 AM - 12:00 AM  
 Location:  
 Tokyo Metropolitan Government First Main Building  
 2-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo  
@@ -91,7 +94,7 @@ South(S) Tower, 38th Floor
 Related article：  
 [Mainichi 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
 
-[日本語](index.md#育休中の退職強要についての組合活動)  
+[日本語](index.md#122-第一回期日報告)  
 [Join us](#join-us)  
 [Back to Index](#index)  
 
