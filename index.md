@@ -188,6 +188,7 @@ JMITU AU支部
 [東京測器研究所支部](http://jmiu-tml.jimdo.com/)  
 [北部地域支部](http://www.jmitu-t-hokubu.org/)  
 [セガ グループ分会](https://jmitusega.chips.jp/)  
+
 ### その他
 [東京地評](https://www.chihyo.jp/)  
 [全労連](https://www.zenroren.gr.jp/jp/)  

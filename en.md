@@ -223,7 +223,8 @@ JMITU AU branch
 [Santama area branch](https://sites.google.com/view/jmitusantareg)  
 [Ohta area branch](http://www6.plala.or.jp/JMIUOOTA/index.html)  
 [Tokyo Measuring Instruments Laboratory branch](http://jmiu-tml.jimdo.com/)  
-[North area branch](http://www.jmitu-t-hokubu.org/)
+[North area branch](http://www.jmitu-t-hokubu.org/)  
+[Sega Group branch](https://jmitusega.chips.jp/)  
 
 ### Others
 [Tokyo Regional Council of Trade Unions](https://www.chihyo.jp/)  
