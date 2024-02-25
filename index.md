@@ -215,6 +215,9 @@ JMITU AU支部
 
 # 問い合わせ
 JMITU AU支部 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7ABgfu7WJdWtIzl5ZXs-NxC8rx88fQTSBhF6RpdqHl4jGIA/viewform?embedded=true" width="640" height="630" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
+
 ### SNS  
 <a class="twitter-timeline" data-height="300" href="https://twitter.com/Alphabetunionjp?ref_src=twsrc%5Etfw">Tweets by Alphabetunionjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
