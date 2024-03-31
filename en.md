@@ -143,7 +143,8 @@ Related Articles:
 For a labor union, the number of union members directly translates into its strength. Anyone working for a company under Alphabet, regardless of employment type, is eligible to join. Growing and strengthening the union is the only way to communicate on equal terms with the company and win workers' rights. 
 Please consider joining for your own sake, and to prevent aggressive layoffs.  
 If you are considering joining the union, please contact the email address below to arrange a meeting time. We will explain the terms and conditions and the application process.  
-Refer to this [FAQs](join_questions.md) as well. 
+Refer to this [FAQs](join_questions.md) as well.   
+Please consider [monthly supporter](#monthly-suppoter), too.  
 
 ### message from union members
 > The action of joining union itself is very empowering to me. Members are coming together and sharing our power and love, this is creating a stronger mental strength. In a time when there are more and more suffering in this world, partnership and community is really what we need and can lean into. I joined the union to be part of the creation of this community, and wish more people can benefit from this community, and as it grows bigger, it serves more and more of you.
