@@ -184,6 +184,21 @@ JMITU AU支部
 [目次に戻る](#目次)  
 [加入する](#加入の呼びかけ) 
 
+# マンスリーサポーター
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1P0MONKVefqBUa3bZ3E5h7kk"
+  publishable-key="pk_live_51OxP4nKVefqBUa3bQ43fVrvnSbfXIlnXxbFL1QwkClGtmxr1NQlOgdbJ3IBxSBjdJVCuUBCiCliR6pmpr8HIQVJf0020gtxXEo"
+>
+</stripe-buy-button>
+
+[English](en.md#monthly-supporter)  
+[目次に戻る](#目次)  
+[加入する](#加入の呼びかけ) 
+
 # 外部リンク
 ## AU支部の活動
 [オンライン署名](https://www.change.org/google-layoff-jp)  

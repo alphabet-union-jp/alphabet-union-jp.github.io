@@ -208,6 +208,21 @@ Bank account
 [Join us](#join-us)  
 [Back to Index](#index)
 
+# Monthly Supporter
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1P0MONKVefqBUa3bZ3E5h7kk"
+  publishable-key="pk_live_51OxP4nKVefqBUa3bQ43fVrvnSbfXIlnXxbFL1QwkClGtmxr1NQlOgdbJ3IBxSBjdJVCuUBCiCliR6pmpr8HIQVJf0020gtxXEo"
+>
+</stripe-buy-button>
+
+[日本語](index.md#マンスリーサポーター)  
+[Join us](#join-us)  
+[Back to Index](#index)
+
 # Contact
 JMITU AU branch  
 [au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
