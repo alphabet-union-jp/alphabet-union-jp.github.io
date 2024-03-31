@@ -208,7 +208,9 @@ Bank account
 [Join us](#join-us)  
 [Back to Index](#index)
 
-# Monthly Supporter
+## Monthly Supporter
+Regular donations are predictable and can lead to significant financial support.  
+
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>

@@ -184,7 +184,9 @@ JMITU AU支部
 [目次に戻る](#目次)  
 [加入する](#加入の呼びかけ) 
 
-# マンスリーサポーター
+## マンスリーサポーター
+定期的な寄付は見通しが立ちやすく、大きな経済的支援につながります。  
+
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
