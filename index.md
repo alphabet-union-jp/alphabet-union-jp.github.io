@@ -163,6 +163,19 @@ JMITU AU支部
 # 寄付先
 私たちは、ボランティアで活動しています。交通費、印刷代、郵便代など様々な経費がかかります。  
 少額でもお気持ちをいただけたら大変心強いです。みなさまからのご支援は、組合活動に使わせていただきます。  
+
+オンライン決済  
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1P0M3SKVefqBUa3brGB90ze2"
+  publishable-key="pk_live_51OxP4nKVefqBUa3bQ43fVrvnSbfXIlnXxbFL1QwkClGtmxr1NQlOgdbJ3IBxSBjdJVCuUBCiCliR6pmpr8HIQVJf0020gtxXEo"
+>
+</stripe-buy-button>
+
+銀行振込  
 > 中央労働金庫（中央労金）　店番号296 口座番号 162695  
 > JMITU Alphabetユニオン支部  
 > ジェイエムアイティーユー アルファベット ユニオン シブ

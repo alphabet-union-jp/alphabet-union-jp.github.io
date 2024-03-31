@@ -185,6 +185,17 @@ JMITU AU branch
 We are operating on a volunteer basis. There are various expenses involved, such as transportation costs, printing fees, and postage fees.   
 Even a small donation would be greatly appreciated. Your support will be used for union activities.  
 
+Stripe
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1P0M3SKVefqBUa3brGB90ze2"
+  publishable-key="pk_live_51OxP4nKVefqBUa3bQ43fVrvnSbfXIlnXxbFL1QwkClGtmxr1NQlOgdbJ3IBxSBjdJVCuUBCiCliR6pmpr8HIQVJf0020gtxXEo"
+>
+</stripe-buy-button>
+
 Bank account
 > 中央労働金庫(中央労金) Chuo Labour Bank
 > branch number: 296
