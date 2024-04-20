@@ -91,10 +91,12 @@ Related article：
 
 # Join us
 For a labor union, the number of union members directly translates into its strength. Anyone working for a company under Alphabet, regardless of employment type, is eligible to join. Growing and strengthening the union is the only way to communicate on equal terms with the company and win workers' rights. 
-Please consider joining for your own sake, and to prevent aggressive layoffs.  
-If you are considering joining the union, please contact the email address below to arrange a meeting time. We will explain the terms and conditions and the application process.  
+Please consider joining for your own sake, and to prevent aggressive layoffs and unfair salary reduction.  
+If you have any questions about joining the union, please submit [cotact form](#contact) below to arrange a meeting time. We will explain the terms and conditions and the application process.  
 Refer to this [FAQs](join_questions.md) as well.   
-Please consider [monthly supporter](#monthly-suppoter), too.  
+If you are interested in supporting union but haven't considered joining yet, Please consider [monthly supporter](#monthly-suppoter), too.  
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfph1Jyi5T_Qvn1l2VlcRkWNn_JOt_slxI56o73tn4howxWIA/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
 
 ### message from union members
 > The action of joining union itself is very empowering to me. Members are coming together and sharing our power and love, this is creating a stronger mental strength. In a time when there are more and more suffering in this world, partnership and community is really what we need and can lean into. I joined the union to be part of the creation of this community, and wish more people can benefit from this community, and as it grows bigger, it serves more and more of you.
@@ -103,12 +105,7 @@ Please consider [monthly supporter](#monthly-suppoter), too.
 > Upon entering my workplace, my sole focus was to work hard and excel. But with time, I began to understand the crucial role our labor union plays. They champion fair treatment, ensure our safety, and advocate tirelessly for our individual rights, which truly moved me to support their cause. Now, as a member, I contribute in ways that fit my capabilities, and I am proud to be part of such a collective. Why not join us in shaping a better workplace by becoming a union member? ---Sasano K
 
 > In the workplace, sometimes we face unfair treatment or bullying. When feeling cornered and unsure of what to do, receiving support from a union can be incredibly reassuring and invaluable, beyond what words can express. When subjected to unfair and unjust treatment, you should not just endure it; instead, raise your voice and protest. You should not suffer in silence. You have the right to be treated fairly. Correcting these wrongful acts and environments will make our workplaces and society better. Won't you join us in this effort? ---Seninbari
-
-Contact
-[au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
-
-[membership application form](https://drive.google.com/file/d/13E7CmoeiatskU1mLOHyffijWoF5O1tai/view?usp=sharing)  
-
+０
 [Terms](https://drive.google.com/file/d/1NLcsS4uFP4KSxEBJJ3PFFu_z6J3UiDli/view?usp=drive_link)  
 
 [FAQs](join_questions.md)  
@@ -123,8 +120,7 @@ The labor union will always keep secrets. Please use it as one option of the con
 An example of a labor consultation:  
 > A consulting party, who has a child with a disability certificate, came to seek advice because they were denied the use of Family Emergency Leave for their child's regular medical appointments. They were told that "Family Emergency Leave is intended for unexpected situations and cannot be used for regular medical appointments." We advised them that in Japan, employees are guaranteed Caregiver Leave and Nursing Leave, and that Google Japan positions Family Emergency Leave as part of the usage for these two leaves. We also pointed out that the Ministry of Health, Labour and Welfare's website states that these leaves can be used for accompanying regular medical appointments. As a result, the consulting party was able to obtain Family Emergency Leave, and the "urgent" designation was removed from the explanation of Family Emergency Leave on myGoogle.  
 
-JMITU AU branch  
-[au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7ABgfu7WJdWtIzl5ZXs-NxC8rx88fQTSBhF6RpdqHl4jGIA/viewform?embedded=true" width="640" height="630" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>０
 
 [FAQs about layoff](resign_questions.md)  
 
@@ -174,20 +170,7 @@ Regular donations are predictable and can lead to significant financial support.
 
 [日本語](index.md#マンスリーサポーター)  
 [Join us](#join-us)  
-[Back to Index](#index)
-
-# Contact
-JMITU AU branch  
-[au.jmitu@gmail.com](mailto:au.jmitu@gmail.com)  
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7ABgfu7WJdWtIzl5ZXs-NxC8rx88fQTSBhF6RpdqHl4jGIA/viewform?embedded=true" width="640" height="630" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-### SNS
-<a class="twitter-timeline" data-height="300" href="https://twitter.com/Alphabetunionjp?ref_src=twsrc%5Etfw">Tweets by Alphabetunionjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[日本語](index.md#問い合わせ)  
-[Join us](#join-us)  
-[Back to Index](#index)
+[Back to Index](#index０
 
 # Archive
 [Union policy against layoff](policy_layoff_jp.md)  
@@ -232,6 +215,19 @@ JMITU AU branch
 [日本グーグルに労組 ＪＭＩＴＵ支部 同意ない解雇やめよ](https://www.jcp.or.jp/akahata/aik22/2023-03-02/2023030201_03_0.html) (3/2 Shimbun Akahata)  
 
 [日本語](index.md#外部リンク)  
+[Join us](#join-us)  
+[Back to Index](#index)
+
+# Contact
+JMITU AU branch  
+[au.jmitu@gmail.com](mailto:au.jmitu@gmail.com) ０
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7ABgfu7WJdWtIzl5ZXs-NxC8rx88fQTSBhF6RpdqHl4jGIA/viewform?embedded=true" width="640" height="630" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+### SNS
+<a class="twitter-timeline" data-height="300" href="https://twitter.com/Alphabetunionjp?ref_src=twsrc%5Etfw">Tweets by Alphabetunionjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[日本語](index.md#問い合わせ)  
 [Join us](#join-us)  
 [Back to Index](#index)
 
