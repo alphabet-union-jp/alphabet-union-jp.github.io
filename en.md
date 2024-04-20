@@ -13,6 +13,7 @@ lang: "en_US"
 - [Join us](#join-us)
 - [Labor Consultation](#labor-consultation)
 - [Donation](#donation)
+- [Archive](#archive)
 - [External Resources](#external-resources)
 
 # Jan 9th AU Branch 2023 Activity Report
