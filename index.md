@@ -23,7 +23,7 @@ lang: "ja_JP"
 
 # 1/9 2023年AU支部活動報告会
 AU支部の2023年の活動、戦略、労働局の違法判断に至るまでの活動について報告を行いました。  
-この情報が有益だと思ってくださった方は、私たちの活動の今後の継続のため、[加入](#加入の呼びかけ)や[クラウドファンディング](https://igg.me/at/google-japan-layoff)もご検討ください。  
+この情報が有益だと思ってくださった方は、私たちの活動の今後の継続のため、[加入](#加入の呼びかけ)や[マンスリーサポーター](#マンスリーサポーター)をご検討ください。  
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQie8vOh8_amsBn0M6s6m_LcmWcXzINGgetZLIrLZ6lR6jgk15JzaJH2xbjpGdVZnKbeFR6JX3Pbdad/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 

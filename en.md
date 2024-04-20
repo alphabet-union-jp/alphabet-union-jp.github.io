@@ -23,7 +23,7 @@ lang: "en_US"
 
 # Jan 9th AU Branch 2023 Activity Report
 We have reported our activity on 2023, our strategy, activity history until the Labor Bureau illegal judgement against Google.
-If you find this information valuable and wish to support our ongoing activities, please consider [joining](#join-us) or [contributing to our crowdfunding](https://igg.me/at/google-japan-layoff).
+If you find this information valuable and wish to support our ongoing activities, please consider [joining](#join-us) or [monthly supporer](#monthly-supporter).
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQie8vOh8_amsBn0M6s6m_LcmWcXzINGgetZLIrLZ6lR6jgk15JzaJH2xbjpGdVZnKbeFR6JX3Pbdad/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 
