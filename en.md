@@ -5,17 +5,11 @@ image: au_header.png
 lang: "en_US"
 ---
 
-[New] [Updated FAQ about layoff](#labor-consultation)  
-[New] [Jan 9th AU Branch 2023 Activity Report](#jan-9th-au-branch-2023-activity-report)  
-
 [日本語](index.md)　[Contact](#contact)
 
 # Index
-- [The Problems with Google's Layoffs That You Should Know About](#the-problems-with-googles-layoffs-that-you-should-know-about)
 - [Jan 9th AU Branch 2023 Activity Report](#jan-9th-au-branch-2023-activity-report)
 - [Union Activity about Recommendation of Resignation During Pat/Mat Leave](#union-activity-about-recommendation-of-resignation-during-patmat-leave)
-  - [Letter from the impacted employee](#letter-from-the-impacted-employee)
-  - [11/14 Notification from the Labor Bureau of Illegal Conduct](#1114-notification-from-the-labor-bureau-of-illegal-conduct)
 - [Join us](#join-us)
 - [Labor Consultation](#labor-consultation)
 - [Donation](#donation)
