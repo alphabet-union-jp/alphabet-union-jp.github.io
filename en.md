@@ -21,17 +21,8 @@ lang: "en_US"
 - [Donation](#donation)
 - [External Resources](#external-resources)
 
-# The Problems with Google's Layoffs That You Should Know About
-(auto translated by chatGPT)  
-> Google has carried out large-scale layoffs affecting approximately 12,000 people worldwide. Google Japan is no exception, with about 6% of the employees, around 200 people, persumed to be targeted. Sundar Pichai, Google's CEO, has sent an email to the staff stating that the company will comply with the laws in each country. However, the organizational restructuring conducted in Japan has shown many flaws. Especially egregious is that employees on maternity or parental leave are also being targeted. This has led to voices from employees saying they cannot comfortably have children under these circumstances. We have categorized the major issues into three main points...... [Read the full article](policy_layoff_en.md)
-
-[日本語](index.md#知ってほしいgoogleのレイオフが抱える問題)  
-[Join us](#join-us)  
-[Back to Index](#index)  
-
 # Jan 9th AU Branch 2023 Activity Report
-We will be reporting on AU branch's activities for the year 2023, including our efforts leading up to the Labor Bureau's illegal judgment.  
-Please note that this session will not be recorded for the safety of participants.  
+We have reported our activity on 2023, our strategy, activity history until the Labor Bureau illegal judgement against Google.
 If you find this information valuable and wish to support our ongoing activities, please consider [joining](#join-us) or [contributing to our crowdfunding](https://igg.me/at/google-japan-layoff).
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQie8vOh8_amsBn0M6s6m_LcmWcXzINGgetZLIrLZ6lR6jgk15JzaJH2xbjpGdVZnKbeFR6JX3Pbdad/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
@@ -97,47 +88,6 @@ Related article：
 [日本語](index.md#122-第一回期日報告)  
 [Join us](#join-us)  
 [Back to Index](#index)  
-
-# Letter from the impacted employee
-(auto translated by chatGPT) 
-<div align="center">
-I received the email from the company while I was on maternity leave,<br>
-just when my baby had turned two months old, and my elder child was three years old.<br>
-It was during the morning feeding, a rare moment when I happened to check my seldomly viewed emails.<br>
-The message was from someone I had never heard of before, stating,<br>
-“We will have an interview regarding your employment with Google.”<br>
-My mind went blank, unable to comprehend what was happening.<br>
-At that time, I was still in the midst of nightly feedings—ten times a night—frequent diaper changes,<br> soothing cuddles, baths, all while simultaneously caring for my three-year-old daughter.<br>
-My body and mind were still recovering postpartum, and I was struggling to get enough sleep.<br> 
-As I held my crying baby, I couldn’t afford the time to read the email at length, only managing to glance over it between care tasks.<br>
-I understood it to be a non-negotiable dismissal notice that began with “Unfortunately.”<br>
-I felt abruptly discarded by the company, overwhelmed with anxiety and stress during feedings,<br>
-fearing it might affect my milk supply and my infant's ability to focus and grow.<br>
-Crushed by a multitude of fears and uncertainties, the day came to sign the papers, and I felt coerced into signing.<br>
-During such a critical and precious time in the life of a parent and a zero-year-old child,<br>
-I never imagined Google would take such a harsh approach......<a href="https://alphabet-union-jp.github.io/letter_layoff_en.html#letter-from-the-impacted-employee">Read Full Letter</a><br>
-</div>
-
-[日本語](index.md#当事者からの手紙)  
-[Join us](#join-us)  
-[Back to Index](#index)
-
- 
-## 11/14 Notification from the Labor Bureau of Illegal Conduct
-We have received notification from the Labor Bureau regarding the layoff conducted on March 2nd. Following our request for guidance submitted to the Labor Bureau on May 25th, they acknowledged illegal actions and provided guidance(1). The union's claim involved illegal pressure to resign, exceeding the legal framework for suggesting retirement, especially towards employees on maternity or paternity leave. The Labor Bureau did not disclose specific details of the recognized illegal actions. They reported that they would administer administrative guidance(1) and, if no improvement is seen within a certain period, would issue a correction recommendation(2). Currently, under the mediation of the Labor Bureau, negotiations for a settlement are underway......[Read Full History](labor_bureau_layoff_en.md)  
-
-(1) Administrative Guidance(行政指導): In Japan, this is a process where government agencies advise or suggest how company should comply with laws.    
-(2) Correction Recommendation(是正勧告): This is a more formal step. If a company doesn't follow the administrative guidance, the government agance may issue a correction recommendation. This is a formal request to change practices or correct legal violations.  
-
-Related Articles:  
-[Business Insider Japan グーグルの退職勧奨を東京労働局が｢違反｣認定、労働組合が発表。産休・育休中の社員めぐり](https://www.businessinsider.jp/post-278201)  
-[Bengo4.com グーグル日本法人による退職勧奨、育休・産休中の社員に実施は「違法」…組合側が発表](https://www.bengo4.com/c_5/n_16760/)  
-[Mainichi 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
-
-[日本語](index.md#1114-労働局から違法行為があった判断の連絡がありました)  
-[Join us](#join-us)  
-[Back to Index](#index)  
-
 
 # Join us
 For a labor union, the number of union members directly translates into its strength. Anyone working for a company under Alphabet, regardless of employment type, is eligible to join. Growing and strengthening the union is the only way to communicate on equal terms with the company and win workers' rights. 
@@ -238,6 +188,11 @@ JMITU AU branch
 [日本語](index.md#問い合わせ)  
 [Join us](#join-us)  
 [Back to Index](#index)
+
+# Archive
+[Union policy against layoff](policy_layoff_jp.md)  
+[Letter from impacted mother on parental leave](letter_layoff_jp.md)  
+[Illigal judge from the Labor Bureau to Google](labor_bureau_layoff_en.md)
 
 # External Resources
 ## Activity of our Branch

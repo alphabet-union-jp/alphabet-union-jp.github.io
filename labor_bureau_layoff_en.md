@@ -49,6 +49,11 @@ The key point in the case of forced retirement is whether the company can object
 Regarding the Child Care and Family Care Leave Law, if it wasn't determined that the layoffs were due to the employees taking child care leave, the focus would be on whether it's decided, through comprehensive judgment, that the actions contradict the spirit of the law.  
 Please help to spread the word about this page and discuss it with those around you. We appreciate the support of public opinion.  
 
+Related Articles:  
+[Business Insider Japan グーグルの退職勧奨を東京労働局が｢違反｣認定、労働組合が発表。産休・育休中の社員めぐり](https://www.businessinsider.jp/post-278201)  
+[Bengo4.com グーグル日本法人による退職勧奨、育休・産休中の社員に実施は「違法」…組合側が発表](https://www.bengo4.com/c_5/n_16760/)  
+[Mainichi 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
+
 [日本語](labor_bureau_layoff_jp.md)  
 [Join us](en.md#join-us)  
 [Back](en.md#1114-notification-from-the-labor-bureau-of-illegal-conduct)  
