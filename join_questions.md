@@ -98,8 +98,8 @@ The members are motivated by the desire to help their colleagues working at Alph
 ## 加入にはハードルがあるけれど、他の方法で支援できることはありますか？
 ## There is a barrier to joining, but are there other ways to support you?
 
-SNSのフォロー、署名、寄付などがあります。詳しくはホームページをご覧ください。また、人手の必要とされる、書き起こしや翻訳などの作業も多数あります。お手伝いいただける方はこちらのメールアドレスにご連絡ください。au.jmitu@gmail.com  
-Yes, you can follow us on social media, sign our petitions, make donations, etc. Please refer to our website for more details. In addition, there is a great need for people to help with tasks such as transcription and translation. If you are able to help, please contact us at this email address: au.jmitu@gmail.com
+[マンスリーサポーター](index.md#マンスリーサポーター)、SNSのフォロー、署名、[寄付](index.md#寄付先)などがあります。詳しくはホームページをご覧ください。また、人手の必要とされる、書き起こしや翻訳などの作業も多数あります。お手伝いいただける方はこちらのメールアドレスにご連絡ください。au.jmitu@gmail.com  
+Yes, you can be [monthly supporter](en.md#monthly-supporter), follow us on social media, sign our petitions, make [donations](en.md#donation), etc. Please refer to our website for more details. In addition, there is a great need for people to help with tasks such as transcription and translation. If you are able to help, please contact us at this email address: au.jmitu@gmail.com
 
 [加入する](index.md#加入の呼びかけ)  [Join us](en.md#join-us)  
 
