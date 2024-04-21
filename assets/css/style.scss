@@ -28,40 +28,30 @@
   }
 }
 
-.nav {
-  max-width: 600px;
+.chk {
+  display:none;
 }
-
-.nav a {
-  display: block;
-  padding: 15px;
-  text-decoration: none;
+.lbl{  
+ background:#6091d3; /*背景色*/
+ color:#fff;         /*文字色*/
+ display:block;
+ margin-bottom:1px;  /*要素の外側下部の余白*/
+ padding:10px;       /*要素の内部側の余白*/
+ width:200px;        /*横幅*/
 }
-
-label {
-  display: block;
-  margin: 0 0 4px 0;
-  padding : 15px;
-  line-height: 1;
-  cursor :pointer;
+.con{
+ border: 1px solid #000; /*枠線*/
+ height: 0;              /*縦幅*/
+ width: 200px;           /*横幅*/
+ opacity: 0;             /*不透明度*/
+ padding: 0 10px;        /*要素の内部側の余白*/
+ transition: 0.5s;       /*アニメーション速度*/
+ visibility: hidden;     /*表示設定*/
 }
-
-input {
-  display: none;
-}
-
-.nav ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.nav li {
-  height: 0;
-  overflow: hidden;
-}
-
-#language:checked ~ #links01 li{
-  height: 54px;
-  opacity: 1;
+.chk:checked + .lbl + .con{
+ height: 40px;        /*縦幅*/
+ opacity: 1;          /*不透明度*/
+ padding: 9px;        /*要素の内部側の余白*/
+ margin-bottom: 10px; /*要素の外側下部の余白*/
+ visibility: visible; /*表示設定*/
 }
