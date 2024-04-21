@@ -9,7 +9,7 @@ lang: "en_US"
 
 # Index
 - [Jan 9th AU Branch 2023 Activity Report](#jan-9th-au-branch-2023-activity-report)
-- [Union Activity about Recommendation of Resignation During Pat/Mat Leave](#union-activity-about-recommendation-of-resignation-during-patmat-leave)
+- [Relief petition on Refusal of CB about layoff During Pat/Mat Leave](#relief-petition-on-refusal-of-cb-about-layoff-during-patmat-leave)
 - [Join us](#join-us)
 - [Labor Consultation](#labor-consultation)
 - [Donation](#donation)
@@ -27,7 +27,7 @@ If you find this information valuable and wish to support our ongoing activities
 [Back to Index](#index)  
 
 
-# Union Activity about Recommendation of Resignation During Pat/Mat Leave
+# Relief petition on Refusal of CB about layoff During Pat/Mat Leave
 ## Illegality of the layoff itself
 In Japan, companies are not allowed to unilaterally dismiss employees, except under special circumstances. As a result, the most common form of resignation during reorganization is a 'recommendation of resignation' This occurs when a company thoroughly explains the situation to an employee and reaches a mutual agreement for resignation. However, applying coercive pressure to make an employee sign a resignation agreement against their will is known as 'forced resignation' and is considered an illegal act.  
 The solicitation to resign made to the targeted individuals on March 2nd was unlawfully pressuring employees to resign, exceeding the bounds of standard resignation requests. Under Japanese law, employees have the right to resign voluntarily without undue pressure from the employer. The email sent contained messages like, "Your role has been impacted by workforce reductions" and "You will receive an additional payment if you choose to sign the Agreement within 14 days from today. You will continue to have access to the corporate network during this period" This is subtly suggested that rejecting their offer might lead to a loss of access to the internal system, which is seens as an indirect way of forcing employees out.  
@@ -59,6 +59,22 @@ A labor commission relief request(2) is like a lawsuit for labor unions. and it 
 
 [Donate](#donation)  
 [Collective Barganing History](collective_barganing_history_en.md)  
+
+## March 28th the second Hearing Session Report
+On March 18th, we had the second session for our relief application.  
+During the recent collective bargaining, we presented the results of an employee survey about layoffs conducted by the union, highlighting that employees feel the explanations for the layoffs were insufficient, and pointing out that it's illegal for approximately 70% of employees who refused voluntary retirement to receive low evaluations. We demanded that the company disclose the layoff data, reveal the proportion of low evaluations among employees who declined the retirement offer, and correct these evaluations. The company responded that they would not disclose the layoff data, claiming that the status of having received a retirement offer is not integrated into the evaluation process, and that specific reasons for evaluations will not be disclosed due to privacy concerns.  
+６During the relief application, we argued that these responses were insincere. The labor commissioner seemed to understand our arguments.   However, the company has consistently refused to disclose information during the relief application, maintaining there is no issue, and showed no signs of changing their attitude. The harassment continues, and we will keep pressing the company to change its behavior.
+
+Date: May 20th, 2024  
+Time: 10:30 AM - 12:00 AM  
+Location:  
+Tokyo Metropolitan Government First Main Building  
+2-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo  
+South(S) Tower, 38th Floor  
+
+[Download Flyer](https://drive.google.com/file/d/1crzWkqkzMkEN5-DjdVOPEFoIekuL3Bf4/view?usp=drive_link)
+
+[Donate](#donation)  
 
 ## Jan 22nd the First Hearing Session Report
 We had the first session with the Tokyo Labor Committee on Jan 22nd 2024.  
