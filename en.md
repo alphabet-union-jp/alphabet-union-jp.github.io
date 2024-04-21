@@ -57,6 +57,10 @@ A labor commission relief request(2) is like a lawsuit for labor unions. and it 
 (1) Unfair Labor Practice: Actions by an employer that violates unions' rights under labow law.  
 (2) Labor Commission Relief Request: Unions can request relief to labor comission when they believe that the company has committed illegal unfailr labor practice against union. It can take up to a year and a half. If they find the company at fault, Labor Commission can order the company to rectify the situation. In our case, we requested company to have collective barganing and send an apology email to union in internal mailing list.  
 
+Related article：  
+[Mainichi 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
+[Indiegogo Crowdfunding campaign](https://www.indiegogo.com/projects/google-japan-transpalent-information-of-layoffs/x/35063506#/)  
+
 [Donate](#donation)  
 [Collective Barganing History](collective_barganing_history_en.md)  
 
@@ -72,7 +76,8 @@ Tokyo Metropolitan Government First Main Building
 2-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo  
 South(S) Tower, 38th Floor  
 
-[Download Flyer](https://drive.google.com/file/d/1crzWkqkzMkEN5-DjdVOPEFoIekuL3Bf4/view?usp=drive_link)
+[Download Flyer](https://drive.google.com/file/d/1crzWkqkzMkEN5-DjdVOPEFoIekuL3Bf4/view?usp=drive_link)  
+[Indiegogo updates](https://www.indiegogo.com/projects/google-japan-transpalent-information-of-layoffs/x/35063506#/updates/all)  
 
 [Donate](#donation)  
 
@@ -89,12 +94,10 @@ Tokyo Metropolitan Government First Main Building
 2-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo  
 South(S) Tower, 38th Floor  
 
-[Download Flyer](https://drive.google.com/file/d/1NLcXDZ_hqL2069xkywKIOo_aL3CoFE6A/view?usp=sharing)
+[Download Flyer](https://drive.google.com/file/d/1NLcXDZ_hqL2069xkywKIOo_aL3CoFE6A/view?usp=sharing)  
+[Indiegogo updates](https://www.indiegogo.com/projects/google-japan-transpalent-information-of-layoffs/x/35063506#/updates/all)  
 
 [Donate](#donation)  
-
-Related article：  
-[Mainichi 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
 
 [日本語](index.md#122-第一回期日報告)  
 [Join us](#join-us)  

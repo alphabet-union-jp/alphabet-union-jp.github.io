@@ -48,6 +48,7 @@ Alphabet Unionは、今回のレイオフについて、今まで会社に３回
 
 関連記事：  
 [毎日新聞 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
+[Indiegogo クラウドファンディング](https://www.indiegogo.com/projects/google-japan-transpalent-information-of-layoffs/x/35063506#/)  
 
 [寄付する](#寄付先)  
 [今までの団体交渉についての経緯](collective_barganing_history_jp.md)  
@@ -63,6 +64,8 @@ Alphabet Unionは、今回のレイオフについて、今まで会社に３回
 新宿区西新宿2-8-1 東京都庁 第一本庁舎 南(S)塔 38F  
 
 [ビラ](https://drive.google.com/file/d/1crzWkqkzMkEN5-DjdVOPEFoIekuL3Bf4/view?usp=drive_link)  
+[クラウドファンディング状況報告](https://www.indiegogo.com/projects/google-japan-transpalent-information-of-layoffs/x/35063506#/updates/all)  
+
 
 ## 1/22 第一回期日報告
 2024/1/22、第一回の東京都労働委員会の期日が行われました。  
@@ -74,7 +77,8 @@ Alphabet Unionは、今回のレイオフについて、今まで会社に３回
 2023年3月18日 10:30-12:00  
 新宿区西新宿2-8-1 東京都庁 第一本庁舎 南(S)塔 38F  
 
-[ビラ](https://drive.google.com/file/d/1NLcXDZ_hqL2069xkywKIOo_aL3CoFE6A/view?usp=sharing)
+[ビラ](https://drive.google.com/file/d/1NLcXDZ_hqL2069xkywKIOo_aL3CoFE6A/view?usp=sharing)  
+[クラウドファンディング状況報告](https://www.indiegogo.com/projects/google-japan-transpalent-information-of-layoffs/x/35063506#/updates/all)  
 
 [English](en.md#jan-22nd-the-first-hearing-session-report)  
 [目次に戻る](#目次)  
