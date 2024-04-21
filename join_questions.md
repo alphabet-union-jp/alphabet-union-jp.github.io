@@ -42,14 +42,14 @@ We ask all union members to attend the annual meeting once a year, or to submit 
 
 ## 組合に加入するとどんなメリットがありますか？
 ## What are the benefits of joining the union?
-日本で働く方には日本の労働法が適用されます。
-自分を守るために、労働組合に加入しておくことで必要な知識も得やすくなります。  
-組合に加入したことを事前に会社に知らせておけば、退職勧奨の対象となる可能性を減らす効果が期待できます。会社が組合員を解雇し組合の弱体化を狙うことを禁止するため、組合員への退職勧奨は特別強く保護されています。実際に、組合代表が人事に面談を申し込んだ際に、「組合員への違法な退職強要となるリスクを回避するため」という理由で面談を拒否されました。会社が組合員への退職強要の違法性を意識している証拠と言えます。  
-会社に加入したことを知らせていなかった場合でも、退職勧奨やハラスメントなどのトラブルが発生した際に、既に組合に加入していればスムーズに対応に動けます。トラブルが起きてから、精神的に追い詰められた状態での加入の検討や手続きは負担が大きいので、退職勧奨やハラスメントを懸念されている方は、余裕のあるうちの事前の組合加入をお勧めします。  
-組合は、人数が増えることで、会社への影響力を増していきます。組合費と年一度の大会以外のご負担はありませんので、組合の活動を応援する意味でも、是非加入してください。  
-The labor laws of Japan apply to anyone working in Japan. To protect yourself, it is easier to gain the necessary knowledge by joining a labor union. If you notify the company in advance that you have joined the union, you can expect a reduced chance of being targeted for "encouraged resignation". This is because the law prohibits companies from dismissing union members in an attempt to weaken the union, so "encouraged resignations" of union members are especially strongly protected. In fact, when a union representative applied for a meeting with HR, the meeting was refused for the reason of "avoiding the risk of illegal forced resignation of union members". This can be taken as evidence that the company is aware of the illegality of forcing union members to resign.  
-Even if you have not notified the company of your union membership, if troubles such as encouraged resignation or harassment occur, being already a member of the union allows you to respond smoothly. Considering joining and going through the process while being mentally cornered after troubles occur can be a heavy burden, so if you are concerned about forced resignations or harassment, we recommend joining the union in advance when you have spare capacity.  
-The union increases its influence on the company as the number of members increases. There are no obligations other than the union fee and the annual meeting, so please join to support the union's activities.
+組合の目的は、労働者が会社と交渉をする権利を保証することです。Googleの場合は、大きく分けて2つのメリットが期待できます。  
+1つ目は、給与の交渉です。会社は、組合員のComp額の決定プロセスの説明に、協力的な姿勢を示しました。具体例として、例えば、同じ属性の社員の平均値などのデータを示すと答えました。あなたの給与が公正に決まっているかデータの開示を求め、不当に給与が下げられていれば、引き上げを求めることができます。  
+2つ目は、不当な取扱いの予防です。退職勧奨やハラスメントなどは、更なる不利益取扱の可能性のサインです。低評価、Compの引き下げ、不利益な移動の強制など違法な不利益取扱を会社は繰り返しています。組合員であることを明かし、何かあれば争う用意がある姿勢を示すことで、会社は不利益な取扱に慎重になります。  
+組合は、人数が増えることで、会社への影響力を増していきます。Comp額のデータも、たくさんの組合員のデータが集まることで、ジェンダーや人種で統計的な差がついていないか検証することができます。力を合わせ、労働者の権利を守りましょう。  
+The purpose of the union is to guarantee the right of workers to negotiate with the company. In the case of Google, there are two main benefits expected:  
+Salary negotiation: The company has shown a cooperative attitude in explaining the decision-making process for the union members' compensation amounts. For example, they have responded by showing data such as the average values for employees with similar attributes. You can request the disclosure of this data to verify if your salary has been set fairly, and if it has been unfairly reduced, you can demand an increase.  
+Prevention of unfair treatment: Encouragement to resign and harassment are signs of potential adverse treatment. The company has been repeating illegal adverse treatments, such as poor evaluations, reductions in compensation, and forced disadvantageous transfers. By revealing that you are a union member and showing that you are prepared to contest any issues, the company becomes more cautious about treating you unfairly.  
+As the number of union members increases, their influence over the company grows. With the data from many union members, it becomes possible to verify whether there are statistical differences based on gender or race. Let's join forces to protect workers' rights.  
 
 [加入する](index.md#加入の呼びかけ)  [Join us](en.md#join-us)  
 
@@ -59,9 +59,14 @@ The union increases its influence on the company as the number of members increa
 ## 今までどんな活動をしてきましたか？
 ## What kind of activities have you been doing so far?
 
-団体交渉で、今回の退職勧奨についての説明を会社に求めてきました。育休、産休中の社員を対象をとした退職勧奨について、東京都労働局に育休法違反として指導を要請しました。詳しくはホームページをご覧ください。  
-また、説明不足の週三出勤についても、説明を求め、8/28に団体交渉を予定しています。  
-In collective bargaining, we have demanded explanations from the company about the recent encouraged resignations. We requested the Tokyo Labor Bureau to provide guidance on violations of the Child Care and Family Care Leave Law with respect to encouraged resignations targeting employees on maternity and parental leave. Please refer to our website for details. We have also requested explanations about the inadequately explained thrice-weekly office attendance policy, and have scheduled collective bargaining for this on 28th August.
+これまでに、２つの勝利を積み重ねてきました。
+育休、産休中の社員を対象をとした退職勧奨について、東京都労働局に育休法違反として指導を要請し、署名活動の後押しを得て、Googleに対する違法判断を勝ち取りました。結果、2024年のレイオフでは、育休・産休中の社員が対象となったという相談はありませんでした。
+会社の団体交渉拒否について、労働委員会での救済申し立てを進めてきました。結果として、会社は、組合員の給与の決まり方については統計データなどの開示を含め誠実に応じると回答しています。
+今は、退職勧奨を断った社員にハラスメントやCompの減給を行わないことと、組合活動に部活同様に会社の会議室やcorpアカウントを利用させることを求めています。救済申し立ての救済命令はまだ出ていません。救済申し立ての命令が出れば、労働者の権利を大きく広げることになるでしょう。
+So far, we have achieved two victories:
+1. We requested guidance from the Tokyo Labor Bureau for a violation of the maternity leave law regarding encouragements to resign targeted at employees on maternity or paternity leave, and with the support of a petition campaign, we secured a legal judgment against Google. As a result, there were no reports of employees on maternity or paternity leave being targeted in the layoffs of 2024.
+2. Regarding the company's refusal to engage in collective bargaining, we have pursued a relief petition through the Labor Commission. As a result, the company has responded sincerely, including the disclosure of statistical data on how union members' salaries are determined.
+Currently, we are demanding that employees who refuse resignation encouragements are not subjected to harassment or salary cuts, and that union activities are allowed to use company conference rooms and corporate accounts similar to club activities. A relief order from the relief petition has not yet been issued. If such an order is issued, it would significantly expand workers' rights.
 
 [加入する](index.md#加入の呼びかけ)  [Join us](en.md#join-us)  
 
