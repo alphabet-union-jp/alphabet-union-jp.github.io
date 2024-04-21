@@ -112,15 +112,25 @@ If you are interested in supporting union but haven't considered joining yet, Pl
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfph1Jyi5T_Qvn1l2VlcRkWNn_JOt_slxI56o73tn4howxWIA/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
 
+### union fee
+Union fees can be paid either by bank transfer or through Stripe. The fee for bank transfers is 2,000 yen per month. If paying via Stripe, the amount will include Stripe fees.
+
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
-
 <stripe-buy-button
   buy-button-id="buy_btn_1P7qafKVefqBUa3b8Qa4zO1O"
   publishable-key="pk_live_51OxP4nKVefqBUa3bQ43fVrvnSbfXIlnXxbFL1QwkClGtmxr1NQlOgdbJ3IBxSBjdJVCuUBCiCliR6pmpr8HIQVJf0020gtxXEo"
 >
 </stripe-buy-button>
+
+Bank account
+> 中央労働金庫(中央労金) Chuo Labour Bank
+> branch number: 296
+> account number: 162695
+> account name:
+> JMITU Alphabetユニオン支部  
+> ジェイエムアイティーユー アルファベット ユニオン シブ
 
 ### message from union members
 > The action of joining union itself is very empowering to me. Members are coming together and sharing our power and love, this is creating a stronger mental strength. In a time when there are more and more suffering in this world, partnership and community is really what we need and can lean into. I joined the union to be part of the creation of this community, and wish more people can benefit from this community, and as it grows bigger, it serves more and more of you.

@@ -97,11 +97,19 @@ Alphabet Unionは、今回のレイオフについて、今まで会社に３回
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
 
+### 組合費
+組合費は、銀行振込もしくはStripeでお支払いをお願いします。銀行振り込みの場合月に2000円、StripeはStripe手数料込の金額になります。
+
 <stripe-buy-button
   buy-button-id="buy_btn_1P7qafKVefqBUa3b8Qa4zO1O"
   publishable-key="pk_live_51OxP4nKVefqBUa3bQ43fVrvnSbfXIlnXxbFL1QwkClGtmxr1NQlOgdbJ3IBxSBjdJVCuUBCiCliR6pmpr8HIQVJf0020gtxXEo"
 >
 </stripe-buy-button>
+
+銀行振込  
+> 中央労働金庫（中央労金）　店番号296 口座番号 162695  
+> JMITU Alphabetユニオン支部  
+> ジェイエムアイティーユー アルファベット ユニオン シブ
 
 ### 組合員からのメッセージ
 > 組合に参加すること自体が、私に大きな力を感じさせてくれます。メンバーが集まり、私たちの力と愛を共有することで、精神的な強さが増しています。世界で苦しみが増える今、パートナーシップとコミュニティこそが本当に必要なものであり、私たちが支え合えるものです。私はこのコミュニティを築くために組合に加わりましたし、もっと多くの人がこのコミュニティの恩恵を享受し、そしてそれが大きくなるほど、より多くの方々に役立てることを願っています。
