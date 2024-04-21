@@ -59,14 +59,14 @@ As the number of union members increases, their influence over the company grows
 ## 今までどんな活動をしてきましたか？
 ## What kind of activities have you been doing so far?
 
-これまでに、２つの勝利を積み重ねてきました。
-育休、産休中の社員を対象をとした退職勧奨について、東京都労働局に育休法違反として指導を要請し、署名活動の後押しを得て、Googleに対する違法判断を勝ち取りました。結果、2024年のレイオフでは、育休・産休中の社員が対象となったという相談はありませんでした。
-会社の団体交渉拒否について、労働委員会での救済申し立てを進めてきました。結果として、会社は、組合員の給与の決まり方については統計データなどの開示を含め誠実に応じると回答しています。
-今は、退職勧奨を断った社員にハラスメントやCompの減給を行わないことと、組合活動に部活同様に会社の会議室やcorpアカウントを利用させることを求めています。救済申し立ての救済命令はまだ出ていません。救済申し立ての命令が出れば、労働者の権利を大きく広げることになるでしょう。
-So far, we have achieved two victories:
-1. We requested guidance from the Tokyo Labor Bureau for a violation of the maternity leave law regarding encouragements to resign targeted at employees on maternity or paternity leave, and with the support of a petition campaign, we secured a legal judgment against Google. As a result, there were no reports of employees on maternity or paternity leave being targeted in the layoffs of 2024.
-2. Regarding the company's refusal to engage in collective bargaining, we have pursued a relief petition through the Labor Commission. As a result, the company has responded sincerely, including the disclosure of statistical data on how union members' salaries are determined.
-Currently, we are demanding that employees who refuse resignation encouragements are not subjected to harassment or salary cuts, and that union activities are allowed to use company conference rooms and corporate accounts similar to club activities. A relief order from the relief petition has not yet been issued. If such an order is issued, it would significantly expand workers' rights.
+これまでに、２つの勝利を積み重ねてきました。  
+育休、産休中の社員を対象をとした退職勧奨について、東京都労働局に育休法違反として指導を要請し、署名活動の後押しを得て、Googleに対する違法判断を勝ち取りました。結果、2024年のレイオフでは、育休・産休中の社員が対象となったという相談はありませんでした。  
+会社の団体交渉拒否について、労働委員会での救済申し立てを進めてきました。結果として、会社は、組合員の給与の決まり方については統計データなどの開示を含め誠実に応じると回答しています。  
+今は、退職勧奨を断った社員にハラスメントやCompの減給を行わないことと、組合活動に部活同様に会社の会議室やcorpアカウントを利用させることを求めています。救済申し立ての救済命令はまだ出ていません。救済申し立ての命令が出れば、労働者の権利を大きく広げることになるでしょう。  
+So far, we have achieved two victories.  
+We requested guidance from the Tokyo Labor Bureau for a violation of the maternity leave law regarding encouragements to resign targeted at employees on maternity or paternity leave, and with the support of a petition campaign, we secured a legal judgment against Google. As a result, there were no reports of employees on maternity or paternity leave being targeted in the layoffs of 2024.  
+Regarding the company's refusal to engage in collective bargaining, we have pursued a relief petition through the Labor Commission. As a result, the company has responded sincerely, including the disclosure of statistical data on how union members' salaries are determined.  
+Currently, we are demanding that employees who refuse resignation encouragements are not subjected to harassment or salary cuts, and that union activities are allowed to use company conference rooms and corporate accounts similar to club activities. A relief order from the relief petition has not yet been issued. If such an order is issued, it would significantly expand workers' rights.  
 
 [加入する](index.md#加入の呼びかけ)  [Join us](en.md#join-us)  
 
