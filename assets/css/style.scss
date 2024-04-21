@@ -29,10 +29,39 @@
 }
 
 .nav {
-  display: flex;
-  margin-left: auto;
+  max-width: 600px;
+}
+
+.nav a {
+  display: block;
+  padding: 15px;
+  text-decoration: none;
+}
+
+label {
+  display: block;
+  margin: 0 0 4px 0;
+  padding : 15px;
+  line-height: 1;
+  cursor :pointer;
+}
+
+input {
+  display: none;
+}
+
+.nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 .nav li {
-  padding: 0 20px;
+  height: 0;
+  overflow: hidden;
+}
+
+#language:checked ~ #links01 li{
+  height: 54px;
+  opacity: 1;
 }
