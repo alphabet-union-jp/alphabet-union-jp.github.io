@@ -110,6 +110,7 @@ If you have any questions about joining the union, please submit [cotact form](#
 Refer to this [FAQs](join_questions.md) as well.   
 If you are interested in supporting union but haven't considered joining yet, Please consider [monthly supporter](#monthly-suppoter), too.  
 
+[Open applicatin form](https://docs.google.com/forms/d/e/1FAIpQLSfph1Jyi5T_Qvn1l2VlcRkWNn_JOt_slxI56o73tn4howxWIA/viewform?usp=sf_link)  
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfph1Jyi5T_Qvn1l2VlcRkWNn_JOt_slxI56o73tn4howxWIA/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
 
 ### union fee

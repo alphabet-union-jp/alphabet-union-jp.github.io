@@ -91,6 +91,7 @@ Alphabet Unionは、今回のレイオフについて、今まで会社に３回
 こちらの[Q&Aページ](join_questions.md)もご参照ください。  
 応援したいけど、加入はまだ心配、という方は[マンスリーサポーター](#マンスリーサポーター)もご検討ください。
 
+[加入届を開く](https://docs.google.com/forms/d/e/1FAIpQLSfph1Jyi5T_Qvn1l2VlcRkWNn_JOt_slxI56o73tn4howxWIA/viewform?usp=sf_link)  
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfph1Jyi5T_Qvn1l2VlcRkWNn_JOt_slxI56o73tn4howxWIA/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
 
 <script async
