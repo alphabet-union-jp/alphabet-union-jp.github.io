@@ -106,11 +106,11 @@ South(S) Tower, 38th Floor
 # Join us
 For a labor union, the number of union members directly translates into its strength. Anyone working for a company under Alphabet, regardless of employment type, is eligible to join. Growing and strengthening the union is the only way to communicate on equal terms with the company and win workers' rights. 
 Please consider joining for your own sake, and to prevent aggressive layoffs and unfair salary reduction.  
-If you have any questions about joining the union, please submit [cotact form](#contact) below to arrange a meeting time. We will explain the terms and conditions and the application process.  
+If you have any questions about joining the union, please submit [contact form](#contact) below to arrange a meeting time. We will explain the terms and conditions and the application process.  
 Refer to this [FAQs](join_questions.md) as well.   
 If you are interested in supporting union but haven't considered joining yet, Please consider [monthly supporter](#monthly-suppoter), too.  
 
-[Open applicatin form](https://docs.google.com/forms/d/e/1FAIpQLSfph1Jyi5T_Qvn1l2VlcRkWNn_JOt_slxI56o73tn4howxWIA/viewform?usp=sf_link)  
+[Open application form](https://docs.google.com/forms/d/e/1FAIpQLSfph1Jyi5T_Qvn1l2VlcRkWNn_JOt_slxI56o73tn4howxWIA/viewform?usp=sf_link)  
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfph1Jyi5T_Qvn1l2VlcRkWNn_JOt_slxI56o73tn4howxWIA/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
 
 ### union fee
