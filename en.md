@@ -14,7 +14,7 @@ The JMITU Alphabet Union (JAU) promotes fair and legal labor practices, working 
 - [Jan 9th AU Branch 2023 Activity Report](#jan-9th-au-branch-2023-activity-report)
 - [Relief petition on Refusal of CB about layoff During Pat/Mat Leave](#relief-petition-on-refusal-of-cb-about-layoff-during-patmat-leave)
 - [Branch History](#branch-history)
-- [Join us](#join-us)
+- [Join Us](#join-us)
 - [Labor Consultation](#labor-consultation)
 - [Donation](#donation)
 - [Archive](#archive)
@@ -54,8 +54,8 @@ If you find this information valuable and wish to support our ongoing activities
 [Back to Index](#index)  
 
 
-# Relief petition on Refusal of CB about layoff During Pat/Mat Leave
-## Illegality of the layoff itself
+# Relief Petition on Refusal of CB About Layoff During Pat/Mat Leave
+## Illegality of the Layoff Itself
 In Japan, companies are not allowed to unilaterally dismiss employees, except under special circumstances. As a result, the most common form of resignation during reorganization is a 'recommendation of resignation' This occurs when a company thoroughly explains the situation to an employee and reaches a mutual agreement for resignation. However, applying coercive pressure to make an employee sign a resignation agreement against their will is known as 'forced resignation' and is considered an illegal act.  
 The solicitation to resign made to the targeted individuals on March 2nd was unlawfully pressuring employees to resign, exceeding the bounds of standard resignation requests. Under Japanese law, employees have the right to resign voluntarily without undue pressure from the employer. The email sent contained messages like, "Your role has been impacted by workforce reductions" and "You will receive an additional payment if you choose to sign the Agreement within 14 days from today. You will continue to have access to the corporate network during this period" This is subtly suggested that rejecting their offer might lead to a loss of access to the internal system, which is seens as an indirect way of forcing employees out.  
 
@@ -69,7 +69,7 @@ Related Article:
 [Bengo4.com グーグル日本法人による退職勧奨、育休・産休中の社員に実施は「違法」…組合側が発表](https://www.bengo4.com/c_5/n_16760/)  
 [Mainichi 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
 
-## Illegality of not responding to negotiations with the union
+## Illegality of Not Responding to Negotiations With the Union
 The company also committed further illegal acts. Collective bargaining is a negotiation process between union and their employer, and is fundamental part of communication between workers and the company. Under Japanese lae, it is legally protected as a right of the labor union. It is considered an act of unfair labor practice(1) if a company refuses to respond to a collective bargaining request without a valid reason or does not provide a sincere explanation during the collective bargaining process. The company has a duty to respond to the demands of the labor union or explain why it cannot comply if unable to do so.  
 
 The Alphabet Union has submitted three collective bargaining proposals to the company regarding this round of layoffs. However, the company prematurely ended the bargaining process after only two sessions, and without providing sufficient explanation, refused the third request. The company did not provide detailed reasons for their decisions, leaving the union's concerns unaddressed.
@@ -91,7 +91,7 @@ Related article：
 [Donate](#donation)  
 [Collective Barganing History](collective_barganing_history_en.md)  
 
-## March 28th the second Hearing Session Report
+## March 28th the Second Hearing Session Report
 On March 18th, we had the second session for our relief application.  
 During the recent collective bargaining, we presented the results of an employee survey about layoffs conducted by the union, highlighting that employees feel the explanations for the layoffs were insufficient, and pointing out that it's illegal for approximately 70% of employees who refused voluntary retirement to receive low evaluations. We demanded that the company disclose the layoff data, reveal the proportion of low evaluations among employees who declined the retirement offer, and correct these evaluations. The company responded that they would not disclose the layoff data, claiming that the status of having received a retirement offer is not integrated into the evaluation process, and that specific reasons for evaluations will not be disclosed due to privacy concerns.  
 ６During the relief application, we argued that these responses were insincere. The labor commissioner seemed to understand our arguments.   However, the company has consistently refused to disclose information during the relief application, maintaining there is no issue, and showed no signs of changing their attitude. The harassment continues, and we will keep pressing the company to change its behavior.
@@ -133,7 +133,7 @@ South(S) Tower, 38th Floor
 # Branch History
 JAU was formed in response to the workforce reductions that occurred in March 2023 in Japan. The branch was started when employees who were on maternity or childcare leave spoke out about their role eliminations and being encouraged to retire. Since then, the number of impacted Googlers in Japan has increased due to additional rounds of team restructurings. JAU’s priority has been focused on opposing illegal forced resignations, discrimination (including compensation reductions) and/or harassment of Googlers.
 
-# Join us
+# Join Us
 For a labor union, the number of union members directly translates into its strength. Anyone working for a company under Alphabet, regardless of employment type, is eligible to join. Growing and strengthening the union is the only way to communicate on equal terms with the company and win workers' rights. 
 Please consider joining for your own sake, and to prevent aggressive layoffs and unfair salary reduction.  
 If you have any questions about joining the union, please submit [contact form](#contact) below to arrange a meeting time. We will explain the terms and conditions and the application process.  
@@ -143,7 +143,7 @@ If you are interested in supporting union but haven't considered joining yet, Pl
 [Open application form](https://docs.google.com/forms/d/e/1FAIpQLSfph1Jyi5T_Qvn1l2VlcRkWNn_JOt_slxI56o73tn4howxWIA/viewform?usp=sf_link)  
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfph1Jyi5T_Qvn1l2VlcRkWNn_JOt_slxI56o73tn4howxWIA/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
 
-### union fee
+### Union Fee
 Union fees can be paid either by bank transfer or through Stripe. The fee for bank transfers is 2,000 yen per month. If paying via Stripe, the amount will include Stripe fees.
 
 <script async
@@ -155,7 +155,7 @@ Union fees can be paid either by bank transfer or through Stripe. The fee for ba
 >
 </stripe-buy-button>
 
-Bank account
+Bank Account
 > 中央労働金庫(中央労金) Chuo Labour Bank
 > branch number: 296
 > account number: 162695
@@ -165,7 +165,7 @@ Bank account
 
 _If you use Stripe for payment and would like to cancel your monthly supporter subscription, please follow the directions in the below "[Stripe-Only] Unsubscribe/Leave Union" section._
 
-### message from union members
+### Messages From Union Members
 > The action of joining union itself is very empowering to me. Members are coming together and sharing our power and love, this is creating a stronger mental strength. ---Kangaroo
 
 > With time I began to understand the crucial role our labor union plays. They champion fair treatment, ensure our safety, and advocate tirelessly for our individual rights, which truly moved me to support their cause. ---Sasano K
@@ -236,13 +236,13 @@ Regular donations are predictable and can lead to significant financial support.
 
 _If you use Stripe for payment and would like to cancel your monthly supporter subscription, please follow the directions in the below "[Stripe-Only] Unsubscribe/Leave Union" section._
 
+[日本語](index.md#マンスリーサポーター)  
+[Join us](#join-us)  
+[Back to Index](#index)
+
 ## [Stripe-Only] Unsubscribe/Leave Union
 
 If you are a JAU union member or monthly supporter and wish to cancel your monthly payment, please click [here](https://billing.stripe.com/p/login/dR6eXj8ts0zs53yeUU).
-
-[日本語](index.md#マンスリーサポーター)  
-[Join us](#join-us)  
-[Back to Index](#index０
 
 # Archive
 [Union policy against layoff](policy_layoff_jp.md)  
