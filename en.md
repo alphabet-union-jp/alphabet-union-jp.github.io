@@ -1,20 +1,46 @@
 ---
 title: "[Google Japan] JMITU Alphabet Union Branch"
-description: "The JMITU Alphabet Union was formed to counter the large-scale layoffs at Google Japan. We are actively working to rectify the illegal forced resignations, including those targeting individuals on parental and maternity leave."
+description: "Building a Brighter Work Future. Join Us!"
 image: au_header.png
 lang: "en_US"
 ---
+
+The JMITU Alphabet Union (JAU) promotes fair and legal labor practices, working towards building a brighter work future. We advocate to protect [Google’s Values and Culture](https://about.google/community-guidelines/), enabling Googlers to focus on our mission. All workers have the right to work in a safe environment, and to choose their own careers. When something impedes that choice, we stand together to assist in removing those obstacles.
 
 [日本語](index.md)　[Contact](#contact)
 
 # Index
 - [Jan 9th AU Branch 2023 Activity Report](#jan-9th-au-branch-2023-activity-report)
 - [Relief petition on Refusal of CB about layoff During Pat/Mat Leave](#relief-petition-on-refusal-of-cb-about-layoff-during-patmat-leave)
+- [Branch History](#branch-history)
 - [Join us](#join-us)
 - [Labor Consultation](#labor-consultation)
 - [Donation](#donation)
 - [Archive](#archive)
 - [External Resources](#external-resources)
+
+# May 20th The Third Hearing Session Report
+During the third relief petition session, the union presented a rebuttal to the company's arguments made in the second session.
+
+One of the major topics of this session was the scheduling of a collective bargaining session observed by the labor committee.  
+Most recently, the union is currently working to resolve the issue of reduced bonuses and stock options for employees who declined severance offers sent to them by the company.  
+The union requested an explanation of the calculation formula used to determine these members’ stocks and bonuses, but the company refused, claiming it was "too complex to explain."   
+Despite the urgent nature of the issue which is affecting our members’ livelihoods, negotiations have been slow. Because of this, the union submitted a request for "monitored collective bargaining" (“monitored CB”) in the presence of a labor commissioner and offered to set a date to hold this monitored CB.
+
+However, no date for the monitored CB was able to be set during this session. The labor union members were told by the company, "We have another collective bargaining agreement in progress, which is looking likely to be settled in the near future, so observation by the labor committee is unnecessary.” In reality, however, there is no ongoing collective bargaining agreement other than the one we were present for monitored CB. Finally, the union pointed out this fact and the relief petition session was ended.  
+The labor commissioner was also puzzled by the company's unexpected excuse in response to the union pointing out that the company's claim was incorrect. The company is seen as wanting to avoid the monitored collective bargaining even if it has to fabricate falsehoods to accomplish this. If the company had no ulterior motives, there would be no reason to make attempts to avoid having another CB session as the company has done. Their stance on making attempts to delay the proposed CB shows there is an underlying problem going on within the company.  
+The labor commissioner expressed their understanding of the need to resolve the issue as soon as possible. They also explained that since there were very few new facts made light on either side and all arguments had been exhausted, they would consider accelerating the process of filing a motion for relief.  
+The union plans to continue seeking monitored CB to resolve the ongoing issue of compensation loss for employees who have declined company-initiated severance offers.
+
+Date: July 29th, 2024  
+Time: 10:30 AM - 12:00 AM  
+Location:  
+Tokyo Metropolitan Government First Main Building  
+2-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo  
+South(S) Tower, 38th Floor  
+
+Download Flyer  
+[Indiegogo Updates](https://www.indiegogo.com/projects/google-japan-transpalent-information-of-layoffs/x/35063506#/updates/all)
 
 # Jan 9th AU Branch 2023 Activity Report
 We have reported our activity on 2023, our strategy, activity history until the Labor Bureau illegal judgement against Google.
@@ -103,6 +129,9 @@ South(S) Tower, 38th Floor
 [Join us](#join-us)  
 [Back to Index](#index)  
 
+# Branch History
+JAU was formed in response to the workforce reductions that occurred in March 2023 in Japan. The branch was started when employees who were on maternity or childcare leave spoke out about their role eliminations and being encouraged to retire. Since then, the number of impacted Googlers in Japan has increased due to additional rounds of team restructurings. JAU’s priority has been focused on opposing illegal forced resignations, discrimination (including compensation reductions) and/or harassment of Googlers.
+
 # Join us
 For a labor union, the number of union members directly translates into its strength. Anyone working for a company under Alphabet, regardless of employment type, is eligible to join. Growing and strengthening the union is the only way to communicate on equal terms with the company and win workers' rights. 
 Please consider joining for your own sake, and to prevent aggressive layoffs and unfair salary reduction.  
@@ -132,6 +161,8 @@ Bank account
 > account name:
 > JMITU Alphabetユニオン支部  
 > ジェイエムアイティーユー アルファベット ユニオン シブ
+
+_If you use Stripe for payment and would like to cancel your monthly supporter subscription, please follow the directions in the below "[Stripe-Only] Unsubscribe/Leave Union" section._
 
 ### message from union members
 > The action of joining union itself is very empowering to me. Members are coming together and sharing our power and love, this is creating a stronger mental strength. ---Kangaroo
@@ -201,6 +232,12 @@ Regular donations are predictable and can lead to significant financial support.
   publishable-key="pk_live_51OxP4nKVefqBUa3bQ43fVrvnSbfXIlnXxbFL1QwkClGtmxr1NQlOgdbJ3IBxSBjdJVCuUBCiCliR6pmpr8HIQVJf0020gtxXEo"
 >
 </stripe-buy-button>
+
+_If you use Stripe for payment and would like to cancel your monthly supporter subscription, please follow the directions in the below "[Stripe-Only] Unsubscribe/Leave Union" section._
+
+## [Stripe-Only] Unsubscribe/Leave Union
+
+If you are a JAU union member or monthly supporter and wish to cancel your monthly payment, please click [here](https://billing.stripe.com/p/login/dR6eXj8ts0zs53yeUU).
 
 [日本語](index.md#マンスリーサポーター)  
 [Join us](#join-us)  
