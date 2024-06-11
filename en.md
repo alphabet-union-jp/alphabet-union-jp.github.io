@@ -134,13 +134,12 @@ Bank account
 > ジェイエムアイティーユー アルファベット ユニオン シブ
 
 ### message from union members
-> The action of joining union itself is very empowering to me. Members are coming together and sharing our power and love, this is creating a stronger mental strength. In a time when there are more and more suffering in this world, partnership and community is really what we need and can lean into. I joined the union to be part of the creation of this community, and wish more people can benefit from this community, and as it grows bigger, it serves more and more of you.
-> Your simple action of filling out the application form to join, will make a change. ---Kangaroo
+> The action of joining union itself is very empowering to me. Members are coming together and sharing our power and love, this is creating a stronger mental strength. ---Kangaroo
 
-> Upon entering my workplace, my sole focus was to work hard and excel. But with time, I began to understand the crucial role our labor union plays. They champion fair treatment, ensure our safety, and advocate tirelessly for our individual rights, which truly moved me to support their cause. Now, as a member, I contribute in ways that fit my capabilities, and I am proud to be part of such a collective. Why not join us in shaping a better workplace by becoming a union member? ---Sasano K
+> With time I began to understand the crucial role our labor union plays. They champion fair treatment, ensure our safety, and advocate tirelessly for our individual rights, which truly moved me to support their cause. ---Sasano K
 
-> In the workplace, sometimes we face unfair treatment or bullying. When feeling cornered and unsure of what to do, receiving support from a union can be incredibly reassuring and invaluable, beyond what words can express. When subjected to unfair and unjust treatment, you should not just endure it; instead, raise your voice and protest. You should not suffer in silence. You have the right to be treated fairly. Correcting these wrongful acts and environments will make our workplaces and society better. Won't you join us in this effort? ---Seninbari
-０
+> When feeling cornered and unsure of what to do, receiving support from a union can be incredibly reassuring and invaluable, beyond what words can express. When subjected to unfair and unjust treatment, you should not just endure it; instead, raise your voice and protest. Correcting these wrongful acts and environments will make our workplaces and society better. ---Seninbari
+
 [Terms](https://drive.google.com/file/d/1NLcsS4uFP4KSxEBJJ3PFFu_z6J3UiDli/view?usp=drive_link)  
 
 [FAQs](join_questions.md)  
