@@ -10,6 +10,7 @@ The JMITU Alphabet Union (JAU) promotes fair and legal labor practices, working 
 [日本語](index.md)　[Contact](#contact)
 
 # Index
+- [May 20th The Third Hearing Session Report](#may-20th-the-third-hearing-session-report)
 - [Jan 9th AU Branch 2023 Activity Report](#jan-9th-au-branch-2023-activity-report)
 - [Relief petition on Refusal of CB about layoff During Pat/Mat Leave](#relief-petition-on-refusal-of-cb-about-layoff-during-patmat-leave)
 - [Branch History](#branch-history)
