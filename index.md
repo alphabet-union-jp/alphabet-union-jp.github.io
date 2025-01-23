@@ -142,7 +142,7 @@ JMITU AU支部
 >
 </stripe-buy-button>
 
-_Stripe決済を使ってる組合員やマンスリーサポーターは「[Stripe] お支払い解除」セクションにて解約することができます。_
+_Stripe決済を使ってる組合員やマンスリーサポーターは[「[Stripe] お支払い解除」](#stripe-お支払い解除)セクションにて解約することができます。_
 
 [English](en.md#monthly-supporter)  
 [目次に戻る](#目次)  

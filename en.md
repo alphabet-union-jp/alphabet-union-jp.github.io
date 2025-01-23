@@ -146,7 +146,7 @@ Union dues are set at the minimum necessary to maintain union activities so that
 >
 </stripe-buy-button>
 
-_If you use Stripe for payment and would like to cancel your monthly supporter subscription, please follow the directions in the below "[Stripe-Only] Unsubscribe/Leave Union" section._
+_If you use Stripe for payment and would like to cancel your monthly supporter subscription, please follow the directions in the below []"[Stripe-Only] Unsubscribe/Leave Union"](#stripe-only-unsubscribe-leave-union) section._
 
 [日本語](index.md#マンスリーサポーター)  
 [Join us](#join-us)  
