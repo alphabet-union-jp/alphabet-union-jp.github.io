@@ -20,6 +20,12 @@ The JMITU Alphabet Union (JAU) promotes fair and legal labor practices, working 
 - [Archive](#archive)
 - [External Resources](#external-resources)
 
+Latest Updates (January 23, 2025) (English Translation)  
+- Added the latest information on PIP to the [MSA Q&A](resign_questions.md).
+- Added a frequently asked questions section on [harassment](harassment_faq.md).
+- Enhanced the explanation of the significance of [monthly supporters](#monthly-supporter).
+- Moved the [latest status of the labor committee sessions](labor_committee.md) to a separate page to declutter the main page.
+
 # Jan 9th AU Branch 2023 Activity Report
 We have reported our activity on 2023, our strategy, activity history until the Labor Bureau illegal judgement against Google.
 If you find this information valuable and wish to support our ongoing activities, please consider [joining](#join-us) or [monthly supporer](#monthly-supporter).
