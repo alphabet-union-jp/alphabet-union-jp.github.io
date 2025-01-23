@@ -20,29 +20,6 @@ The JMITU Alphabet Union (JAU) promotes fair and legal labor practices, working 
 - [Archive](#archive)
 - [External Resources](#external-resources)
 
-# May 20th The Third Hearing Session Report
-During the third relief petition session, the union presented a rebuttal to the company's arguments made in the second session.
-
-One of the major topics of this session was the scheduling of a collective bargaining session observed by the labor committee.  
-Most recently, the union is currently working to resolve the issue of reduced bonuses and stock options for employees who declined severance offers sent to them by the company.  
-The union requested an explanation of the calculation formula used to determine these members’ stocks and bonuses, but the company refused, claiming it was "too complex to explain."   
-Despite the urgent nature of the issue which is affecting our members’ livelihoods, negotiations have been slow. Because of this, the union submitted a request for "monitored collective bargaining" (“monitored CB”) in the presence of a labor commissioner and offered to set a date to hold this monitored CB.
-
-However, no date for the monitored CB was able to be set during this session. The labor union members were told by the company, "We have another collective bargaining agreement in progress, which is looking likely to be settled in the near future, so observation by the labor committee is unnecessary.” In reality, however, there is no ongoing collective bargaining agreement other than the one we were present for monitored CB. Finally, the union pointed out this fact and the relief petition session was ended.  
-The labor commissioner was also puzzled by the company's unexpected excuse in response to the union pointing out that the company's claim was incorrect. The company is seen as wanting to avoid the monitored collective bargaining even if it has to fabricate falsehoods to accomplish this. If the company had no ulterior motives, there would be no reason to make attempts to avoid having another CB session as the company has done. Their stance on making attempts to delay the proposed CB shows there is an underlying problem going on within the company.  
-The labor commissioner expressed their understanding of the need to resolve the issue as soon as possible. They also explained that since there were very few new facts made light on either side and all arguments had been exhausted, they would consider accelerating the process of filing a motion for relief.  
-The union plans to continue seeking monitored CB to resolve the ongoing issue of compensation loss for employees who have declined company-initiated severance offers.
-
-Date: July 29th, 2024  
-Time: 10:30 AM - 12:00 AM  
-Location:  
-Tokyo Metropolitan Government First Main Building  
-2-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo  
-South(S) Tower, 38th Floor  
-
-Download Flyer  
-[Indiegogo Updates](https://www.indiegogo.com/projects/google-japan-transpalent-information-of-layoffs/x/35063506#/updates/all)
-
 # Jan 9th AU Branch 2023 Activity Report
 We have reported our activity on 2023, our strategy, activity history until the Labor Bureau illegal judgement against Google.
 If you find this information valuable and wish to support our ongoing activities, please consider [joining](#join-us) or [monthly supporer](#monthly-supporter).
@@ -53,85 +30,14 @@ If you find this information valuable and wish to support our ongoing activities
 [Join us](#join-us)  
 [Back to Index](#index)  
 
-
-# Relief Petition on Refusal of CB About Layoff During Pat/Mat Leave
-## Illegality of the Layoff Itself
-In Japan, companies are not allowed to unilaterally dismiss employees, except under special circumstances. As a result, the most common form of resignation during reorganization is a 'recommendation of resignation' This occurs when a company thoroughly explains the situation to an employee and reaches a mutual agreement for resignation. However, applying coercive pressure to make an employee sign a resignation agreement against their will is known as 'forced resignation' and is considered an illegal act.  
-The solicitation to resign made to the targeted individuals on March 2nd was unlawfully pressuring employees to resign, exceeding the bounds of standard resignation requests. Under Japanese law, employees have the right to resign voluntarily without undue pressure from the employer. The email sent contained messages like, "Your role has been impacted by workforce reductions" and "You will receive an additional payment if you choose to sign the Agreement within 14 days from today. You will continue to have access to the corporate network during this period" This is subtly suggested that rejecting their offer might lead to a loss of access to the internal system, which is seens as an indirect way of forcing employees out.  
-
-Subsequently, documents regarding the early retirement package were repeatedly sent to the targeted individuals every two days. HR accepted meetings with a friendly tone, but when the targeted individuals asked what happens if the declined, HR did not provide clear information about the consequences of declining the offer. Two days before the deadline of the early retirement package, on 3/14, an additional email was sent stating, "If you have not signed your Agreement, we will begin a process to adjust your role scope, which may also result in reduced access to Google's systems" This led to the misconception that "If I refuse, I'll face the same lockout layoffs that happened at the headquarters in January."  
-
-The union requested administrative guidance from the Labor Department. Administrative guidance is issued by an administrative agency to a company that has committed an illegal act, with the aim of rectifying the illegal act. This request was approved, and consequently, the Labor Bureau identified an illegal act and initiated administrative guidance.  
-
-Related Article:  
-[グーグル社員の告白｢退職する以外に選択肢はなかった｣。育休中社員が語ったこと](https://www.businessinsider.jp/post-268498) (4/18 Business Insider)  
-[Business Insider Japan グーグルの退職勧奨を東京労働局が｢違反｣認定、労働組合が発表。産休・育休中の社員めぐり](https://www.businessinsider.jp/post-278201)  
-[Bengo4.com グーグル日本法人による退職勧奨、育休・産休中の社員に実施は「違法」…組合側が発表](https://www.bengo4.com/c_5/n_16760/)  
-[Mainichi 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
-
-## Illegality of Not Responding to Negotiations With the Union
-The company also committed further illegal acts. Collective bargaining is a negotiation process between union and their employer, and is fundamental part of communication between workers and the company. Under Japanese lae, it is legally protected as a right of the labor union. It is considered an act of unfair labor practice(1) if a company refuses to respond to a collective bargaining request without a valid reason or does not provide a sincere explanation during the collective bargaining process. The company has a duty to respond to the demands of the labor union or explain why it cannot comply if unable to do so.  
-
-The Alphabet Union has submitted three collective bargaining proposals to the company regarding this round of layoffs. However, the company prematurely ended the bargaining process after only two sessions, and without providing sufficient explanation, refused the third request. The company did not provide detailed reasons for their decisions, leaving the union's concerns unaddressed.
-[Collective Barganing History](collective_barganing_history_en.md)  
-
-Regarding this matter, we filed a relief request with the Tokyo Labor Bureau on November 14th.  
-
-Collective bargaining is crucial to prevent unethical and illegal actions. Illegal actions against unions that refuse to collectively bargain, and illegal actions against individual workers, such as this recent layoff, both reflect a company's disregard for legal compliance. We need to address these two types of illegal acts on both fronts.  
-
-A labor commission relief request(2) is like a lawsuit for labor unions. and it also incurs attorney fees. Your contributions, in the form of donations, can greatly assist us. To support our legal efforts, including the consts of attorney fees, we welcome donations. Refer to [a crowdfunding campaign closed on Jan 12th](https://igg.me/at/google-japan-layoff) for more detail.  
-
-(1) Unfair Labor Practice: Actions by an employer that violates unions' rights under labow law.  
-(2) Labor Commission Relief Request: Unions can request relief to labor comission when they believe that the company has committed illegal unfailr labor practice against union. It can take up to a year and a half. If they find the company at fault, Labor Commission can order the company to rectify the situation. In our case, we requested company to have collective barganing and send an apology email to union in internal mailing list.  
-
-Related article：  
-[Mainichi 人員削減のグーグル日本法人が団体交渉を拒否　労組が救済申し立て](https://mainichi.jp/articles/20231114/k00/00m/040/236000c)  
-[Indiegogo Crowdfunding campaign](https://www.indiegogo.com/projects/google-japan-transpalent-information-of-layoffs/x/35063506#/)  
-
-[Donate](#donation)  
-[Collective Barganing History](collective_barganing_history_en.md)  
-
-## March 28th the Second Hearing Session Report
-On March 18th, we had the second session for our relief application.  
-During the recent collective bargaining, we presented the results of an employee survey about layoffs conducted by the union, highlighting that employees feel the explanations for the layoffs were insufficient, and pointing out that it's illegal for approximately 70% of employees who refused voluntary retirement to receive low evaluations. We demanded that the company disclose the layoff data, reveal the proportion of low evaluations among employees who declined the retirement offer, and correct these evaluations. The company responded that they would not disclose the layoff data, claiming that the status of having received a retirement offer is not integrated into the evaluation process, and that specific reasons for evaluations will not be disclosed due to privacy concerns.  
-６During the relief application, we argued that these responses were insincere. The labor commissioner seemed to understand our arguments.   However, the company has consistently refused to disclose information during the relief application, maintaining there is no issue, and showed no signs of changing their attitude. The harassment continues, and we will keep pressing the company to change its behavior.
-
-Date: May 20th, 2024  
-Time: 10:30 AM - 12:00 AM  
-Location:  
-Tokyo Metropolitan Government First Main Building  
-2-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo  
-South(S) Tower, 38th Floor  
-
-[Download Flyer](https://drive.google.com/file/d/1crzWkqkzMkEN5-DjdVOPEFoIekuL3Bf4/view?usp=drive_link)  
-[Indiegogo updates](https://www.indiegogo.com/projects/google-japan-transpalent-information-of-layoffs/x/35063506#/updates/all)  
-
-[Donate](#donation)  
-
-## Jan 22nd the First Hearing Session Report
-We had the first session with the Tokyo Labor Committee on Jan 22nd 2024.  
-We pointed out that it's illegal unfair treatment that the company refused collective bargaining without adequately explaining the layoffs conducted in March 2023. We also claimed that denying the union access to mailing lists and meeting room facilities — which are readily available to club activities without scrutiny — constitutes illegal discrimination against the union. This leads to a chilling effect where employees fear being targeted by the company for joining the union. Google Japan should rectify this damage done to the union.  
-Google Japan's answer file was minimal and basic. The Labor Commission has requested the company to submit specific factual claims by the next session.  
-The next session is scheduled for 10:30 AM JST on March 18th.  
-
-Date: March 18th, 2024  
-Time: 10:30 AM - 12:00 AM  
-Location:  
-Tokyo Metropolitan Government First Main Building  
-2-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo  
-South(S) Tower, 38th Floor  
-
-[Download Flyer](https://drive.google.com/file/d/1NLcXDZ_hqL2069xkywKIOo_aL3CoFE6A/view?usp=sharing)  
-[Indiegogo updates](https://www.indiegogo.com/projects/google-japan-transpalent-information-of-layoffs/x/35063506#/updates/all)  
-
-[Donate](#donation)  
-
-[日本語](index.md#122-第一回期日報告)  
-[Join us](#join-us)  
-[Back to Index](#index)  
+# Latest updates about the labor committee session
+The JMITU AU Branch filed a request for relief in November 2023 regarding the refusal to bargain collectively in May 2023, and is currently in dispute at the Tokyo Labor Committee. As of January 23, 2025, the case has reached a critical juncture, and we plan to conduct a hearing plan at the next hearing date and witness examination at the following one. We appreciate your support through attending the hearings.  
+The next hearing date is February 3, 2025, at 3:00 PM.  
+[Detail](labor_committee.md)  
 
 # Branch History
-JAU was formed in response to the workforce reductions that occurred in March 2023 in Japan. The branch was started when employees who were on maternity or childcare leave spoke out about their role eliminations and being encouraged to retire. Since then, the number of impacted Googlers in Japan has increased due to additional rounds of team restructurings. JAU’s priority has been focused on opposing illegal forced resignations, discrimination (including compensation reductions) and/or harassment of Googlers.
+JAU was formed in response to the workforce reductions that occurred in March 2023 in Japan. The branch was started when employees who were on maternity or childcare leave spoke out about their role eliminations and being encouraged to retire. Since then, the number of impacted Googlers in Japan has increased due to additional rounds of team restructurings. JAU’s priority has been focused on opposing illegal forced resignations, discrimination (including compensation reductions) and/or harassment of Googlers.  
+[Detail](policy_layoff_en.md)  
 
 # Join Us
 For a labor union, the number of union members directly translates into its strength. Anyone working for a company under Alphabet, regardless of employment type, is eligible to join. Growing and strengthening the union is the only way to communicate on equal terms with the company and win workers' rights. 
@@ -174,7 +80,7 @@ _If you use Stripe for payment and would like to cancel your monthly supporter s
 
 [Terms](https://drive.google.com/file/d/1NLcsS4uFP4KSxEBJJ3PFFu_z6J3UiDli/view?usp=drive_link)  
 
-[FAQs](join_questions.md)  
+[Membership FAQs](join_questions.md)  
 
 [日本語](index.md#加入の呼びかけ)  
 [Back to Index](#index)
@@ -188,7 +94,8 @@ An example of a labor consultation:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7ABgfu7WJdWtIzl5ZXs-NxC8rx88fQTSBhF6RpdqHl4jGIA/viewform?embedded=true" width="640" height="630" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>０
 
-[FAQs about layoff](resign_questions.md)  
+[MSA&PIP FAQs](resign_questions.md)  
+[Harassment FAQs](harassment_faq.md)  
 
 [日本語](index.md#労働相談)  
 [Join us](#join-us)  
@@ -222,7 +129,7 @@ Bank account
 [Back to Index](#index)
 
 ## Monthly Supporter
-Regular donations are predictable and can lead to significant financial support.  
+Union dues are set at the minimum necessary to maintain union activities so that people in various situations who need support can join. To enrich the union's financial resources and expand our activities more widely, we need income beyond union dues. Monthly supporters are the main support for the branch's finances. Please consider becoming one.  
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
@@ -248,6 +155,7 @@ If you are a JAU union member or monthly supporter and wish to cancel your month
 [Union policy against layoff](policy_layoff_jp.md)  
 [Letter from impacted mother on parental leave](letter_layoff_jp.md)  
 [Illigal judge from the Labor Bureau to Google](labor_bureau_layoff_en.md)
+[Past labor committee report](labor_committee.md)
 
 # External Resources
 ## Activity of our Branch
