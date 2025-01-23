@@ -78,6 +78,11 @@ _If you use Stripe for payment and would like to cancel your monthly supporter s
 
 > When feeling cornered and unsure of what to do, receiving support from a union can be incredibly reassuring and invaluable, beyond what words can express. When subjected to unfair and unjust treatment, you should not just endure it; instead, raise your voice and protest. Correcting these wrongful acts and environments will make our workplaces and society better. ---Seninbari
 
+## Leaving the Union
+If you are leaving the union due to reasons such as retirement, please submit a withdrawal notice and cancel your union dues payments.  
+[Withdrawal Form](https://forms.gle/STZKAnqPQ9jj78J96)  
+[Union Dues Payment Management](https://billing.stripe.com/p/login/dR6eXj8ts0zs53yeUU)  
+
 [Terms](https://drive.google.com/file/d/1NLcsS4uFP4KSxEBJJ3PFFu_z6J3UiDli/view?usp=drive_link)  
 
 [Membership FAQs](join_questions.md)  
