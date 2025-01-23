@@ -7,30 +7,38 @@ lang: "ja_JP"
 
 # 退職勧奨に関するQ&A
 
-## 退職勧奨の対象になりました。労働組合は何ができますか？
-## I've been targeted for a suggested resignation. What can the union do?
-退職勧奨の対象になった場合、心から退職の条件に喜んで納得できる場合を除き、サインをしないことが最も重要です。会社は様々な手段を使い、退職へのプレッシャーをかけます。Googleでは、説明をせず「あなたのロールはなくなった」と繰り返すことで、断った場合の報復の恐怖を想像させ、サインを促す手法が取られました。  
-退職勧奨は任意であり、断ることができるものです。退職勧奨を明確に断った人への繰り返しの退職勧奨や、退職勧奨を断ったことによる不利益な取り扱い、もしくは、不利益な取り扱いをされると誤解させる錯誤は、違法な退職強要にあたります。しかし、実際には、これらの違法行為はよく行われています。組合に加入し、会社に加入を知らせることで、これらの違法行為に対する抑止力になります。  
-個人で弁護士に依頼しても同様の抑止力が期待できますが、労働組合の方が専門性が高く、安価です。
-ご相談はこちらのメールアドレスにご連絡ください。 au.jmitu@gmail.com  
-If you become a target for suggested resignation, the most important thing, unless you genuinely and happily agree with the terms of the resignation, is not to sign anything. Companies will use various means to pressure you into resigning. At Google, a method was employed where they would repeatedly state "your role is gone" without explanation, inciting fear of retaliation if you refuse, to pressure you into signing.  
-The suggested resignation is voluntary, and you have the right to refuse it. Repeated suggestions of resignation to someone who has clearly refused, or unfavorable treatment due to refusing the suggested resignation, or causing a misunderstanding that such unfavorable treatment will occur, constitute illegal forced resignation. However, these illegal acts are commonly practiced. Joining a union and informing the company about your union membership can serve as a deterrent to these illegal actions.
-You can also hire a lawyer individually for the same deterrent effect, but unions offer a higher level of expertise at a lower cost.  
-Please contact us at this email address for consultation: au.jmitu@gmail.com
+## MSAを受け取りました。自分に許された選択肢を知りたいです。
+## I received MSA. I want to know all the options I have.
+日本では強制的な解雇には厳しい条件が設けられていて、今まで組合に相談された事例には強制的な解雇はひとつもありません。MSAは任意であり、断ることができるものです。退職勧奨を断った人への報復も違法とされています。これは、仕事を取り上げる過小な要求型ハラスメントや、計算式を逸脱した賞与の減額を含みます。  
+しかし、残念ながら、違法だからといって、会社が行わないわけではありません。組合に加入し、会社に加入を知らせることで、これらの違法行為に対する抑止力になります。今までのところロールがなくなった組合員は全員、適切な新しいロールを割り当てられ、満足しています。  
+ご相談はこちらのメールアドレスにご連絡ください。 au.jmitu@gmail.com   
+In Japan, strict conditions are imposed on forced dismissals, and among the cases consulted with the union, there has not been a single instance of forced dismissal. An MSA is voluntary and can be declined. Retaliation against individuals who refuse to accept voluntary retirement is also illegal. This includes harassment by assigning unreasonably low tasks or reducing bonuses beyond calculated formulas. However, unfortunately, the fact that these actions are illegal does not always prevent companies from engaging in them. Joining a union and notifying the company of your membership can serve as a deterrent to these illegal practices. So far, all union members who have lost their roles have been assigned appropriate new roles and are satisfied with them.
+
+For consultation, please contact us at this email address: au.jmitu@gmail.com
+
 
 [加入する](index.md#加入の呼びかけ)  [Join us](en.md#join-us)  
 
 [戻る](index.md#労働相談) [Back](en.md#labor-consultation)
 
-## 退職勧奨を断ったら何が起こりますか？
-## What happens if I refuse the suggested resignation?
-退職勧奨を断ったことを理由に不利益な取り扱いをすることは法律で禁止されています。しかし、実際のところは、様々な会社で違法な不利益な取り扱いが行われています。実際に、Googleでも退職勧奨を断った人の一部が配置転換をされたことがあります。過大な要求、過小な要求型のハラスメントが行われ、また、ボーナス、セールスボーナス、GSUも減額されています。こういった行為は、退職勧奨を断ったひとへの不利益取り扱いに該当し、違法です。このような状況に直面された方は、こちらのメールアドレスから組合にご相談ください。 au.jmitu@gmail.com  
-Unfavorable treatment for refusing a suggested resignation is legally prohibited. However, in reality, various companies engage in illegal adverse treatment. In fact, at Google, there have been instances where some individuals who refused a suggested resignation were transferred to different positions. They have faced harassment(too little demand/Imposition) and experienced reductions in bonuses, sales bonuses, and GSU. Such actions constitute unfair treatment towards those who declined suggestions to resign and are illegal. If you have faced such circumstances, please consult with the union via this email address:
-au.jmitu@gmail.com  
+## 組合でMSAの内容の交渉はできますか？
+## Can the union negotiate the MSA?
+日本では退職の条件に関する法律の保護はあまり強くありません。退職パッケージの増額の交渉は組合で行うことは難しいです。MSAの説明が違法で威圧的なもので、それによりあなたが経済的・精神的なダメージを受けた場合、内容によって、裁判を起こし損害賠償を請求するお手伝いをすることは可能ですが、多くの場合あまり高額にはなりません。会社に勤め続けるつもりがなくとも、退職パッケージの金額に納得がいかない場合は、MSAを断って会社に残り、ご自身に都合のいい納得のできるタイミングで自主的に退職をすることをオススメします。  
+In Japan, legal protections concerning retirement conditions are not very strong. Negotiating an increase in the retirement package through a union is challenging. If the explanation of the MSA (Mutual Separation Agreement) is illegal and coercive, and as a result, you suffer financial or mental harm, depending on the details, we can assist you in filing a lawsuit and seeking compensation. However, in many cases, the amount may not be substantial. Even if you do not intend to continue working at the company, if you are unsatisfied with the amount of the retirement package, it is recommended that you decline the MSA, stay with the company, and then resign voluntarily at a timing that is convenient and satisfactory for you.  
 
 [加入する](index.md#加入の呼びかけ)  [Join us](en.md#join-us)  
 
 [戻る](index.md#労働相談) [Back](en.md#labor-consultation)
+
+## ドキュメンテッドフィードバックを受け取りました/PIPが開始されました
+## I have received documented feedback/PIP started
+グーグルでのプロセスはドキュメンテッドフィードバック、PIP、MSA、解雇の順に進みます。日本での解雇の条件は厳しく、PIPの未達成だけでは解雇の理由として不十分ですが、会社は不当解雇を行った実例があります。不当解雇を予防するために、早めから組合に加入することをオススメします。面談は録音し、PIPの達成条件や達成記録のコピーを残してください。 
+The process at Google proceeds in the order of documented feedback, PIP, MSA, and termination. In Japan, the conditions for termination are strict, and simply failing a PIP is not a sufficient reason for dismissal. However, there have been cases where Google Japan has carried out unfair dismissals. To prevent unfair dismissal, it is recommended to join a union early. Record meetings and keep copies of PIP achievement conditions and achievement records.  
+
+[加入する](index.md#加入の呼びかけ)  [Join us](en.md#join-us)  
+
+[戻る](index.md#労働相談) [Back](en.md#labor-consultation)
+
 
 ## 裁判はどのぐらいの時間、費用がかかりますか？
 ## How much and how long does a trial cost?
@@ -46,14 +54,12 @@ In either case, it is important to quickly express to the company your intent to
 
 [戻る](index.md#労働相談) [Back](en.md#labor-consultation)
 
-## 退職勧奨を断ったら左遷されました。労働組合は何ができますか？
-## I was demoted after refusing a suggested resignation. What can the union do?
-団体交渉と、救済申し立てを並行して進めていくことで、会社の逃げ場をなくし、証拠を提出させ、矛盾を指摘して、ハラスメントを止めさせます。
-会社には労働組合の要求に誠実に応じる義務があります。会社がこのルールを破り違法に労働組合を軽視した場合に行えるものが、救済申し立てです。私たちは2023年11月に救済申し立てを開始しました。救済申し立てで圧力をかけ、会社に法を守らせ、団体交渉でハラスメント行為の正当性を説明をさせて、矛盾を指摘します。必要に応じて、労働局、労働基準監督署、裁判などの第三者機関の利用も検討し、組合もサポートします。詳しくは[こちらの活動報告レポート](https://alphabet-union-jp.github.io/#19-2023%E5%B9%B4au%E6%94%AF%E9%83%A8%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A%E4%BC%9A)をご覧ください。
-私達は、当事者の個別の選択を尊重し、その範囲でできる限りの支援をします。ご相談はこちらのメールアドレスにご連絡ください。 au.jmitu@gmail.com  
-By concurrently pursuing collective bargaining and relief petitions, we aim to eliminate any escape routes for the company, compel them to submit evidence, highlight inconsistencies, and ultimately stop harassment. Companies have an obligation to sincerely respond to the demands of labor unions. If a company breaks this rule and illegally disregards the union, a relief petition can be filed. We initiated such a petition in November 2023. Through the petition, we exert pressure on the company to adhere to the law, force them to justify their harassment actions in collective bargaining, and point out contradictions. When necessary, we also consider involving third-party institutions such as the Labor Bureau, the Labor Standards Inspection Office, or taking legal action, with the support of the union. For more details, please see [our activity report](https://alphabet-union-jp.github.io/en.html#jan-9th-au-branch-2023-activity-report).  
-We respect the individual choices of those involved and provide as much support as possible within that range. Please contact us at the following email address for consultation. au.jmitu@gmail.com  
-
+## 退職勧奨を受ける以前からハラスメントを受けていました。ハラスメントの結果の退職勧奨であり、元のチームが安全と思えません
+## I was experiencing harassment even before receiving MSA. This MSA is a result of the harassment, and I do not feel safe returning to my original team.
+退職勧奨以前から行われているハラスメントは別の問題として取り扱われ、退職勧奨後のハラスメントを違法と主張することは難しいです。会社に意向を伝えることは可能ですが、基本的には別々の2つの問題として、ハラスメントにはハラスメントとしての対処をするものと考えるべきです。[ハラスメントQ&A](harassment_faq.md)もご参照ください。  
+Harassment that took place before the retirement recommendation is treated as a separate issue, and it is difficult to claim that harassment after the recommendation is illegal. While it is possible to communicate your concerns to the company, it is generally best to consider them as two separate issues and address the harassment specifically as harassment. Please refer to [harassment FAQ](harassment_faq.md)  
+ 
 [加入する](index.md#加入の呼びかけ)  [Join us](en.md#join-us)  
 
 [戻る](index.md#労働相談) [Back](en.md#labor-consultation)
+
